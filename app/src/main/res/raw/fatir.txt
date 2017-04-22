@@ -1,0 +1,90 @@
+35|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+35|2|مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍۢ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+35|3|يَٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ
+35|4|وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+35|5|يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۖ وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
+35|6|إِنَّ ٱلشَّيْطَٰنَ لَكُمْ عَدُوٌّۭ فَٱتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَٰبِ ٱلسَّعِيرِ
+35|7|ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌ
+35|8|أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنًۭا ۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَصْنَعُونَ
+35|9|وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًۭا فَسُقْنَٰهُ إِلَىٰ بَلَدٍۢ مَّيِّتٍۢ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ ٱلنُّشُورُ
+35|10|مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ
+35|11|وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ جَعَلَكُمْ أَزْوَٰجًۭا ۚ وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍۢ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ
+35|12|وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌۭ فُرَاتٌۭ سَآئِغٌۭ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌۭ ۖ وَمِن كُلٍّۢ تَأْكُلُونَ لَحْمًۭا طَرِيًّۭا وَتَسْتَخْرِجُونَ حِلْيَةًۭ تَلْبَسُونَهَا ۖ وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+35|13|يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّۭى ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۚ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
+35|14|إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍۢ
+35|15|۞ يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ ۖ وَٱللَّهُ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+35|16|إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍۢ جَدِيدٍۢ
+35|17|وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍۢ
+35|18|وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَلَوْ كَانَ ذَا قُرْبَىٰٓ ۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ ۚ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+35|19|وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ
+35|20|وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ
+35|21|وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ
+35|22|وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍۢ مَّن فِى ٱلْقُبُورِ
+35|23|إِنْ أَنتَ إِلَّا نَذِيرٌ
+35|24|إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ
+35|25|وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلْكِتَٰبِ ٱلْمُنِيرِ
+35|26|ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ
+35|27|أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍۢ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌۭ وَحُمْرٌۭ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌۭ
+35|28|وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
+35|29|إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ يَرْجُونَ تِجَٰرَةًۭ لَّن تَبُورَ
+35|30|لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ ۚ إِنَّهُۥ غَفُورٌۭ شَكُورٌۭ
+35|31|وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ مِنَ ٱلْكِتَٰبِ هُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ ۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرٌۢ بَصِيرٌۭ
+35|32|ثُمَّ أَوْرَثْنَا ٱلْكِتَٰبَ ٱلَّذِينَ ٱصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌۭ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌۭ وَمِنْهُمْ سَابِقٌۢ بِٱلْخَيْرَٰتِ بِإِذْنِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
+35|33|جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَلُؤْلُؤًۭا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌۭ
+35|34|وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ
+35|35|ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌۭ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌۭ
+35|36|وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ
+35|37|وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
+35|38|إِنَّ ٱللَّهَ عَٰلِمُ غَيْبِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+35|39|هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا
+35|40|قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
+35|41|۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍۢ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًۭا
+35|42|وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌۭ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ ۖ فَلَمَّا جَآءَهُمْ نَذِيرٌۭ مَّا زَادَهُمْ إِلَّا نُفُورًا
+35|43|ٱسْتِكْبَارًۭا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًۭا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
+35|44|أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ ۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ عَلِيمًۭا قَدِيرًۭا
+35|45|وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍۢ وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۖ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا
+35|1|ALL PRAISE is due to God, Originator of the heavens and the earth, who causes the angels to be (His) message-bearers, endowed with wings, two, or three, or four.
+35|2|Whatever grace God opens up to man, none can withhold it; and whatever He withholds, none can henceforth release: for He alone is almighty, truly wise.
+35|3|O men! Call to mind the blessings which God has bestowed upon you! Is there any creator, other than God, that could provide for you sustenance out of heaven and earth?
+35|4|But if they [whose minds are perverted] give thee the lie, [O Prophet, remember that] even so, before thy time, have [other] apostles been given the lie: for [the unbelievers always refuse to admit that] all things go back to God [as their source].
+35|5|O men! Verily, God’s promise [of resurrection] is true indeed: let not, then, the life of this world delude you, and let not [your own] deceptive thoughts about God delude you!
+35|6|Behold, Satan is a foe unto you: so treat him as a foe. He but calls on his followers to the end that they might find themselves among such as are des&shy;tined for the blazing flame –
+35|7|[seeing that] for those who are bent on denying the truth there is suffering severe in store, just as for those who have attained to faith and do righteous deeds there is forgiveness of sins, and a great reward.
+35|8|Is, then, he to whom the evil of his own doings is [so] alluring that [in the end] he regards it as good [anything but a follower of Satan]? For, verily, God lets go astray him that wills [to go astray], just as He guides him that wills [to be guided].     Hence, [O believer,] do not waste thyself in sorrowing over them: verily, God has full knowledge of all that they do!
+35|9|AND [remember:] it is God who sends forth the winds, so that they raise a cloud, whereupon We drive it towards dead land and thereby give life to the earth after it had been lifeless: even thus shall resur&shy;rection be!
+35|10|He who desires might and glory [ought to know that] all might and glory belong to God [alone]. Unto Him ascend all good words, and the righteous deed does He exalt. But as for those who cunningly devise evil deeds - suffering severe awaits them; and all their devising is bound to come to nought.
+35|11|And [remember:] God creates [every one of] you out of dust,     And no female conceives or gives birth unless it be with His knowledge; and none that is long-lived has his days lengthened - and neither is aught lessened of his days - unless it be thus laid down in [God’s] decree: for, behold, all this is easy for God.
+35|12|[Easy is it for Him to create likeness and variety:]     the one sweet, thirst-allaying, pleasant to drink, and the other salty and bitter: and yet, from either of them do you eat fresh meat, and [from either] you take gems which you may wear; and on either thou canst see ships ploughing through the waves, so that you might [be able to] go forth in quest of some of His bounty, and thus have cause to be grateful.
+35|13|He makes the night grow longer by shortening the day, and He makes the day grow longer by shortening the night; and He has made the sun and the moon subservient [to His laws], each running its course for a term set [by Him].     Thus is God, your Sustainer: unto Him belongs all dominion - whereas those whom you invoke instead of Him do not own so much as the husk of a date-stone!
+35|14|If you invoke them, they do not hear your call; and even if they could hear, they would not [be able to] respond to you. And [withal,] on the Day of Resurrection they will utterly disown your having associated them with God.     And none can make thee understand [the truth] like the One who is all-aware.
+35|15|O men! It is you, who stand in need of God, whereas He alone is self-sufficient, the One to whom all praise is due.
+35|16|If He so wills, He can do away with you and bring forth a new mankind [in your stead]:
+35|17|nor is this difficult for God.
+35|18|AND NO BEARER of burdens shall be made to bear another’s burden;     and are constant in prayer, and [know that] whoever grows in purity, attains to purity but for the good of his own self, and [that] with God is all journeys’ end.
+35|19|For [thus it is:] the blind and the seeing are not equal;
+35|20|nor are the depths of darkness and the light;
+35|21|nor the [cooling] shade and the scorching heat:
+35|22|and neither are equal the living and the dead [of heart]. Behold, [O Muhammad,] God can make hear whomever He wills, whereas thou canst not make hear such as are [dead of heart like the dead] in their graves:
+35|23|thou art nothing but a warner.
+35|24|Verily, We have sent thee with the truth, as a bearer of glad tidings and a warner: for there never was any community but a warner has [lived and] passed away in its midst.
+35|25|And if they give thee the lie - even so gave the lie to the truth [many of] those who lived before their time, [when] there came unto them their apostles with all evidence of the truth, and with books of divine wisdom, and with light-giving revelation;
+35|26|[but] in the end I took to task all those who were bent on denying the truth: and how awesome was My rejection!
+35|27|ART THOU NOT aware that God sends down water from the skies, whereby We bring forth fruits of many hues - just as in the mountains there are streaks of white and red of various shades, as well as (others) raven-black,
+35|28|and (as) there are in men, and in crawling beasts, and in cattle, too, many hues?     [for they alone comprehend that,] verily, God is almighty, much-forgiving.
+35|29|(It is) they who [truly] follow God’s revelation, and are constant in prayer, and spend on others, secretly and openly, out of what We provide for them as sustenance - it is they who may look forward to a bargain that can never fail,
+35|30|since He will grant them their just rewards, and give them yet more out of His bounty: for, verily, He is much-forgiving, ever-responsive to gratitude.
+35|31|And [know that] all of the divine writ with which We have inspired thee is the very truth, confirming the truth of whatever there still remains of earlier revelations     for, behold, of [the needs of] His servants God is fully aware, all-seeing.
+35|32|And so, We have bestowed this divine writ as a heritage unto such of Our servants as We chose: and among them are some who sin against themselves; and some who keep half-way [between right and wrong];     and some who, by God’s leave, are fore&shy;most in deeds of goodness: [and] this, indeed, is a merit most high!
+35|33|[Hence,] gardens of perpetual bliss will they enter, therein to be adorned with bracelets of gold and pearls, and therein to be clad in raiments of silk;
+35|34|and they will say: “All praise is due to God, who has caused all sorrow to leave us: for, verily, our Sustainer is indeed much-forgiving, ever-responsive to gratitude –
+35|35|He who, out of His bounty, has made us alight in this abode of life enduring, wherein no struggle can assail us, and wherein no weariness can touch us!”
+35|36|But as for those who are bent on denying the truth - the fire of hell awaits them: no end shall be put to their lives so that they could die, nor shall aught of  the suffering caused by that [fire] be lightened for them: thus shall We requite all who are bereft of gratitude.
+35|37|And in that [hell] they will cry aloud: “O our Sustainer! Cause us to come out [of this suffering]! We shall [henceforth] do good deeds, not such as we were wont to do [aforetime]!” [But We shall answer:] “Did We not grant you a life long enough so that whoever was willing to take thought could bethink himself? And [withal,] a war&shy;ner had come unto you! Taste, then, [the fruit of your evil deeds]: for evildoers shall have none to succour them!”
+35|38|Verily, God knows the hidden reality of the heavens and the earth: [and,] behold, He has full knowledge of what is in the hearts [of men].
+35|39|He it is who has made you inherit the earth.     Hence, he who is bent on denying the truth [of God’s oneness and uniqueness ought to know that] this denial of his will fall back upon him: for their [per&shy;sistent] denial of this truth does but add to the deniers’ loathsomeness in their Sustainer’s sight and, thus, their denial of this truth does but add to the deniers’ loss.
+35|40|Say: “Have you ever [really] considered those beings and forces to whom you ascribe a share in God’s divinity,
+35|41|Verily, it is God [alone] who upholds the celestial bodies
+35|42|As it is, they [who are averse to the truth often] swear by God with their most solemn oaths that if a warner should ever come to them, they would follow his guidance better than any of the communities [of old had followed the warner sent to them]:     but now that a warner has come unto them, [his call] but increases their aversion,
+35|43|their arro&shy;gant behaviour on earth, and their devising of evil [arguments against God’s messages].     Thus [it is]: no change wilt thou ever find in God’s way; yea, no deviation wilt thou ever find in God’s way!
+35|44|Have they never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time and were [so much] greater than they in power? And [do they not see that the will of] God can never be foiled by anything whatever in the heavens or on earth, since, verily, He is all-knowing, infinite in His power?
+35|45|Now if God were to take men [at once] to task for whatever [wrong] they commit [on earth], He would not leave a single living creature upon its surface. However, He grants them respite for a term set [by Him]:     but when their term comes to an end - then, verily, [they come to know that] God sees all that is in [the hearts of] His servants.

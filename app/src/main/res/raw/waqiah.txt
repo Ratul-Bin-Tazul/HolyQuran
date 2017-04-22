@@ -1,0 +1,192 @@
+56|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ
+56|2|لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
+56|3|خَافِضَةٌۭ رَّافِعَةٌ
+56|4|إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا
+56|5|وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا
+56|6|فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا
+56|7|وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ
+56|8|فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+56|9|وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ
+56|10|وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ
+56|11|أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ
+56|12|فِى جَنَّٰتِ ٱلنَّعِيمِ
+56|13|ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ
+56|14|وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ
+56|15|عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ
+56|16|مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ
+56|17|يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ
+56|18|بِأَكْوَابٍۢ وَأَبَارِيقَ وَكَأْسٍۢ مِّن مَّعِينٍۢ
+56|19|لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
+56|20|وَفَٰكِهَةٍۢ مِّمَّا يَتَخَيَّرُونَ
+56|21|وَلَحْمِ طَيْرٍۢ مِّمَّا يَشْتَهُونَ
+56|22|وَحُورٌ عِينٌۭ
+56|23|كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
+56|24|جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
+56|25|لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا
+56|26|إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا
+56|27|وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ
+56|28|فِى سِدْرٍۢ مَّخْضُودٍۢ
+56|29|وَطَلْحٍۢ مَّنضُودٍۢ
+56|30|وَظِلٍّۢ مَّمْدُودٍۢ
+56|31|وَمَآءٍۢ مَّسْكُوبٍۢ
+56|32|وَفَٰكِهَةٍۢ كَثِيرَةٍۢ
+56|33|لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ
+56|34|وَفُرُشٍۢ مَّرْفُوعَةٍ
+56|35|إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءًۭ
+56|36|فَجَعَلْنَٰهُنَّ أَبْكَارًا
+56|37|عُرُبًا أَتْرَابًۭا
+56|38|لِّأَصْحَٰبِ ٱلْيَمِينِ
+56|39|ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ
+56|40|وَثُلَّةٌۭ مِّنَ ٱلْءَاخِرِينَ
+56|41|وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ
+56|42|فِى سَمُومٍۢ وَحَمِيمٍۢ
+56|43|وَظِلٍّۢ مِّن يَحْمُومٍۢ
+56|44|لَّا بَارِدٍۢ وَلَا كَرِيمٍ
+56|45|إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ
+56|46|وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ
+56|47|وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
+56|48|أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
+56|49|قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ
+56|50|لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ
+56|51|ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ
+56|52|لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ
+56|53|فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+56|54|فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ
+56|55|فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ
+56|56|هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ
+56|57|نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ
+56|58|أَفَرَءَيْتُم مَّا تُمْنُونَ
+56|59|ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ
+56|60|نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ
+56|61|عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ
+56|62|وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ
+56|63|أَفَرَءَيْتُم مَّا تَحْرُثُونَ
+56|64|ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ
+56|65|لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ
+56|66|إِنَّا لَمُغْرَمُونَ
+56|67|بَلْ نَحْنُ مَحْرُومُونَ
+56|68|أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
+56|69|ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ
+56|70|لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ
+56|71|أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+56|72|ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+56|73|نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ
+56|74|فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
+56|75|۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ
+56|76|وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ
+56|77|إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ
+56|78|فِى كِتَٰبٍۢ مَّكْنُونٍۢ
+56|79|لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ
+56|80|تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+56|81|أَفَبِهَٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ
+56|82|وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ
+56|83|فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ
+56|84|وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ
+56|85|وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ
+56|86|فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ
+56|87|تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ
+56|88|فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ
+56|89|فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ
+56|90|وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ
+56|91|فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ
+56|92|وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ
+56|93|فَنُزُلٌۭ مِّنْ حَمِيمٍۢ
+56|94|وَتَصْلِيَةُ جَحِيمٍ
+56|95|إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ
+56|96|فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
+56|1|WHEN THAT which must come to pass     [at last] comes to pass,
+56|2|there will be nought that could give the lie to its having come to pass,
+56|3|abasing [some], exalting [others]!
+56|4|When the earth is shaken with a shaking [severe],
+56|5|and the mountains are shattered into [countless] shards,
+56|6|so that they become as scat&shy;tered dust –
+56|7|[on that Day,] then, shall you be [divided into] three kinds.
+56|8|Thus, there shall be such as will have attained to what is right:     oh, how [happy] will be they who have attained to what is right!
+56|9|And there shall be such as will have lost them&shy;selves in evil: oh, how [unhappy] will be they who have lost themselves in evil!
+56|10|But the foremost shall be [they who in life were] the foremost [in faith and good works]:
+56|11|they who were [always] drawn close unto God!
+56|12|In gardens of bliss [will they dwell] -
+56|13|a good many of those of olden times,
+56|14|but [only] a few of later times.
+56|15|[They will be seated] on gold-encrusted thrones of happiness,
+56|16|reclining upon them, facing one another [in love].
+56|17|Immortal youths will wait upon them
+56|18|with goblets, and ewers, and cups filled with water from unsullied springs
+56|19|by which their minds will not be clouded and which will not make them drunk;
+56|20|and with fruit of any kind that they may choose,
+56|21|and with the flesh of any fowl that they may desire.
+56|22|And [with them will be their] companions pure, most beautiful of eye,
+56|23|like unto pearls [still] hidden in their shells.
+56|24|[And this will be] a reward for what they did [in life].
+56|25|No empty talk will they hear there, nor any call to sin,
+56|26|but only the tiding of inner soundness and peace.
+56|27|NOW AS FOR those who have attained to righteous&shy;ness - what of those who have attained to righteous&shy;ness?
+56|28|[They, too, will find themselves] amidst fruit- laden lote-trees,
+56|29|and acacias flower-clad,
+56|30|and shade extended,
+56|31|and waters gushing,
+56|32|and fruit abounding,
+56|33|never-failing and never out of reach.
+56|34|And [with them will be their] spouses, raised high:
+56|35|for, behold, We shall have brought them into being in a life renewed,
+56|36|having resurrected them as virgins,
+56|37|full of love, well-matched
+56|38|with those who have attained to righteousness:
+56|39|a good many of olden times,
+56|40|and a good many of later times.
+56|41|BUT AS FOR those who have persevered in evil - what of those who have persevered in evil?
+56|42|[They will find themselves] in the midst of scorching winds, and burning despair,
+56|43|and the shadows of black smoke -
+56|44|[shadows] neither cooling nor soothing.
+56|45|For, behold, in times gone by they were wont to abandon themselves wholly to the pursuit of pleasures,
+56|46|and would persist in heinous sinning,
+56|47|and would say, “What! After we have died and become mere dust and bones, shall we, forsooth, be raised from the dead? -
+56|48|and perhaps, too, our forebears of old?”
+56|49|Say: “Verily, those of olden times and those of later times
+56|50|will indeed be gathered together at an appointed time on a Day known [only to God]:
+56|51|and then, verily, O you who have gone astray and called the truth a lie,
+56|52|you will indeed have to taste of the tree of deadly fruit,
+56|53|and will have to fill your bellies therewith,
+56|54|and will thereupon have to drink [many a draught] of burning despair -
+56|55|drink it as the most insatiably thirsty camels drink!”
+56|56|Such will be their welcome on Judgment Day!
+56|57|WE who have created you, [O men:] why, then, do you not accept the truth?
+56|58|Have you ever considered that [seed] which you emit?
+56|59|Is it you who create it - or are We the source of its creation?
+56|60|We have [indeed] decreed that death shall be [ever-present] among you: but there is nothing to prevent Us
+56|61|from changing the nature of your existence      and bringing you into being [anew] in a manner [as yet] unknown to you.
+56|62|And [since] you are indeed aware of the [miracle of your] coming into being in the first instance - why, then, do you not bethink yourselves [of Us]?
+56|63|Have you ever considered the seed which you cast upon the soil?
+56|64|Is it you who cause it to grow - or are We the cause of its growth?
+56|65|[For,] were it Our will, We could indeed turn it into chaff, and you would be left to wonder [and to lament],
+56|66|“Verily, we are ruined!
+56|67|Nay, but we have been deprived [of our livelihood]!”
+56|68|Have you ever considered the water which you drink?
+56|69|Is it you who cause it to come down from the clouds - or are We the cause of its coming down?
+56|70|[It comes down sweet - but] were it Our will, We could make it burningly salty and bitter: why, then, do you not give thanks [unto Us]?
+56|71|Have you ever considered the fire which you kindle?
+56|72|Is it you who have brought into being the tree that serves as its fuel     - or are We the cause of its coming into being?
+56|73|It is We who have made it a means to remind [you of Us],
+56|74|Extol, then, the limitless glory of thy Sus&shy;tainer’s mighty name!
+56|75|NAY, I call to witness the coming-down in parts [of this Qur’an]
+56|76|and, behold, this is indeed a most solemn affirmation, if you but knew it!
+56|77|Behold, it is a truly noble discourse,
+56|78|[conveyed unto man] in a well-guarded divine writ
+56|79|which none but the pure [of heart] can touch:
+56|80|a revelation from the Sustainer of all the worlds!
+56|81|Would you, now, look down with disdain on a tiding like this,
+56|82|and make it your daily bread [as it were] to call the truth a lie?
+56|83|Why, then,     when [the last breath] comes up to the throat [of a dying man],
+56|84|the while you are [helplessly] looking on -
+56|85|and while We are closer to him than you, although you see [Us] not -:
+56|86|why, then, if [you think that] you are not truly dependent [on Us],
+56|87|can you not cause that [ebbing life] to return - if what you claim is true?
+56|88|[ALL OF YOU are destined to die.] Now if one happens to be of those who are drawn close unto God,
+56|89|happiness [awaits him in the life to come], and inner fulfillment, and a garden of bliss.
+56|90|And if one happens to be of those who have attained to righteousness,
+56|91|[he, too, will be wel&shy;comed into paradise with the words,] “Peace be unto thee [that art] of those who have attained to right&shy;eousness!”
+56|92|But if one happens to be of those who are wont to call the truth a lie, and [thus] go astray,
+56|93|a welcome of burning despair [awaits him in the life to come,]
+56|94|and the heat of a blazing fire!
+56|95|Verily, this is indeed the truth of truths!
+56|96|Extol, then, the limitless glory of thy Sus&shy;tainer’s mighty name!

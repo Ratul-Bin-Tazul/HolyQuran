@@ -1,0 +1,60 @@
+67|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
+67|2|ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
+67|3|ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍۢ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ
+67|4|ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًۭا وَهُوَ حَسِيرٌۭ
+67|5|وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًۭا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
+67|6|وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ
+67|7|إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ
+67|8|تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ
+67|9|قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ
+67|10|وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ
+67|11|فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًۭا لِّأَصْحَٰبِ ٱلسَّعِيرِ
+67|12|إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ
+67|13|وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+67|14|أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
+67|15|هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًۭا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ
+67|16|ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ
+67|17|أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًۭا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+67|18|وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+67|19|أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍۢ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+67|20|أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌۭ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ
+67|21|أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّۢ وَنُفُورٍ
+67|22|أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
+67|23|قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ
+67|24|قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+67|25|وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
+67|26|قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌۭ
+67|27|فَلَمَّا رَأَوْهُ زُلْفَةًۭ سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
+67|28|قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍۢ
+67|29|قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
+67|30|قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ
+67|1|HALLOWED be He in whose hand all dominion rests, since He has the power to will anything:
+67|2|He who has created death as well as life,     so that He might put you to a test [and thus show] which of you is best in conduct, and [make you realize that] He alone is almighty, truly forgiving.
+67|3|[Hallowed be] He who has created seven heavens in full harmony with one another:     no fault will thou see in the creation of the Most Gracious. And turn thy vision [upon it] once more: canst thou see any flaw?
+67|4|Yea, turn thy vision [upon it] again and yet again: [and every time] thy vision will fall back upon thee, dazzled and truly defeated….
+67|5|And, indeed, We have adorned the skies nearest to the earth with lights,     and for them have We readied suffering through a blazing flame –
+67|6|for, suffering in hell awaits all who are [thus] bent on blaspheming against their Sustainer:     and how vile a journey's end!
+67|7|When they are cast into that [hell], they will hear its breath indrawing as it boils up,
+67|8|well-nigh bursting with fury; [and] every time a host [of such sinners] is flung into it, its keepers will ask them, "Has no warner ever come to you?"
+67|9|They will reply: "Yea, a warner did indeed come unto us, but we gave him the lie and said, 'Never has God sent down anything [by way of revelation]! You [self-styled warners] are but lost in a great delusion!"'
+67|10|And they will add: "Had we but listened [to those warnings], or [at least] used our own reason, we would not [now] be among those who are destined for the blazing flame!"
+67|11|Thus will they come to realize their sins: but [by that time,] remote will have become all good from those who are destined for the blazing flame.
+67|12|[As against this,] behold, for those who stand in awe of God although He is beyond the reach of their perception,     there is forgiveness in store and a great reward.
+67|13|AND [know, O men, that] whether you keep your beliefs
+67|14|How could it be that He who has created [all] should not know [all]?
+67|15|He it is who has made the earth easy to live upon:     go about, then, in all its regions, and partake the sustenance which He provides: but [always bear in mind that] unto Him you shall be resurrected.
+67|16|Can you ever feel secure that He who is in heaven     will not cause the earth to swallow you up when, lo and behold, it begins to quake?
+67|17|Or can you ever feel secure that He who is in heaven will not let loose against you a deadly stormwind,     whereupon you would come to know how [true] My warning was?
+67|18|And, indeed, [many of] those who lived aforetime     did give the lie [to My warnings]: and how awesome was My rejection [of them]!
+67|19|Have they, then, never beheld the birds above them, spreading their wings and drawing them in? None but the Most Gracious upholds them: for, verily, He keeps all things in His sight.
+67|20|[And] is there any, besides the Most Gracious, that could be a shield     for you, and could succour you [against danger]? They who deny this truth are but lost in self- delusion!
+67|21|Or is there any that could provide you with sustenance if He should withhold His provision [from you]? Nay, but they [who are bent on denying the truth] stubbornly persist in their disdain [of God's messages] and in their headlong flight [from Him]!
+67|22|But then, is he that goes along with his face close to the ground     better guided than he that walks upright on a straight way?
+67|23|SAY: "[God is] He who has brought you [all] into being, and has endowed you with hearing, and sight, and hearts:     [yet] how seldom are you grateful!"
+67|24|Say: "It is He who has multiplied you on earth; and it is unto Him that you shall be gathered [on resurrection]."
+67|25|But they [only] ask, "When is this promise to be fulfilled? [Answer this, O you who believe in it,] if you are men of truth!"
+67|26|Say thou, [O Prophet:] "Knowledge thereof rests with God alone; and I am only a plain warner."
+67|27|Yet in the end, when they shall see that [fulfilment] close at hand, the faces of those who were bent on denying the truth will be stricken with grief; and they will be told, "This it is that you were [so derisively] calling for!"
+67|28|SAY [O Prophet]: "What do you think? Whether God destroys me and those who follow me, or graces us with His mercy     - is there anyone that could protect [you] deniers of the truth from grievous suffering [in the life to come]?"
+67|29|Say: "He is the Most Gracious: we have attained to faith in Him, and in Him have we placed our trust; and in time you will come to know which of us was lost in manifest error."
+67|30|Say [unto those who deny the truth]: "What do you think? If of a sudden all your water were to vanish underground, who [but God] could provide you with water from [new] unsullied springs?"

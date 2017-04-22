@@ -1,0 +1,106 @@
+42|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ
+42|2|عٓسٓقٓ
+42|3|كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
+42|4|لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+42|5|تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+42|6|وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍۢ
+42|7|وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّۭا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌۭ فِى ٱلْجَنَّةِ وَفَرِيقٌۭ فِى ٱلسَّعِيرِ
+42|8|وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةًۭ وَٰحِدَةًۭ وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّۢ وَلَا نَصِيرٍ
+42|9|أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+42|10|وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
+42|11|فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًۭا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌۭ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+42|12|لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌۭ
+42|13|۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًۭا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
+42|14|وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ
+42|15|فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍۢ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
+42|16|وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌۭ وَلَهُمْ عَذَابٌۭ شَدِيدٌ
+42|17|ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌۭ
+42|18|يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ
+42|19|ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
+42|20|مَن كَانَ يُرِيدُ حَرْثَ ٱلْءَاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِن نَّصِيبٍ
+42|21|أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ
+42|22|تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
+42|23|ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةًۭ نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ شَكُورٌ
+42|24|أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+42|25|وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
+42|26|وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌۭ شَدِيدٌۭ
+42|27|۞ وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍۢ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌۭ
+42|28|وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
+42|29|وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍۢ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌۭ
+42|30|وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٍۢ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍۢ
+42|31|وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ
+42|32|وَمِنْ ءَايَٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ
+42|33|إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍ
+42|34|أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍۢ
+42|35|وَيَعْلَمَ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِنَا مَا لَهُم مِّن مَّحِيصٍۢ
+42|36|فَمَآ أُوتِيتُم مِّن شَىْءٍۢ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
+42|37|وَٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ
+42|38|وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
+42|39|وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ
+42|40|وَجَزَٰٓؤُا۟ سَيِّئَةٍۢ سَيِّئَةٌۭ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+42|41|وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ
+42|42|إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ
+42|43|وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
+42|44|وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ
+42|45|وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ
+42|46|وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
+42|47|ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍۢ يَوْمَئِذٍۢ وَمَا لَكُم مِّن نَّكِيرٍۢ
+42|48|فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةًۭ فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَٰنَ كَفُورٌۭ
+42|49|لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ إِنَٰثًۭا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ
+42|50|أَوْ يُزَوِّجُهُمْ ذُكْرَانًۭا وَإِنَٰثًۭا ۖ وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا ۚ إِنَّهُۥ عَلِيمٌۭ قَدِيرٌۭ
+42|51|۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًۭا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ ۚ إِنَّهُۥ عَلِىٌّ حَكِيمٌۭ
+42|52|وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًۭا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًۭا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
+42|53|صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ
+42|1|Ha. Mim.
+42|2|Ayn. Sin. Qaf.
+42|3|THUS has God, the Almighty, the Wise, revealed [the truth] unto thee, [O Muhammad,] and unto those who preceded thee:
+42|4|His is all that is in the heavens and all that is on earth; and most exalted, tremendous is He.
+42|5|The uppermost heavens are well-nigh rent asunder [for awe of Him]; and the angels extol their Sustainer’s limitless glory and praise, and ask for&shy;giveness for all who are on earth.     Oh, verily, God alone is truly-forgiving, a dispenser of grace!
+42|6|NOW AS FOR those who take aught beside Him for their protectors - God watches them, and thou art not responsible for their conduct.
+42|7|[Thou art but entrusted with Our message:] and so We have revealed unto thee a discourse in the Arabic tongue     to wit, warn [them] of the Day of the Gathering, [the coming of] which is beyond all doubt: [the Day when] some shall find themselves in paradise, and some in the blazing flame.
+42|8|Now had God so willed, He could surely have made them all one single community:     whereas the evildoers shall have none to protect them and none to succour them [on Judgment Day].
+42|9|Did they, perchance, [think that they could] choose protectors other than Him? But God alone is the Protector [of all that exists], since it is He alone who brings the dead to life, and He alone who has the power to will anything.
+42|10|AND ON WHATEVER you may differ, [O believers,] the verdict thereon rests with God.     [Say, therefore:] “Such is God, my Sustainer: in Him have I placed my trust, and unto Him do I always turn!”
+42|11|The Originator [is He] of the heavens and the earth. He has given you mates of your own kind
+42|12|His are the keys of the heavens and the earth: He grants abundant sustenance, or gives it in scant measure, unto whomever He wills: for, behold, He has full knowledge of everything.
+42|13|In matters of faith,     [And even though] that [unity of faith] to which thou callest them appears oppressive to those who are wont to ascribe to other beings or forces a share in His divinity, God draws unto Himself everyone who is willing, and guides unto Himself everyone who turns unto Him.
+42|14|And [as for the followers of earlier revelation,] they broke up their unity, out of mutual jealousy, only after they had come to know [the truth].
+42|15|Because of this, then,     God is our Sustainer as well as your Sustainer. To us shall be accounted our deeds, and to you, your deeds. Let there be no contention between us and you: God will bring us all together - for with Him is all journeys’ end.”
+42|16|And as for those who would [still] argue about God     after He has been acknowledged [by them] all their arguments are null and void in their Sustainer’s sight, and upon them will fall [His] condemnation, and for them is suffering severe in store:
+42|17|[for] it is God [Himself] who has bestowed revelation from on high, setting forth the truth, and [thus given man] a balance [wherewith to weigh right and wrong].     And for all thou knowest, the Last Hour may well be near!
+42|18|Those who do not believe in it [mockingly] ask for its speedy advent     whereas those who have attained to faith stand in awe of it, and know it to be the truth. Oh, verily, they who call the Last Hour in question have indeed gone far astray!
+42|19|GOD is most kind unto His creatures: He provides sustenance for whomever He wills - for He alone is powerful, almighty!
+42|20|To him who desires a harvest in the life to come, We shall grant an increase in his harvest; whereas to him who desires [but] a harvest in this world, We [may] give something thereof - but he will have no share in [the blessings of] the life to come.
+42|21|Is it that they [who care for no more than this world] believe in forces supposed to have a share in God’s divinity,     but, verily, grievous suffering awaits the evildoers [in the life to come].
+42|22|[In that life to come,] thou wilt see the evil&shy;doers full of fear at [the thought of] what they have earned: for [now] it is bound to fall back upon them. And in the flowering meadows of the gardens [of paradise thou wilt see] those who have attained to faith and done righteous deeds: all that they might desire shall they have with their Sustainer: [and] this, this is the great bounty –
+42|23|that [bounty] whereof God gives the glad tiding to such of His servants as attain to faith and do righteous deeds. Say [O Prophet]: “No reward do I ask of you for this [message] other than [that you should] love your fellow-men.”     For, if anyone gains [the merit of] a good deed, We shall grant him through it an increase of good: and, verily, God is much-forgiving, ever responsive to gratitude.
+42|24|DO THEY, perchance, say, “[Muhammad] has attri&shy;buted his own lying inventions to God”? But then, had God so willed, He could have sealed thy heart [forever]: for God blots out all falsehood, and by His words proves the truth to be true.     Verily, He has full knowledge of what is in the hearts [of men];
+42|25|and it is He who accepts repen&shy;tance from His servants, and pardons bad deeds, and knows all that you do,
+42|26|and responds unto all who attain to faith and do righteous deeds; and [it is He who, in the life to come,] will give them, out of His bounty, far more [than they will have deserved], whereas for the deniers of the truth there is [but] suffering severe in store.
+42|27|For, if God were to grant [in this world] abundant sustenance to [all of] His servants, they would behave on earth with wanton insolence:     but as it is, He bestows [His grace] from on high in due measure, as He wills: for, verily, He is fully aware of [the needs of] His creatures, and sees them all.
+42|28|And it is He who sends down rain after [men] have lost all hope, and unfolds His grace [thereby]:  for He alone is [their] Protector, the One to whom all praise is due.
+42|29|And among His signs is the [very] creation of the heavens and the earth, and of all the living creatures which He has caused to multiply throughout them:     and [since He has created them,] He has [also] the power to gather them [unto Him&shy;self] whenever He wills.
+42|30|Now whatever calamity may befall you [on Judgment Day] will be an outcome of what your own hands have wrought, although He pardons much;
+42|31|and you cannot elude Him on earth, and you will have none to protect you from God [in the life to come], and none to bring you succour.
+42|32|And among His signs     are the ships that sail like [floating] mountains through the seas:
+42|33|if He so wills, He stills the wind, and then they lie motion&shy;less on the sea’s surface - [and] herein, behold, there are messages indeed for all who are wholly patient in adversity and deeply grateful [to God];
+42|34|or else He may cause them to perish because of what they have wrought;     and [withal,] He pardons much.
+42|35|And let them know, those who call Our mes&shy;sages in question,     that for them there is no escape.
+42|36|AND [remember that] whatever you are given [now] is but for the [passing] enjoyment of life in this world - whereas that which is with God is far better and more enduring. [It shall be given] to all who attain to faith and in their Sustainer place their trust;
+42|37|and who shun the more heinous sins and abominations; and who, whenever they are moved to anger, readily forgive;
+42|38|and who respond to [the call of] their Sustainer and are constant in prayer; and whose rule [in all matters of common concern] is consultation among themselves;
+42|39|and who, whenever tyranny afflicts them, defend themselves.
+42|40|But [remember that an attempt at] requiting evil may, too, become an evil:
+42|41|Yet indeed, as for any who defend themselves after having been wronged - no blame whatever attaches to them:
+42|42|blame attaches but to those who oppress [other] people and behave outrageously on earth, offending against all right: for them there is grievous suffering in store!
+42|43|But withal, if one is patient in adversity and forgives - this, behold, is indeed something to set one’s heart upon!
+42|44|AND [thus it is:] he whom God lets go astray
+42|45|And thou wilt see them exposed to that [doom], humbling themselves in abasement, looking [around] with a furtive glance - the while those who had attained to faith will say, “Verily, lost on [this] Day of Resurrection are they who have squandered their own and their followers’ selves!”     Oh, verily, the evildoers will fall into long-lasting suffering,
+42|46|and will have no protector whatever to succour them against God: for he whom God lets go astray shall find no way [of escape].
+42|47|[Hence, O men,] respond to your Sustainer before there comes, at God’s behest,     a Day on which there will be no turning back: [for] on that Day you will have no place of refuge, and neither will you be able to deny aught [of the wrong that you have done].
+42|48|BUT IF they turn away [from thee, O Prophet, know that] We have not sent thee to be their keeper: thou art not bound to do more than deliver the message [entrusted to thee]. And, behold, [such as turn away from Our mes&shy;sages are but impelled by the weakness and incon&shy;stancy of human nature: thus,]
+42|49|God’s alone is the dominion over the heavens and the earth. He creates whatever He wills: He bestows the gift of female offspring on whomever He wills, and the gift of male offspring on whomever He wills;
+42|50|or He gives both male and female [to whomever He wills], and causes to be barren whomever He wills: for, verily, He is all-knowing, infinite in His power.
+42|51|And it is not given to mortal man that God should speak unto him otherwise than through sudden inspiration,     for, verily, He is exalted, wise.
+42|52|And thus, too,     but [now] We have caused this [message] to be a light, whereby We guide whom We will of Our ser&shy;vants: and, verily, [on the strength thereof] thou, too, shalt guide [men] onto the straight way –
+42|53|the way that leads to God, to whom all that is in the heavens and all that is on earth belongs. Oh, verily, with God is the beginning and the end of all things!

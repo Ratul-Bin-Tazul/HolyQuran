@@ -1,0 +1,68 @@
+31|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ
+31|2|تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ
+31|3|هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ
+31|4|ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ
+31|5|أُو۟لَٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+31|6|وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌۭ
+31|7|وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا وَلَّىٰ مُسْتَكْبِرًۭا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًۭا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
+31|8|إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتُ ٱلنَّعِيمِ
+31|9|خَٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+31|10|خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ
+31|11|هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
+31|12|وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ
+31|13|وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ
+31|14|وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
+31|15|وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًۭا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+31|16|يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ
+31|17|يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+31|18|وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ
+31|19|وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
+31|20|أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَٰبٍۢ مُّنِيرٍۢ
+31|21|وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+31|22|۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌۭ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلْأُمُورِ
+31|23|وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+31|24|نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍۢ
+31|25|وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+31|26|لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+31|27|وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَٰمٌۭ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍۢ مَّا نَفِدَتْ كَلِمَٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ
+31|28|مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍۢ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
+31|29|أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّۭ يَجْرِىٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌۭ
+31|30|ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
+31|31|أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
+31|32|وَإِذَا غَشِيَهُم مَّوْجٌۭ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌۭ ۚ وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٍۢ كَفُورٍۢ
+31|33|يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًۭا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
+31|34|إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌۭ مَّاذَا تَكْسِبُ غَدًۭا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍۢ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
+31|1|Alif. Lam. Mim.
+31|2|THESE ARE MESSAGES of the divine writ, full of wisdom,
+31|3|providing guidance and grace unto the doers of good
+31|4|who are constant in prayer and dispense charity:     for it is they, they who in their innermost are certain of the life to come!
+31|5|It is they who follow the guidance [that comes to them] from their Sustainer; and it is they, they who shall attain to a happy state!
+31|6|But among men there is many a one that prefers a mere play with words [to divine guidance],     so as to lead [those] without knowledge astray from the path of God, and to turn it to ridicule: for such there is shameful suffering in store.
+31|7|For, whenever Our messages are conveyed to such a one, he turns away in his arrogance     as though he had not heard them - as though there were deafness in his ears. Give him, then, the tiding of grievous suffering [in the life to come].
+31|8|[As against this,] verily, those who attain to faith and do righteous deeds shall have gardens of bliss,
+31|9|to abide therein in accordance with God’s true promise: for He alone is almighty, truly wise.
+31|10|He [it is who] has created the skies without any supports that you could see,
+31|11|[All] this is God’s creation: show Me, then, what others than He may have created! Nay, but the evildoers     are obviously lost in error!
+31|12|and, indeed, we granted this wisdom unto Luq&shy;man:     “Be grateful unto God - for he who is grateful [unto Him] is but grateful for the good of his own self; whereas he who chooses to be ungrateful [ought to know that], verily, God is self-sufficient, ever to be praised!”
+31|13|And, lo, Luqman spoke thus unto his son, admonishing him: “O my dear son!     Do not ascribe divine powers to aught beside God: for, behold, such [a false] ascribing of divinity is indeed an awesome wrong!
+31|14|“And [God says:] ‘We have enjoined upon man goodness towards his parents: his mother bore him by bearing strain upon strain, and his utter dependence on her lasted two years:
+31|15|“‘[Revere thy parents;] yet should they endeavour to make thee ascribe divinity, side by side with Me, to something which thy mind cannot accept [as divine],     obey them not; but [even then] bear them company in this world’s life with kindness, and follow the path of those who turn towards Me. In the end, unto Me you all must return; and thereupon I shall make you [truly] understand all that you were doing [in life].’
+31|16|“O my dear son,” [continued Luqman,] “verily, if there be but the weight of a mustard-seed, and though it be [hidden] in a rock, or in the skies, or in the earth, God will bring it to light: for, behold, God is unfathomable [in His wisdom], all-aware
+31|17|“O my dear son! Be constant in prayer, and enjoin the doing of what is right and forbid the doing of what is wrong, and bear in patience whatever [ill] may befall thee: this, behold, is something to set one’s heart upon!
+31|18|“And turn not thy cheek away from people in [false] pride, and walk not haughtily on earth: for, behold, God does not love anyone who, out of self- conceit, acts in a boastful manner.
+31|19|“Hence, be modest in thy bearing, and lower thy voice: for, behold, the ugliest of all voices is the [loud] voice of asses…”
+31|20|ARE YOU NOT aware that God has made subservient to you all     And yet, among men there is many a one that argues about God without having any knowledge [of Him], without any guidance, and without any light-giving revelation;
+31|21|and when such [people] are told to follow that which God has bestowed from on high, they answer, “Nay, we shall follow that which we found our forefathers believing in and doing!” Why - [would you follow your forefathers] even if Satan had invited them unto the suffering of the blazing flame?
+31|22|Now whoever surrenders his whole being unto God,     and is a doer of good withal, has indeed taken hold of a support most unfailing: for with God rests the final outcome of all events.
+31|23|But as for him who is bent on denying the truth - let not his denial grieve thee: unto Us they must return, and then We shall make them [truly] understand all that they were doing [in life]: for, verily, God has full knowledge of what is in the hearts [of men].
+31|24|We will let them enjoy them&shy;selves for a short while - but in the end We shall drive them into suffering severe.
+31|25|AND THUS it is [with most people]: if
+31|26|Unto God belongs all that is in the heavens and on earth. Verily, God alone is self-sufficient, the One to whom all praise is due!
+31|27|And if all the trees on earth were pens, and the sea [were] ink, with seven [morel seas yet
+31|28|[For Him,] the creation of you all and the resurrection of you all is but like [the creation and resurrection of] a single soul:     for, verily, God is all-hearing, all-seeing.
+31|29|Art thou not aware that it is God who makes the night grow longer by shortening the day, and makes the day grow longer by shortening the night, and that He has made the sun and the moon subservient [to His laws], each running its course for a term set [by Him]     and that God is fully aware of all that you do?
+31|30|Thus it is, because God alone is the Ultimate Truth,     so that all that men invoke instead of Him is sheer falsehood; and because God alone is exalted, truly great!
+31|31|Art thou not aware how the ships speed through the sea by God’s favour, so that He might show you some of His wonders? Herein, behold, there are messages indeed for all who are wholly patient in adversity and deeply grate&shy;ful [to God].
+31|32|For [thus it is with most men:] when the waves engulf them like shadows [of death], they call unto God, sincere [at that moment] in their faith in Him alone: but as soon as He has brought them safe ashore, some of them stop half-way [between belief and unbelief]     Yet none could knowingly reject Our messages unless he be utterly perfidious, ingrate.
+31|33|O MEN! Be conscious of your Sustainer, and stand in awe of the Day on which no parent will be of any avail to his child, nor a child will in the least avail his parent! Verily, God’s promise [of resurrection] is true in&shy;deed: let not, then, the life of this world deludes you, and let not [your own] deceptive thoughts about God delude you!
+31|34|Verily, with God alone rests the knowledge of when the Last Hour will come: and He [it is who] sends down rain; and He [alone] knows what is in the wombs:     whereas no one knows what he will reap tomorrow, and no one knows in what land he will die, Verily. God [alone] is all-knowing, all-aware.

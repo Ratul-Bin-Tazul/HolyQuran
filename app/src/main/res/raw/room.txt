@@ -1,0 +1,120 @@
+30|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ
+30|2|غُلِبَتِ ٱلرُّومُ
+30|3|فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
+30|4|فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ
+30|5|بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+30|6|وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+30|7|يَعْلَمُونَ ظَٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ
+30|8|أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ أَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَٰفِرُونَ
+30|9|أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+30|10|ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ
+30|11|ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ
+30|12|وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ
+30|13|وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَٰفِرِينَ
+30|14|وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ
+30|15|فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَهُمْ فِى رَوْضَةٍۢ يُحْبَرُونَ
+30|16|وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآئِ ٱلْءَاخِرَةِ فَأُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ
+30|17|فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+30|18|وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّۭا وَحِينَ تُظْهِرُونَ
+30|19|يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ
+30|20|وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ
+30|21|وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
+30|22|وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّلْعَٰلِمِينَ
+30|23|وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ
+30|24|وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًۭا وَطَمَعًۭا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءًۭ فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ
+30|25|وَمِنْ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةًۭ مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ
+30|26|وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَٰنِتُونَ
+30|27|وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+30|28|ضَرَبَ لَكُم مَّثَلًۭا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌۭ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَعْقِلُونَ
+30|29|بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍۢ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّٰصِرِينَ
+30|30|فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًۭا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+30|31|۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ
+30|32|مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًۭا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ
+30|33|وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّۭ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌۭ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ
+30|34|لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ
+30|35|أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَٰنًۭا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ يُشْرِكُونَ
+30|36|وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ
+30|37|أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
+30|38|فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌۭ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+30|39|وَمَآ ءَاتَيْتُم مِّن رِّبًۭا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍۢ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ
+30|40|ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍۢ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+30|41|ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ
+30|42|قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ
+30|43|فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍۢ يَصَّدَّعُونَ
+30|44|مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَٰلِحًۭا فَلِأَنفُسِهِمْ يَمْهَدُونَ
+30|45|لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ
+30|46|وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍۢ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+30|47|وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ
+30|48|ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًۭا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+30|49|وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ
+30|50|فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+30|51|وَلَئِنْ أَرْسَلْنَا رِيحًۭا فَرَأَوْهُ مُصْفَرًّۭا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ
+30|52|فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ
+30|53|وَمَآ أَنتَ بِهَٰدِ ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَٰتِنَا فَهُم مُّسْلِمُونَ
+30|54|۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍۢ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍۢ قُوَّةًۭ ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍۢ ضَعْفًۭا وَشَيْبَةًۭ ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ
+30|55|وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍۢ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ
+30|56|وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَٰذَا يَوْمُ ٱلْبَعْثِ وَلَٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ
+30|57|فَيَوْمَئِذٍۢ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ
+30|58|وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍۢ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ
+30|59|كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ
+30|60|فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ
+30|1|Alif. Lam. Mim.
+30|2|Defeated have been the Byzantines
+30|3|in the lands close-by; yet it is they who, notwithstanding this their defeat, shall be victorious
+30|4|within a few years: [for] with God rests all power of decision, first and last.     And on that day will the believers [too, have cause to] rejoice
+30|5|in God’s succour:     [for] He gives suc&shy;cour to whomever He wills, since He alone is almighty, a dispenser of grace.
+30|6|[This is] God’s promise. Never does God fail to fulfill His promise - but most people know [it] not:
+30|7|they know but the outer surface of this world’s life, whereas of the ultimate things they are utterly un&shy;aware.
+30|8|Have they never learned to think for them&shy;selves?     and yet, behold, there are many people who stubbornly deny the truth that they are destined to meet their Sustainer!
+30|9|Have they, then, never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time? Greater were they in power than they are; and they left a stronger impact on the earth, and built it up even better     than these [are doing]; and to them [too] came their apostles with all evidence of the truth: and so, [when they rejected the truth and thereupon perished,] it was not God who wronged them, but it was they who had wronged themselves.
+30|10|And once again:     evil is bound to be the end of those who do evil by giving the lie to God’s messages and deriding them.
+30|11|GOD CREATES [man] in the first instance, and then brings him forth anew:     and, in the end, unto Him you all will be brought back.
+30|12|And when the last Hour dawns, those who were lost in sin will be broken in spirit
+30|13|for they will have no intercessors in the beings to whom they were wont to ascribe a share in God’s divinity,
+30|14|And when the Last Hour dawns - on that Day will all [men] be sorted out:
+30|15|as for those who attained to faith and did righteous deeds, they shall be made happy in a garden of delight;
+30|16|but as for those who refused to acknowledge the truth and gave the lie to Our messages - and (thus) to the announce&shy;ment     of a life to come - they will be given over to suffering.
+30|17|EXTOL, then, God’s limitless glory when you enter upon the evening hours, and when you rise at morn;
+30|18|and [seeing that] unto Him is due all praise in the heavens and on earth, [glorify Him] in the afternoon as well, and when you enter upon the hour of noon.
+30|19|He [it is who] brings forth the living out of that which is dead, and brings forth the dead out of that which is alive, and gives life to the earth after it had been lifeless: and even thus will you be brought forth [from death to life]
+30|20|And among His wonders is this: He creates you out of dust –     and then, lo! you become human beings ranging far and wide!
+30|21|And among His wonders is this: He creates for you mates out of your own kind.     so that you might incline towards them, and He engenders love and tenderness between you: in this, behold, there are messages indeed for people who think!
+30|22|And among his wonders is the creation of the heavens and the earth, and the diversity of your tongues and colours: for in this, behold, there are messages indeed for all who are possessed of [innate] knowledge!
+30|23|And among His wonders is your sleep, at night or in daytime, as well as your [ability to go about in] quest of some of His bounties: in this, behold, there are messages indeed for people who [are willing to] listen!
+30|24|And among His wonders is this: He displays before you the lightning, giving rise to [both] fear and hope,     and sends down water from the skies, giving life thereby to the earth after it had been lifeless: in this, behold, there are messages indeed for people who use their reason!
+30|25|And among His wonders is this: the skies and the earth stand firm at His behest.     [Remember all this: for] in the end, when He will call you forth from the earth with a single call - lo! you will [all] emerge [for judgment].
+30|26|For, unto Him belongs every being that is in the heavens and on earth; all things devoutly obey His will.
+30|27|And He it is who creates [all life] in the first instance, and then brings it forth anew:
+30|28|He propounds unto you a parable drawn from your own life:     Thus clearly do We spell out these messages unto people who use their reason.
+30|29|But nay - they who are bent on evildoing fol&shy;low but their own desires, without having any knowl&shy;edge (of the truth).
+30|30|AND SO, set thy face steadfastly towards the [one ever-true] faith,     this is the [purpose of the one] ever-true faith; but most people know it not.
+30|31|[Turn, then, away from all that is false,] turn&shy;ing unto Him [alone]; and remain conscious of Him, and be constant in prayer, and be not among those who ascribe divinity to aught beside Him,
+30|32|[or] among those who have broken the unity of their faith and have become sects, each group delighting in but what they themselves hold [by way of tenets].
+30|33|NOW [thus it is:] when affliction befalls men, they cry out unto their Sustainer, turning unto Him [for help]; but as soon as He lets them taste of His grace, lo! some of them [begin to] ascribe to other powers a share in their Sustainer’s divinity,
+30|34|[as if] to prove their ingratitude for all that We have granted them! Enjoy, then, your [brief] life: but in time you will come to know [the truth]!
+30|35|Have We ever bestowed upon them from on high a divine writ
+30|36|And [thus it is:] when we let men taste [Our] grace, they rejoice in it; but if evil befalls them as an outcome of what their own hands have wrought     lo! they lose all hope!
+30|37|Are they, then, not aware that it is God who grants abundant sustenance, or gives it in scant measure, unto whomever He wills? In this, behold, there are messages indeed for peo&shy;ple who will believe!
+30|38|Hence, give his due to the near of kin, as well as to the needy and the wayfarer;     this is best for all who seek God’s countenance: for it is they, they that shall attain to a happy state!
+30|39|And [remember:] whatever you may give out in usury so that it might increase through [other] people’s possessions will bring [you] no increase in the sight of God     for it is they, they [who thus seek His countenance] that shall have their recompense mul&shy;tiplied!
+30|40|IT IS GOD who has created you, and then has provided you with sustenance, and then will cause you to die, and then will bring you to life again. Can any of those beings or powers to whom you ascribe a share in His divinity     do any of these things? Limitless is He in His glory, and sublimely exalted above anything to which men may ascribe a share in His divinity!
+30|41|[Since they have become oblivious of God,] corruption has appeared on land and in the sea as an outcome of what men’s hands have wrought: and so
+30|42|Say: “Go all over the earth, and behold what happened in the end to those [sinners] who lived before [you]: most of them were wont to ascribe divine qualities to things or beings other than God.”
+30|43|Set, then, thy face steadfastly towards the one ever-true faith,     ere there come from God a Day [of reckoning - the Day] which cannot be averted. On that Day all will be sundered:
+30|44|he who has denied the truth will have to bear [the burden of] his denial, whereas all who did what is right and just will have made goodly provision for themselves,
+30|45|so that He might reward, out of His bounty, those who have attained to faith and done righteous deeds. Verily, He does not love those who refuse to acknowledge the truth –
+30|46|for among His wonders is this: He sends forth [His messages as He sends forth] the winds that bear glad tidings,     so that He might give you a taste of His grace [through life-giving rains], and that ships might sail at His behest, and that you might go about in quest of some of His bounties, and that you might have cause to be grateful.
+30|47|And indeed, [O Muhammad, even] before thee did We send forth apostles - each one unto his own people     and they brought them all evidence of the truth: and then, [by causing the believers to triumph,] We inflicted Our retribution upon those who [de&shy;liberately] did evil: for We had willed it upon Our&shy;selves to succour the believers.
+30|48|It is God who sends forth the winds [of hope],     so that they raise a cloud - whereupon He spreads it over the skies as He wills, and causes it to break up so that thou seest rain issue from within it: and as soon as He causes it to fall upon whomever He wills of His servants - lo! they rejoice,
+30|49|even though a short while ago, [just] before it was sent down upon them, they had abandoned all hope!
+30|50|Behold, then, [O man,] these signs of God’s grace - how He gives life to the earth after it had been lifeless! Verily, this Selfsame [God] is indeed the One that can bring the dead back to life: for He has the power to will anything!
+30|51|But thus it is: if
+30|52|And, verily, thou canst not make the dead hear: and [so, too,] thou canst not make the deaf [of heart] hear this call when they turn their backs [on thee] and go away,
+30|53|just as thou canst not lead the blind [of heart] out of their error: none canst thou make hear [thy call] save such as [are willing to] believe in Our messages, and thus surrender them&shy;selves unto Us.
+30|54|IT IS GOD who creates you [all in a states of weak&shy;ness, and then, after weakness, ordains strength [for you], and then, after [a period of] strength, ordains [old-age] weakness and grey hair.     He creates what He wills; and He alone is all-knowing, infinite in His power.
+30|55|[He it is who will cause you to die, and in time will resurrect you.]
+30|56|But those who [in their lifetime] were endowed with knowledge
+30|57|And so, on that Day their excuse will be of no avail to those who were bent on evildoing, nor will they be allowed to make amends.
+30|58|AND, INDEED, We have propounded unto men all kinds of parables in this Qur’an.     But thus it is: if thou approach them with any [such] message, those who are bent on denying the truth are sure to say, “You are but making false claims!”
+30|59|In this way does God seal the hearts of those who do not [want to] know [the truth].
+30|60|Remain, then, patient in adversity: verily, Gods promise [of resurrection] is true indeed - so let not those who are devoid of all inner certainty disquiet thy mind!

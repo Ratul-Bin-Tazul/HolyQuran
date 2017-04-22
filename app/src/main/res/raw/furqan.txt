@@ -1,0 +1,154 @@
+25|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا
+25|2|ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍۢ فَقَدَّرَهُۥ تَقْدِيرًۭا
+25|3|وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّۭا وَلَا نَفْعًۭا وَلَا يَمْلِكُونَ مَوْتًۭا وَلَا حَيَوٰةًۭ وَلَا نُشُورًۭا
+25|4|وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًۭا وَزُورًۭا
+25|5|وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةًۭ وَأَصِيلًۭا
+25|6|قُلْ أَنزَلَهُ ٱلَّذِى يَعْلَمُ ٱلسِّرَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ غَفُورًۭا رَّحِيمًۭا
+25|7|وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ ۙ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌۭ فَيَكُونَ مَعَهُۥ نَذِيرًا
+25|8|أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌۭ يَأْكُلُ مِنْهَا ۚ وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًۭا مَّسْحُورًا
+25|9|ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا
+25|10|تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًۭا مِّن ذَٰلِكَ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَيَجْعَل لَّكَ قُصُورًۢا
+25|11|بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا
+25|12|إِذَا رَأَتْهُم مِّن مَّكَانٍۭ بَعِيدٍۢ سَمِعُوا۟ لَهَا تَغَيُّظًۭا وَزَفِيرًۭا
+25|13|وَإِذَآ أُلْقُوا۟ مِنْهَا مَكَانًۭا ضَيِّقًۭا مُّقَرَّنِينَ دَعَوْا۟ هُنَالِكَ ثُبُورًۭا
+25|14|لَّا تَدْعُوا۟ ٱلْيَوْمَ ثُبُورًۭا وَٰحِدًۭا وَٱدْعُوا۟ ثُبُورًۭا كَثِيرًۭا
+25|15|قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءًۭ وَمَصِيرًۭا
+25|16|لَّهُمْ فِيهَا مَا يَشَآءُونَ خَٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًۭا مَّسْـُٔولًۭا
+25|17|وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ
+25|18|قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًۭا
+25|19|فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًۭا وَلَا نَصْرًۭا ۚ وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًۭا كَبِيرًۭا
+25|20|وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍۢ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًۭا
+25|21|۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًۭا
+25|22|يَوْمَ يَرَوْنَ ٱلْمَلَٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍۢ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًۭا مَّحْجُورًۭا
+25|23|وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍۢ فَجَعَلْنَٰهُ هَبَآءًۭ مَّنثُورًا
+25|24|أَصْحَٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌۭ مُّسْتَقَرًّۭا وَأَحْسَنُ مَقِيلًۭا
+25|25|وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَٰمِ وَنُزِّلَ ٱلْمَلَٰٓئِكَةُ تَنزِيلًا
+25|26|ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَٰنِ ۚ وَكَانَ يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًۭا
+25|27|وَيَوْمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَٰلَيْتَنِى ٱتَّخَذْتُ مَعَ ٱلرَّسُولِ سَبِيلًۭا
+25|28|يَٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًۭا
+25|29|لَّقَدْ أَضَلَّنِى عَنِ ٱلذِّكْرِ بَعْدَ إِذْ جَآءَنِى ۗ وَكَانَ ٱلشَّيْطَٰنُ لِلْإِنسَٰنِ خَذُولًۭا
+25|30|وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًۭا
+25|31|وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًۭا
+25|32|وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَٰهُ تَرْتِيلًۭا
+25|33|وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا
+25|34|ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَأَضَلُّ سَبِيلًۭا
+25|35|وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًۭا
+25|36|فَقُلْنَا ٱذْهَبَآ إِلَى ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَدَمَّرْنَٰهُمْ تَدْمِيرًۭا
+25|37|وَقَوْمَ نُوحٍۢ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَٰهُمْ وَجَعَلْنَٰهُمْ لِلنَّاسِ ءَايَةًۭ ۖ وَأَعْتَدْنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمًۭا
+25|38|وَعَادًۭا وَثَمُودَا۟ وَأَصْحَٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًۭا
+25|39|وَكُلًّۭا ضَرَبْنَا لَهُ ٱلْأَمْثَٰلَ ۖ وَكُلًّۭا تَبَّرْنَا تَتْبِيرًۭا
+25|40|وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًۭا
+25|41|وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى بَعَثَ ٱللَّهُ رَسُولًا
+25|42|إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا
+25|43|أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا
+25|44|أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا
+25|45|أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًۭا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًۭا
+25|46|ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًۭا يَسِيرًۭا
+25|47|وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًۭا وَٱلنَّوْمَ سُبَاتًۭا وَجَعَلَ ٱلنَّهَارَ نُشُورًۭا
+25|48|وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ طَهُورًۭا
+25|49|لِّنُحْۦِىَ بِهِۦ بَلْدَةًۭ مَّيْتًۭا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَٰمًۭا وَأَنَاسِىَّ كَثِيرًۭا
+25|50|وَلَقَدْ صَرَّفْنَٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا
+25|51|وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍۢ نَّذِيرًۭا
+25|52|فَلَا تُطِعِ ٱلْكَٰفِرِينَ وَجَٰهِدْهُم بِهِۦ جِهَادًۭا كَبِيرًۭا
+25|53|۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا
+25|54|وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًۭا فَجَعَلَهُۥ نَسَبًۭا وَصِهْرًۭا ۗ وَكَانَ رَبُّكَ قَدِيرًۭا
+25|55|وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًۭا
+25|56|وَمَآ أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًۭا وَنَذِيرًۭا
+25|57|قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًۭا
+25|58|وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا
+25|59|ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا
+25|60|وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًۭا ۩
+25|61|تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًۭا وَجَعَلَ فِيهَا سِرَٰجًۭا وَقَمَرًۭا مُّنِيرًۭا
+25|62|وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةًۭ لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًۭا
+25|63|وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًۭا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا
+25|64|وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًۭا وَقِيَٰمًۭا
+25|65|وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا
+25|66|إِنَّهَا سَآءَتْ مُسْتَقَرًّۭا وَمُقَامًۭا
+25|67|وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًۭا
+25|68|وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًۭا
+25|69|يُضَٰعَفْ لَهُ ٱلْعَذَابُ يَوْمَ ٱلْقِيَٰمَةِ وَيَخْلُدْ فِيهِۦ مُهَانًا
+25|70|إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًۭا صَٰلِحًۭا فَأُو۟لَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَٰتٍۢ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا
+25|71|وَمَن تَابَ وَعَمِلَ صَٰلِحًۭا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًۭا
+25|72|وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًۭا
+25|73|وَٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّۭا وَعُمْيَانًۭا
+25|74|وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍۢ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
+25|75|أُو۟لَٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةًۭ وَسَلَٰمًا
+25|76|خَٰلِدِينَ فِيهَا ۚ حَسُنَتْ مُسْتَقَرًّۭا وَمُقَامًۭا
+25|77|قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا
+25|1|Hallowed is He who from on high, step by step, has bestowed upon His servant the standard by which to discern the true from the false,     so that to all the world it might be a warning:
+25|2|He to whom the dominion over the heavens and the earth belongs, and who begets no offspring,
+25|3|And yet, some choose to worship, instead of Him, imaginary deities that cannot create anything but are themselves created,     and have it not within their power to avert harm from, or bring benefit to, themselves, and have no power over death, nor over life, nor over resurrection!
+25|4|Moreover, those who are bent on denying the truth are wont to say, “This [Qur’an] is nothing but a lie, which he [himself] has devised with the help of other people,
+25|5|And they say, “Fables of ancient times which he has caused to be written down, so that they might be read out to him at morn and evening!”
+25|6|Say [O Muhammad]: “He who knows all the mysteries of the heavens and the earth has bestowed from on high this [Qur’an upon me]! Verily, He is much-forgiving, a dispenser of grace!”
+25|7|Yet they say: What sort of apostle is this [man] who eats food [like all other mortals] and goes about in the market places? Why has not an angel [visibly] been sent down unto him, to act as a warner together with him?”
+25|8|Or: “[Why has not] a treasure been granted to him [by God]?” Or: “He should [at least] have a [bountiful] garden, so that he could eat thereof [without effort]!”     And so these evildoers say [unto one another], “If you were to follow [Muhammad, you would follow] but a man bewitched!”
+25|9|See to what they liken thee, [O Prophet, simply] because they have gone astray and are now unable to find a way to the truth]!
+25|10|Hallowed is He who, if it be His will, shall give thee something better than that [whereof they speak] - gardens through which running waters flow - and shall assign to thee mansions [of bliss in the life to come].
+25|11|But nay! It is [the very coming of] the Last Hour to which they give the lie! However, for such as give the lie to [the announce&shy;ment of] the Last Hour We have readied a blazing flame:
+25|12|when it shall face them from afar, they will hear its angry roar and its hiss;
+25|13|and when they are flung, linked [all] together, into a tight space within, they will pray for extinction there and then!
+25|14|[But they will be told:] “Pray not today for one single extinction, but pray for many extinctions!”
+25|15|Say: “Which is better - that, or the paradise of life abiding which has been promised to the God-conscious as their reward and their journey’s end –
+25|16|a promise given by thy Sustainer, [always] to be prayed for?”
+25|17|BUT [as for people who are oblivious of thy Sus&shy;tainer’s oneness -]      “Was it you who led these My creatures astray, or did they by themselves stray from the right path?”
+25|18|They will answer: “Limitless art Thou in Thy glory! It was inconceivable for us to take for our masters anyone but Thyself!     they forgot all remembrance [of Thee]: for they were people devoid of all good.”
+25|19|[Thereupon God will say:] “And now, they [whom you regarded as divine] have given the lie to all your [past] assertions, and you can neither ward off [your punishment] nor obtain any succour! For, whoever of you has committed [such] evil, him shall We cause to taste great suffering!”
+25|20|AND [even] before thee, [O Muhammad,] We never sent as Our message-bearers any but [mortal men] who indeed ate food [like other human beings] and went about in the market places: for [it is thus that] We cause you [human beings] to be a means of testing one another.     able to endure [this test] with patience? For [remember, O man,] thy Sustainer is truly all-seeing!
+25|21|But those who do not believe that they are destined to meet Us are wont to say,      “Why have no angels been sent down to us?” – or, “Why do we not see our Sustainer?” Indeed, they are far too proud of themselves, hav&shy;ing rebelled [against God’s truth] with utter disdain!
+25|22|[Yet] on that Day - the Day on which they shall see the angels     there will be no glad tiding for those who were lost in sin; and they will exclaim, “By a forbidding ban [are we from God’s grace debarred]!” –
+25|23|for We shall have turned towards all the [supposedly good] deeds they ever wrought, and shall have transformed them into scattered dust –
+25|24|[whereas] on that same Day those who are destined for paradise will be graced with the best of abodes and the fairest place of repose.
+25|25|And on the Day on which the skies, together with the clouds, shall burst asunder, and the angels are made to descend in a mighty descent –
+25|26|on that Day [it will become obvious to all that] true sover&shy;eignty belongs to the Most Gracious [alone]: hence, a Day of distress will it be for all who deny the truth,
+25|27|and a Day on which the evildoer will bite his hands [in despair], exclaiming: “Oh, would that I had followed the path shown to me by the apostle!
+25|28|Oh, woe is me! Would that I had not taken so-and-so for a friend!
+25|29|Indeed, he led me astray from the remembrance [of God] after it had come unto me!” For [thus it is:] Satan is ever a betrayer of man.
+25|30|AND [on that Day] the Apostle will say:
+25|31|For so it is that against every prophet We have set up enemies from among those who are lost in sin:     yet none can guide and give succour as thy Sustainer does!
+25|32|Now they who are bent on denying the truth are wont to ask. “Why has not the Qur’an been bestowed on him from on high in one single re&shy;velation?”
+25|33|and [that] they [who deny the truth] might never taunt thee with any deceptive half-truth
+25|34|[And so, tell those who are bent on denying the truth that] they who shall be gathered unto hell upon their faces –
+25|35|AND, INDEED, [long before Muhammad] We vouchsafed revelation unto Moses, and appointed his brother Aaron to help him to bear his burden;
+25|36|and We said, “Go you both unto the people who have given the lie to Our messages!” - and thereupon We broke those [sinners] to smithereens.
+25|37|And [think of] the people of Noah: when they gave the lie to [one of] the apostles, We caused them to drown, and made them a symbol for all mankind: for, grievous suffering have We readied for all who [knowingly] do wrong!
+25|38|And [remember how We punished the tribes of] Ad and Thamud and the people of Ar-Rass,     and  many generations [of sinners] in-between:
+25|39|and unto each of them did We proffer lessons     and each of them did We destroy with utter destruction.
+25|40|And they [who now deny Our messages] must surely have come across that town which was rained upon by a rain of evil:
+25|41|Hence, whenever they consider thee, [O Muhammad,] they but make thee a target of their mockery, [saying:] “Is this the one whom God has sent as an apostle?
+25|42|Indeed, he would well-nigh have led us astray from our deities, had we not been [so] steadfastly attached to them!” But in time, when they see the suffering [that awaits them], they will come to know who it was that went farthest astray from the path [of truth]!
+25|43|Hast thou ever considered [the kind of man] who makes his own desires his deity? Couldst thou, then, [O Prophet,] be held responsible for him?
+25|44|Or dost thou think that most of them listen [to thy message] and use their reason? Nay, they are but like cattle - nay, they are even less conscious of the right way!
+25|45|Art thou not aware of thy Sustainer [through His works]? - how He causes the shadow to lengthen [towards the night] when, had He so willed, He could indeed have made it stand still: but then, We have made the sun its guide;
+25|46|and then, [after having caused it to lengthen,] We draw it in towards Our&shy;selves     with a gradual drawing-in.
+25|47|And He it is who makes the night a garment for you, and [your] sleep a rest, and causes every [new] day to be a resurrection.
+25|48|And He it is who sends forth the winds as a glad tiding of His coming grace; and [thus, too,] We cause pure water to descend from the skies,
+25|49|so that We may bring dead land to life thereby, and give to drink thereof to many [beings] of Our creation, beasts as well as humans.
+25|50|And, indeed, many times have We repeated [all] this unto men,     so that they might take it to heart: but most men refuse to be aught but ingrate.
+25|51|Now had We so willed. We could have [con&shy;tinued as before and] raised up a [separate] warner in every single community:
+25|52|hence, do not defer to [the likes and dislikes of] those who deny the truth, but strive hard against them, by means of this [divine writ], with utmost striving.
+25|53|AND HE it is who has given freedom of movement to the two great bodies of water –
+25|54|And He it is who out of this [very] water has created man,     for thy Sustainer is ever infinite in His power.
+25|55|And yet, some people     worship, instead of God, things that can neither benefit them nor harm them: thus, he who denies the truth does indeed turn his back on his Sustainer!
+25|56|Yet [withal, O Prophet,] We have sent thee only as a herald of glad tidings and a warner.
+25|57|Say: “For this, no reward do I ask of you [- no reward] other than that he who so wills may unto his Sustainer find a way!”
+25|58|Hence, place thy trust in the Living One who dies not, and extol His limitless glory and praise: for none is as aware as His creatures’ sins as He –
+25|59|He who has created the heavens and the earth and all that is between them in six aeons, and is established on the throne of His almightiness:
+25|60|Yet when they [who are bent on denying the truth! are told, “Prostrate yourselves before the Most Gracious.” they are wont to ask, “And [who and] what is the Most Gracious? Are we to prostrate ourselves before whatever thou biddest us [to worship]?’’ - and so [thy call] but increases their aversion,
+25|61|HALLOWED is He who has set up in the skies great constellations, and has placed among them a [radiant] lamp and a light-giving moon.
+25|62|And He it is who causes the night and the day to succeed one another, [revealing Himself in His works] unto him who has the will to take thought - that is     has the will to be grateful.
+25|63|For, [true] servants of the Most Gracious are [only] they who walk gently on earth, and who, whenever the foolish address them,     reply with [words of] peace;
+25|64|and who remember their Sustainer far into the night, prostrating themselves and standing;
+25|65|and who pray: “O our Sustainer, avert from us the suffering of hell - for, verily, the suffering caused by it is bound to be a torment dire:
+25|66|verily, how evil an abode and a station!” -;
+25|67|and who, whenever they spend on others,     are neither wasteful nor niggardly but [remember that] there is always a just mean between those [two extremes];
+25|68|and who never invoke any [imaginary] deity side by side with God, and do not take any human beings life - [the life] which God has willed to be sacred - otherwise than in [the pursuit of] justice,     shall [not only] meet with a full requital
+25|69|[but] shall have his suffering doubled on Resurrection Day: for on that [Day] he shall abide in ignominy.
+25|70|Excepted, however, shall be they who repent and attain to faith and do righteous deeds: for it is they whose [erstwhile] bad deeds God will transform into good ones - seeing that God is indeed much-forgiving, a dispenser of grace,
+25|71|and seeing that he who repents and [thenceforth] does what is right has truly turned unto God by [this very act of] repent&shy;ance.
+25|72|And [know that true servants of God are only] those who never bear witness to what is false,     and [who], whenever they pass by [people engaged in] frivolity, pass on with dignity;
+25|73|and who, whenever they are reminded of their Sustainer’s messages, do not throw themselves upon them [as if] deaf and blind;
+25|74|and who pray “O our Sustainer! Grant that our spouses and our offspring be a joy to our eyes,     and cause us to be foremost among those who are conscious of Thee!”
+25|75|[Such as] these will be rewarded for all their patient endurance [in life] with a high station [in paradise], and will be met therein with a greeting of welcome and peace,
+25|76|therein to abide: [and] how goodly an abode and [how high] a station!
+25|77|SAY [unto those who believe]: “No weight or value would my Sustainer attach to you were it not for your faith [in Him]!”

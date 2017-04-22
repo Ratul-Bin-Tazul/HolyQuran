@@ -1,0 +1,176 @@
+28|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ طسٓمٓ
+28|2|تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ
+28|3|نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍۢ يُؤْمِنُونَ
+28|4|إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًۭا يَسْتَضْعِفُ طَآئِفَةًۭ مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ
+28|5|وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةًۭ وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ
+28|6|وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ
+28|7|وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
+28|8|فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّۭا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
+28|9|وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا وَهُمْ لَا يَشْعُرُونَ
+28|10|وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ
+28|11|وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ فَبَصُرَتْ بِهِۦ عَن جُنُبٍۢ وَهُمْ لَا يَشْعُرُونَ
+28|12|۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
+28|13|فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+28|14|وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+28|15|وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍۢ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ ۖ إِنَّهُۥ عَدُوٌّۭ مُّضِلٌّۭ مُّبِينٌۭ
+28|16|قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+28|17|قَالَ رَبِّ بِمَآ أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًۭا لِّلْمُجْرِمِينَ
+28|18|فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًۭا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ ۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّۭ مُّبِينٌۭ
+28|19|فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّۭ لَّهُمَا قَالَ يَٰمُوسَىٰٓ أَتُرِيدُ أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ ۖ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًۭا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ
+28|20|وَجَآءَ رَجُلٌۭ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّٰصِحِينَ
+28|21|فَخَرَجَ مِنْهَا خَآئِفًۭا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+28|22|وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ
+28|23|وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةًۭ مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ ۖ وَأَبُونَا شَيْخٌۭ كَبِيرٌۭ
+28|24|فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍۢ فَقِيرٌۭ
+28|25|فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍۢ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+28|26|قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ ۖ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ
+28|27|قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍۢ ۖ فَإِنْ أَتْمَمْتَ عَشْرًۭا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
+28|28|قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ ۖ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
+28|29|۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًۭا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍۢ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+28|30|فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+28|31|وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْءَامِنِينَ
+28|32|ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
+28|33|قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًۭا فَأَخَافُ أَن يَقْتُلُونِ
+28|34|وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًۭا فَأَرْسِلْهُ مَعِىَ رِدْءًۭا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ
+28|35|قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَٰنًۭا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِـَٔايَٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَٰلِبُونَ
+28|36|فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍۢ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًۭى وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
+28|37|وَقَالَ مُوسَىٰ رَبِّىٓ أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
+28|38|وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًۭا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+28|39|وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ
+28|40|فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ
+28|41|وَجَعَلْنَٰهُمْ أَئِمَّةًۭ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَيَوْمَ ٱلْقِيَٰمَةِ لَا يُنصَرُونَ
+28|42|وَأَتْبَعْنَٰهُمْ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ ۖ وَيَوْمَ ٱلْقِيَٰمَةِ هُم مِّنَ ٱلْمَقْبُوحِينَ
+28|43|وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ مِنۢ بَعْدِ مَآ أَهْلَكْنَا ٱلْقُرُونَ ٱلْأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُمْ يَتَذَكَّرُونَ
+28|44|وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ
+28|45|وَلَٰكِنَّآ أَنشَأْنَا قُرُونًۭا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ ۚ وَمَا كُنتَ ثَاوِيًۭا فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ
+28|46|وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةًۭ مِّن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ أَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+28|47|وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
+28|48|فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّۢ كَٰفِرُونَ
+28|49|قُلْ فَأْتُوا۟ بِكِتَٰبٍۢ مِّنْ عِندِ ٱللَّهِ هُوَ أَهْدَىٰ مِنْهُمَآ أَتَّبِعْهُ إِن كُنتُمْ صَٰدِقِينَ
+28|50|فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَآءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ ٱتَّبَعَ هَوَىٰهُ بِغَيْرِ هُدًۭى مِّنَ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+28|51|۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+28|52|ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ مِن قَبْلِهِۦ هُم بِهِۦ يُؤْمِنُونَ
+28|53|وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ
+28|54|أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
+28|55|وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ سَلَٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَٰهِلِينَ
+28|56|إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+28|57|وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًۭا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍۢ رِّزْقًۭا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+28|58|وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًۭا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ
+28|59|وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًۭا يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَٰلِمُونَ
+28|60|وَمَآ أُوتِيتُم مِّن شَىْءٍۢ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ وَأَبْقَىٰٓ ۚ أَفَلَا تَعْقِلُونَ
+28|61|أَفَمَن وَعَدْنَٰهُ وَعْدًا حَسَنًۭا فَهُوَ لَٰقِيهِ كَمَن مَّتَّعْنَٰهُ مَتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ هُوَ يَوْمَ ٱلْقِيَٰمَةِ مِنَ ٱلْمُحْضَرِينَ
+28|62|وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
+28|63|قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَٰهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَآ إِلَيْكَ ۖ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ
+28|64|وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
+28|65|وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ
+28|66|فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍۢ فَهُمْ لَا يَتَسَآءَلُونَ
+28|67|فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ
+28|68|وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ ۚ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+28|69|وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+28|70|وَهُوَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْءَاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
+28|71|قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ ۖ أَفَلَا تَسْمَعُونَ
+28|72|قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍۢ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ
+28|73|وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+28|74|وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
+28|75|وَنَزَعْنَا مِن كُلِّ أُمَّةٍۢ شَهِيدًۭا فَقُلْنَا هَاتُوا۟ بُرْهَٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
+28|76|۞ إِنَّ قَٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ
+28|77|وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ
+28|78|قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةًۭ وَأَكْثَرُ جَمْعًۭا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ
+28|79|فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ
+28|80|وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌۭ لِّمَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّٰبِرُونَ
+28|81|فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ
+28|82|وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ
+28|83|تِلْكَ ٱلدَّارُ ٱلْءَاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّۭا فِى ٱلْأَرْضِ وَلَا فَسَادًۭا ۚ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ
+28|84|مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌۭ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
+28|85|إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍۢ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ
+28|86|وَمَا كُنتَ تَرْجُوٓا۟ أَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَٰبُ إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَٰفِرِينَ
+28|87|وَلَا يَصُدُّنَّكَ عَنْ ءَايَٰتِ ٱللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ ۖ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
+28|88|وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۘ لَآ إِلَٰهَ إِلَّا هُوَ ۚ كُلُّ شَىْءٍ هَالِكٌ إِلَّا وَجْهَهُۥ ۚ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
+28|1|Ta. Sin. Mim.
+28|2|These are messages of a divine writ clear in itself and clearly showing the truth.
+28|3|We [now] convey unto thee some of the story of Moses and Pharaoh, setting forth the truth for [the benefit of] people who will believe.
+28|4|Behold, Pharaoh exalted himself in the land and divided its people into castes.     for, behold, he was one of those who spread corruption [on earth].
+28|5|But it was Our will to bestow Our favour upon those [very people] who were deemed [so] utterly low in the land, and to make them forerunners in faith.     and to make them heirs [to Pharaoh’s glory],
+28|6|and to establish them securely on earth, and to let Pharaoh and Haman
+28|7|And so, [when he was born,] We inspired [thus] the mother of Moses: Suckle him [for a time], and then, when thou hast cause to fear for him, cast him into the river,     and have no fear and do not grieve - for We shall restore him to thee, and shall make him one of Our message-bearers!”
+28|8|And [some of] Pharaoh’s household     found [and spared] him: for [We had willed] that he becomes an enemy unto them and [a source of] grief, seeing that Pharaoh and Haman and their hosts were sinners indeed!
+28|9|Now the wife of Pharaoh said: “A joy to the eye [could this child be] for me and thee! Slay him not: he may well be of use to us, or we may adopt him as a son!” And they had no presentiment [of what he was to become].
+28|10|On the morrow, however, an aching void grew up in the heart of the mother of Moses, and she would indeed have disclosed all about him
+28|11|And so she said to his sister, “Follow him” - and [the girl] watched him from afar, while they [who had taken him in] were not aware of it,
+28|12|Now from the very beginning We caused him to refuse the breast of [Egyptian] nurses; and [when his sister came to know this,] she said: “Shall I guide you to a family that might rear him for you, and look after him with good will?”
+28|13|And thus We restored him to his mother, so that her eye might he gladdened, and that she might grieve no longer, and that she might know that God’s promise always comes true - even though most of them know it not!
+28|14|Now when [Moses] reached full manhood and had become mature [of mind]. We bestowed upon him the ability to judge [between right and wrong] as well as [innate] knowledge: for thus do We reward the doers of good.
+28|15|And [one day] he entered the city at a time when [most of] its people were [resting in their houses,] unaware of what was going on [in the streets];
+28|16|[And] he prayed: O my Sustainer! Verily, I have sinned against myself! Grant me, then, Thy forgiveness!” And He forgave him - for, verily, He alone is truly forgiving, a dispenser of grace.
+28|17|Said he: “O my Sustainer! [I vow] by all the blessings which Thou hast bestowed on me: Never&shy;more shall I aid such as are lost in sin!”
+28|18|And next morning he found himself in the city, looking fearfully about him, when lo! the one who had sought his help the day before [once again] cried out to him [for help
+28|19|But then     as soon as he was about to lay violent hands on the man who was their [common] enemy, the latter exclaimed: “O Moses, dost thou intend to slay me as thou didst slay another man yesterday? Thy sole aim is to become a tyrant in this land, for thou dost not care to be of those who would set things to rights!”
+28|20|And [then and there] a man came running from the farthermost end of the city, and said: “O Moses! Behold, the great ones [of the kingdom] are deli&shy;berating upon thy case with a view to killing thee! Begone, then: verily, I am of those who wish thee well!”
+28|21|So he went forth from thence, looking fearfully about him, and prayed: “O my Sustainer! Save me from all evildoing folk!”
+28|22|And as he turned his face towards Madyan, he said [to himself]: “It may well be that my Sustainer will [thus] guide me onto the right path”
+28|23|NOW WHEN he arrived at the wells     of Madyan, he found there a large group of men who were watering [their herds and flocks]; and at some distance from them he came upon two women who were keeping back their flock. He asked [them]: “What is the matter with you?” They answered: “We cannot water [our animals] until the herdsmen drive [theirs] home - for [we are weak and] our father is a very old man.”
+28|24|So he watered [their flock] for them: and when he withdrew into the shade and prayed: “O my Sus&shy;tainer! Verily, in dire need am I of any good which Thou mayest bestow upon me!”
+28|25|[Shortly] afterwards, one of the two [maidens] approached him, walking shyly, and said: “Behold, my father invites thee, so that he might duly reward thee for thy having watered [our flock] for us.” And as soon as [Moses] came unto him and told him the story [of his life], he said: “Have no fear! Thou art now safe from those evildoing folk!”
+28|26|Said one of the two [daughters]: “O my father! Hire him: for, behold, the best [man] that thou couldst hire is one who is [as] strong and worthy of trust [as he]!”
+28|27|[After some time, the father] said: “Behold, I am willing to let thee wed one of these two daughters of mine on the understanding that thou wilt remain eight years in my service; and if thou shouldst com&shy;plete ten [years], that would be [an act of grace] from thee, for I do not want to impose any hardship on thee: [on the contrary,] thou wilt find me, if God so wills, righteous in all my dealings.”
+28|28|Answered [Moses]: “Thus shall it be between me and thee! Whichever of the two terms I fulfill, let there be no ill will against me. And God be witness to all that we say!”
+28|29|And when Moses had fulfilled his term and was wandering with his family [in the desert], he per&shy;ceived a fire on the slope of Mount Sinai;     or [at least] a burning brand from the fire, so that you might warm yourselves.
+28|30|But when he came close to it, a call was sounded from the right-side bank of the valley, out of the tree [burning] on blessed ground:     “O Moses! Verily, I am God, the Sustainer of all the worlds!”
+28|31|And [then He said]: “Throw down thy staff!” But as soon as [Moses] saw it move rapidly, as if it were a snake, he drew back [in terror], and did not [dare to] return.
+28|32|“[And now] put thy hand into thy bosom: it will come forth [shining] white, without blemish.     unto Pharaoh and his great ones - for, behold, they are people depraved!”
+28|33|Said [Moses] “O my Sustainer! I have slain one of them, and so I fear that they will slay me.
+28|34|And my brother Aaron - he is far better in speech than I am.     Send him, therefore, as a helper, so that he might [more eloquently] bear witness to my speaking the truth: for I fear indeed that they will give me the lie.”
+28|35|Said He: “We shall strengthen thine arm through thy brother, and endow both of you with power, so that they will not be able to touch you:     by virtue of Our messages shall you two, and all who follow you, prevail!”
+28|36|But as soon as Moses came unto them with Our clear messages [Pharaoh and his great ones] said: “All this is nothing but spellbinding eloquence devised [by man]:     and never did we hear [the like of] this, [nor has it ever been heard of] in the time of our forebears of old!”
+28|37|And Moses replied: “My Sustainer knows best as to who comes with guidance from Him, and to whom the future belongs!     Verily, never will evil&shy;doers attain to a happy state!”
+28|38|Whereupon Pharaoh said: “O you nobles! I did not know that you could have any deity other than myself     although, behold, I am convinced that he is of those who [always] tell lies!”
+28|39|Thus arrogantly, without the least good sense,
+28|40|And so We seized him and his hosts and cast them into the sea: and behold what happened in the end to those evildoers:
+28|41|[We destroyed them,] and We set them up as archetypes [of evil] that show the way to the fire [of hell];     and [whereas] no succour will come to them on Resurrection Day,
+28|42|We have caused a curse to follow them in this world as well;
+28|43|And [then,] indeed, after We had destroyed those earlier generations [of sinners], We vouchsafed unto Moses [Our] revelation as a means of insight for men,     and as a guidance and grace, so that they might bethink themselves [of Us].
+28|44|NOW [as for thee, O Muhammad,] thou wert not present on the sunset slope [of Mount Sinai] when We imposed the Law upon Moses, nor wert thou among those who witnessed [his times]:
+28|45|nay, but [between them and thee] We brought into being [many] generations, and long was their span of life. And neither didst thou dwell among the people of Madyan, conveying Our messages unto them:     nay, but We have [always] been sending [Our message-bearers unto man].
+28|46|And neither wert thou present on the slope of Mount Sinai when We called out [to Moses]:     but [thou, too, art sent] as an act of thy Sustainer’s grace, to warn people to whom no warner has come before thee, so that they might bethink themselves [of Us];
+28|47|and [We have sent thee] lest they say [on Judg&shy;ment Day], when disaster befalls them as an outcome of what their own hands have wrought, “O our Sus&shy;tainer, if only Thou had sent an apostle unto us, we would have followed Thy messages, and would have been among those who believe!”
+28|48|And yet, now that the truth has come unto them from Us, they say, “Why has he not been vouch&shy;safed the like of what Moses was vouchsafed?”     And they add, “Behold, we refuse to accept either of them as true!”
+28|49|Say: “Produce, then, [another] revelation from God which would offer better guidance than either of these two     [and] I shall follow it, if you speak the truth!”
+28|50|And since they cannot respond to this thy challenge,     know that they are following only their own likes and dislikes: and who could be more astray than he who follows [but] his own likes and dislikes without any guidance from God? Verily, God does not grace with His guidance peo&shy;ple who are given to evildoing!
+28|51|NOW, INDEED, We have caused this word [of Ours] to reach mankind step by step, so that they might [learn to] keep it in mind.
+28|52|As for those unto whom We have vouchsafed revelation aforetime - they [are bound to] believe in this one [as well];
+28|53|and whenever it is [clearly] conveyed unto them, they [are bound to] profess, “We have come to believe in it, for, behold, it is the truth from our Sustainer - and, verily, even before this have we surrendered ourselves unto Him!”
+28|54|These it is that shall receive a twofold reward for having been patient in adversity, and having repelled evil with good,     and having spent on others out of what We provided for them as sus&shy;tenance,
+28|55|and, whenever they heard frivolous talk,     having turned away from it and said: “Unto us shall be accounted Our deeds, and unto you, your deeds. Peace be upon you - [but] we do not seek out such as are ignorant [of the meaning of right and wrong].”
+28|56|VERILY, thou canst not guide aright everyone whom thou lovest: but it is God who guides him that wills [to be guided];
+28|57|Now some say, “If we were to follow the guidance to which thou invitest us, we would be torn away from our very soil!”     But most of them are unaware [of this truth].
+28|58|And how many a community that [once] exult&shy;ed in its wanton wealth and ease of life have We destroyed, so that those dwelling-places of theirs – all but a few - have never been dwelt-in after them: for it is indeed We alone who shall remain when all else will have passed away!
+28|59|Yet, withal, thy Sustainer would never destroy a community without having [first] raised in its midst an apostle who would convey unto them Our mes&shy;sages;
+28|60|And [remember:] whatever you are given [now] is but for the [passing] enjoyment of life in this world, and for its embellishment - whereas that which is with God is [so much] better and more enduring. Will you not, then, use your reason?
+28|61|Is, then, he to whom We have given that goodly promise which he shall see fulfilled [on his resurrection]
+28|62|For, on that Day He will call unto them, and will ask: “Where, now, are those [beings or powers] whom you imagined to have a share in My divinity?”
+28|63|[whereupon] they against whom the word [of truth] shall thus stand revealed
+28|64|And [they] will be told: “Call [now] unto those [beings or powers] to whom you were wont to ascribe a share in God’s divinity!”
+28|65|And on that Day He will call unto them, and will ask: “How did you respond to My message&shy; bearers?”
+28|66|but all arguments and excuses will by then have been erased from their minds,
+28|67|But as against this - anyone who repents     and attains to faith and does righteous deeds may well [hope to] find himself among those who achieve a happy state [in the life to come].
+28|68|AND [thus it is:] thy Sustainer creates whatever He wills; and He chooses [for mankind] whatever is best for them.     Limitless is God in His glory, and sub&shy;limely exalted above anything to which they may ascribe a share in His divinity!
+28|69|And thy Sustainer knows all that their hearts conceal as well as all that they bring into the open:
+28|70|for He is God, save whom there is no deity. Unto Him all praise is due, at the beginning and at the end [of time];     and with Him rests all judgment; and unto Him shall you all be brought back.
+28|71|Say: “Have you ever considered [this]: If God had willed that there should always be night about you, without break, until the Day of Resurrection - is there any deity other than God that could bring you light?     Will you not, then, listen [to the truth]?”
+28|72|Say: “Have you ever considered [this]: If God had willed that there should always be daylight about you, without break, until the Day of Resurrection - is there any deity other than God that could bring you [the darkness of] night, wherein you might rest? Will you not, then, see [the truth]?”
+28|73|For it is out of His grace that He has made for you the night and the day, so that you might rest therein as well as seek to obtain [what you need] of His bounty: and [He gave you all this] so that you might have cause to be grateful.
+28|74|AND ON THAT DAY
+28|75|And [they will remain silent: for by then] We will have called forth witnesses from within every community,
+28|76|[NOW,] BEHOLD, Qarun was one of the people of Moses;     When [they perceived his arrogance,] his people said unto him: “Exult not [in thy wealth], for, verily, God does not love those who exult [in things vain]!
+28|77|Seek instead, by means of what God has granted thee, [the good of] the life to come,     and do good [unto others] as God has done good unto thee; and seek not to spread corruption on earth: for, verily, God does not love the spreaders of corruption!”
+28|78|Answered he: “This [wealth] has been given to me only by virtue of the knowledge that is in me!”
+28|79|And so he went forth before his people in all his pomp; [and] those who cared only for the life of this world would say, “Oh, if we but had the like of what Qarun has been given! Verily, with tremendous good fortune is he endowed!”
+28|80|But those who had been granted true knowl&shy;edge said: “Woe unto you! Merit in the sight of God     is by far the best for any who attains to faith and does what is right: but none save the patient in adversity can ever achieve this [blessing].”
+28|81|And thereupon We caused the earth to swallow him and his dwelling; and he had none and nothing to succour him against God, nor was he of those who could succour themselves.
+28|82|And on the morrow, those who but yesterday had longed to be in his place exclaimed: “Alas [for our not having been aware] that it is indeed God [alone] who grants abundant sustenance, or gives it in scant measure, unto whichever He wills of His crea&shy;tures! Had not God been gracious to us, He might have caused [the earth] to swallow us, too! Alas [for our having forgotten] that those who deny the truth can never attain to a happy state!”
+28|83|As for that [happy] life in the hereafter, We grant it [only] to those who do not seek to exalt themselves on earth, nor yet to spread corruption: for the future belongs to the God-conscious.
+28|84|Whosoever shall come [before God] with a good deed will gain [further] good there from;
+28|85|VERILY, [O believer,] He who has laid down this Qur’an in plain terms, making it binding on thee,     and who is obviously lost in error!”
+28|86|Now [as for thyself, O believer,] thou couldst never foresee     that this divine writ would [one day] be offered to thee: but [it did come to thee] by thy Sustainer’s grace. Hence, never uphold those who deny the truth [of divine guidance],
+28|87|and never let them turn thee away from God’s messages after they have been bestowed upon thee from on high: instead     summon [all men] to thy Sustainer. And never be of those who ascribe divinity to aught but Him,
+28|88|and never call upon any other deity side by side with God. There is no deity save Him. Everything is bound to perish, save His [eternal] self.     With Him rests all judgment; and unto Him shall you all be brought back.

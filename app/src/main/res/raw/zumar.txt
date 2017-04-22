@@ -1,0 +1,150 @@
+39|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
+39|2|إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
+39|3|أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌۭ كَفَّارٌۭ
+39|4|لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًۭا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+39|5|خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّٰرُ
+39|6|خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍۢ ۚ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًۭا مِّنۢ بَعْدِ خَلْقٍۢ فِى ظُلُمَٰتٍۢ ثَلَٰثٍۢ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۖ لَآ إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُصْرَفُونَ
+39|7|إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+39|8|۞ وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
+39|9|أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+39|10|قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍۢ
+39|11|قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًۭا لَّهُ ٱلدِّينَ
+39|12|وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ
+39|13|قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ
+39|14|قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًۭا لَّهُۥ دِينِى
+39|15|فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
+39|16|لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
+39|17|وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّٰغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوٓا۟ إِلَى ٱللَّهِ لَهُمُ ٱلْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ
+39|18|ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+39|19|أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِى ٱلنَّارِ
+39|20|لَٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌۭ مِّن فَوْقِهَا غُرَفٌۭ مَّبْنِيَّةٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ
+39|21|أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ ثُمَّ يُخْرِجُ بِهِۦ زَرْعًۭا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّۭا ثُمَّ يَجْعَلُهُۥ حُطَٰمًا ۚ إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
+39|22|أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَٰمِ فَهُوَ عَلَىٰ نُورٍۢ مِّن رَّبِّهِۦ ۚ فَوَيْلٌۭ لِّلْقَٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۢ مُّبِينٍ
+39|23|ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًۭا مُّتَشَٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
+39|24|أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
+39|25|كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+39|26|فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+39|27|وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ لَّعَلَّهُمْ يَتَذَكَّرُونَ
+39|28|قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍۢ لَّعَلَّهُمْ يَتَّقُونَ
+39|29|ضَرَبَ ٱللَّهُ مَثَلًۭا رَّجُلًۭا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلًۭا سَلَمًۭا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+39|30|إِنَّكَ مَيِّتٌۭ وَإِنَّهُم مَّيِّتُونَ
+39|31|ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَٰمَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ
+39|32|۞ فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدْقِ إِذْ جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْكَٰفِرِينَ
+39|33|وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ ۙ أُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+39|34|لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ
+39|35|لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ أَسْوَأَ ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ
+39|36|أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
+39|37|وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍۢ ذِى ٱنتِقَامٍۢ
+39|38|وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ
+39|39|قُلْ يَٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ
+39|40|مَن يَأْتِيهِ عَذَابٌۭ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌۭ مُّقِيمٌ
+39|41|إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ لِلنَّاسِ بِٱلْحَقِّ ۖ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ
+39|42|ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ
+39|43|أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًۭٔا وَلَا يَعْقِلُونَ
+39|44|قُل لِّلَّهِ ٱلشَّفَٰعَةُ جَمِيعًۭا ۖ لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ
+39|45|وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+39|46|قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
+39|47|وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًۭا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ
+39|48|وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+39|49|فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّۭ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةًۭ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌۭ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+39|50|قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+39|51|فَأَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ ۚ وَٱلَّذِينَ ظَلَمُوا۟ مِنْ هَٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَمَا هُم بِمُعْجِزِينَ
+39|52|أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
+39|53|۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+39|54|وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ
+39|55|وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةًۭ وَأَنتُمْ لَا تَشْعُرُونَ
+39|56|أَن تَقُولَ نَفْسٌۭ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ
+39|57|أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ
+39|58|أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةًۭ فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ
+39|59|بَلَىٰ قَدْ جَآءَتْكَ ءَايَٰتِى فَكَذَّبْتَ بِهَا وَٱسْتَكْبَرْتَ وَكُنتَ مِنَ ٱلْكَٰفِرِينَ
+39|60|وَيَوْمَ ٱلْقِيَٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْمُتَكَبِّرِينَ
+39|61|وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ
+39|62|ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍۢ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ
+39|63|لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
+39|64|قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَٰهِلُونَ
+39|65|وَلَقَدْ أُوحِىَ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
+39|66|بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّٰكِرِينَ
+39|67|وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًۭا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+39|68|وَنُفِخَ فِى ٱلصُّورِ فَصَعِقَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۖ ثُمَّ نُفِخَ فِيهِ أُخْرَىٰ فَإِذَا هُمْ قِيَامٌۭ يَنظُرُونَ
+39|69|وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
+39|70|وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
+39|71|وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ
+39|72|قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
+39|73|وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ
+39|74|وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
+39|75|وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+39|1|THE BESTOWAL from on high of this divine writ issues from God, the Almighty, the Wise:
+39|2|for, behold, it is We who have bestowed this revela&shy;tion upon thee from on high, setting forth the truth: so worship Him, sincere in thy faith in Him alone!
+39|3|Is it not to God alone that all sincere faith is due? And yet, they who take for their protectors aught beside Him [are wont to say], “We worship them for no other reason than that they bring us nearer to God.”
+39|4|Had God willed to take Unto Himself a son, He could have chosen anyone that He wanted out of whatever He has created - [but] limitless is He in His glory!     He is the One God, the One who holds absolute sway over all that exists!
+39|5|He it is who has created the heavens and the earth in accordance with [an inner] truth.     Is not He the Almighty, the All-Forgiving?
+39|6|He has created you [all] out of one living entity, and out of it fashioned its mate;
+39|7|If you are ingrate     In time, unto your Sustainer you all must return, and then He will make you [truly] understand all that you were doing [in life]: for, verily, He has full knowledge of what is in the hearts [of men].
+39|8|NOW [thus it is:] when affliction befalls man, he is likely to cry out    to his Sustainer, turning unto Him [for help];     - and thus leads [others] astray from His path. Say [unto him who sins in this way]: “Enjoy thyself for a while in this thy denial of the truth; [yet,] verily, thou art of those who are destined for the fire!
+39|9|Or [dost thou deem thyself equal to] one who devoutly worships [God] throughout the night, prostrating himself or standing [in prayer], ever- mindful of the life to come, and hoping for his Sustainer’s grace?”     Say: “Can they who know and they who do not know be deemed equal?” [But] only they who are endowed with insight keep this in mind!
+39|10|Say: “[Thus speaks God:]     [and,] verily, they who are patient in adversity will be given their reward in full, beyond all reckoning!’ ”
+39|11|Say [O Muhammad]: “Behold, I am bidden to worship God, sincere in my faith in Him alone;
+39|12|and I am bidden to be foremost among those who surrender themselves unto God.”
+39|13|Say: “Behold, I would dread, were I to rebel against my Sustainer, the suffering [which would befall me] on that awesome Day [of Judgment].”
+39|14|Say: “God alone do I worship, sincere in my faith in Him alone -
+39|15|and [it is up to you, O sinners, to] worship whatever you please instead of Him!” Say: “Behold, the [true] losers will be they who shall have lost their own selves and their kith and kin on Resurrection Day: for is not this, this, the [most] obvious loss?
+39|16|Clouds of fire will they have above them, and [similar] clouds beneath them…” In this way does God imbue His servants with fear.     O you servants of Mine! Be, then, conscious of Me -
+39|17|seeing that for those who shun the powers of evil lest they [be tempted to] worship them,     Give, then, this glad tiding to [those of] My ser&shy;vants
+39|18|who listen [closely] to all that is said, and follow the best of it:     [for] it is they whom God has graced with His guidance, and it is they who are [truly] endowed with insight!
+39|19|On the other hand,
+39|20|As against this     they who of their Sustainer are conscious shall [in the life to come] have man&shy;sions raised upon mansions high, beneath which run&shy;ning waters flow: [this is] God’s promise - [and] never does God fail to fulfill His promise.
+39|21|ART THOU NOT aware that it is God who sends down water from the skies, and then causes it to travel through the earth in the shape of springs? And then He brings forth thereby herbage of various hues; and then it withers, and thou canst see it turn yellow; and in the end He causes it to crumble to dust.     Verily, in [all] this there is indeed a reminder to those who are endowed with insight!
+39|22|Could, then, one whose bosom God has opened wide with willingness towards self-surrender unto Him, so that he is illumined by a light [that flows] from his Sustainer, [be likened to the blind and deaf of heart]? Woe, then, unto those whose hearts are hardened against all remembrance of God! They are most obviously lost in error!
+39|23|God bestows from on high
+39|24|Could, then, one who shall have nothing but is [bare] face to protect him  from the awful suffering [that will befall him] on Resurrection Day [be likened to the God-conscious]?     [On that Day,] the evildoers will be told: “Taste [now] what you have earned [in life]!”
+39|25|Those who lived before them did [too] give the lie to the truth - whereupon suffering befell them without their having perceived whence it came:
+39|26|and thus God let them taste ignominy [even] in the life of this world.     Yet [how] much greater will be the [sinners’] suffering in the life to come - if they [who now deny the truth] but knew it!
+39|27|THUS, INDEED, have We propounded unto men all kinds of parables in this Qur’an,    so that they might bethink themselves;     [and We have revealed it]
+39|28|as a discourse in the Arabic tongue, free of all devious&shy;ness, so that they might become conscious of God.
+39|29|[To this end,] God sets forth a parable: A man who has for his masters several partners,     [Nay,] all praise is due to God [alone]: but most of them do not understand this.
+39|30|Yet, verily, thou art bound to die, [O Muhammad,] and, verily, they, too, are bound to die:
+39|31|and then, behold, on the Day of Resurrection you all shall place your dispute before your Sustainer.
+39|32|And who could be more wicked than he who invents lies about God?
+39|33|But he who brings the truth, and he who wholeheartedly accepts it as true - it is they, they, who are [truly] conscious of Him!
+39|34|All that they have ever yearned for awaits them with their Sustainer: such will be the reward of the doers of good.
+39|35|And to this end, God will efface from their record the worst that they ever did, and give them their reward in accordance with the best that they were doing [in life].
+39|36|IS NOT God enough for His servant? And yet, they would frighten thee with those [imaginary divine powers which they worship] beside Him!     But he whom God lets go astray can never find any guide,
+39|37|whereas he whom God guides aright can never be led astray. Is not God almighty, an avenger of evil?
+39|38|And thus it is [with most people]: if    Say: “Have you, then, ever considered what it is that you invoke instead of God? If God wills that harm should befall me, could those [imaginary powers] remove the harm inflicted by Him? Or, if He wills that grace should alight on me, could they withhold His grace [from me]?” Say: “God is enough for me! In Him [alone] place their trust all who have trust [in His existence].”
+39|39|Say: “O my [truth-denying] people! Do yet all that may be within your power, [whereas] I, behold, shall labour [in God’s way]: in time you will come to know
+39|40|who it is that shall be visited [in this world] by suffering which will cover him with ignominy,    and upon whom long-lasting suffering shall alight [in the life to come]!”
+39|41|BEHOLD, from on high have We bestowed upon thee this divine writ, setting forth the truth for [the benefit of all] mankind. And whoever chooses to be guided [thereby], does so for his own good, and whoever chooses to go astray, goes but astray to his own hurt; and thou hast not the power to determine their fate.
+39|42|It is God [alone that has this power - He] who causes all human beings to die at the time of their [bodily] death, and [causes to be as dead], during their sleep, those that have not yet died:     thus, He withholds [from life] those upon whom He has decreed death, and lets the others go free for a term set [by Him]. In [all] this, behold, there are messages indeed for people who think!
+39|43|And yet,
+39|44|Say: “God’s alone is [the power to bestow the right of] intercession:     His [alone] is the dominion over the heavens and the earth; and, in the end, Unto Him you will all be brought back.”
+39|45|And yet, whenever God alone is mentioned, the hearts of those who will not believe in the life to come contract with bitter aversion - whereas, when those [imaginary powers] are mentioned side by side with Him, lo, they rejoice!
+39|46|Say: “O God! Originator of the heavens and the earth! Knower of all that is beyond the reach of a created being’s perception, as well as of all that can be witnessed by a creature’s senses or mind!     It is Thou who wilt judge between Thy servants [on Resurrection Day] with regard to all on which they were wont to differ!”
+39|47|But if those who are bent on evildoing posses&shy;sed all that is on earth, and twice as much,
+39|48|and obvious to them will have become the evil that they had wrought [in life]: and thus shall they be overwhelmed by the very truth which they were wont to deride.
+39|49|NOW [thus it is:] when affliction befalls man, he cries out unto Us for help; but when We bestow upon him a boon by Our grace, he says [to himself], “I have been given [all] this by virtue of [my own] wisdom!”    Nay, this [bestowal of grace] is a trial: but most of them understand it not!
+39|50|The same did say [to themselves many of] those who lived before their time; but of no avail to them was all that they had ever achieved:
+39|51|for all the evil deeds that they had wrought fell [back] upon them. And [the same will happen to] people of the present time who are bent on wrongdoing:     all the evil deeds that they have ever wrought will fall [back] upon them, and never will they be able to elude [God]!
+39|52|Are they, then, not aware that it is God who grants abundant sustenance, or gives it in scant measure, unto whomever He wills? In this, behold, there are messages indeed for peo&shy;ple who will believe!
+39|53|SAY: “[Thus speaks God:]
+39|54|Hence, turn towards your Sustainer [alone] and surrender yourselves unto Him ere the suffering [of death and resurrection] comes upon you, for then you will not be succoured.
+39|55|And ere that suffering comes upon you of a sudden, without your being aware [of its approach], follow the most goodly [teaching] that has been revealed unto you by your Sustainer,
+39|56|lest any human being     should say [on Judgment Day], “Alas for me for having been remiss in what is due to God, and for having been indeed one of those who scoffed [at the truth]!”
+39|57|or lest he should say, “If God had but guided me, I would surely have been among those who are conscious of Him!”-
+39|58|or lest he should say, when he becomes aware of the suffering [that awaits him], “Would that I had a second chance [in life], so that I could be among the doers of good!”
+39|59|[But God will reply:] “Yea, indeed! My mes&shy;sages did come unto thee; but thou gavest them the lie, and wert filled with false pride, and wert among those who deny the truth!”
+39|60|And [so,] on the Day of Resurrection thou wilt see all who invented lies about God [with] their faces darkened [by grief and ignominy].
+39|61|But God will safeguard all who were conscious of Him, [and will grant them happiness] by virtue of their [inner] triumphs; no evil shall ever touch them, and neither shall they grieve.
+39|62|GOD is the Creator of all things, and He alone has the power to determine the fate of all things.
+39|63|His are the keys [to the mysteries] of the heavens and the earth: and they who are bent on denying the truth of God’s messages - it is they, they, who are the losers!
+39|64|Say: “Is it, then, something other than God that you bid me to worship, O you who are unaware [of right and wrong]?”
+39|65|And yet, it has already been revealed to thee [O man,]     as well as to those who lived before thee, that if thou ever ascribe divine powers to aught but God, all thy works shall most certainly have been in vain: for [in the life to come] thou shalt most certainly be among the lost.
+39|66|Nay, but thou shalt worship God [alone], and be among those who are grateful [to Him]!
+39|67|And no true understanding of God have they [who worship aught beside Him], inasmuch as the whole of the earth will be as a [mere] handful to Him on Resurrection Day, and the heavens will be rolled up in His right hand:     limitless is He in His glory, and sublimely exalted above anything to which they may ascribe a share in His divinity!
+39|68|And [on that Day,] the trumpet [of judgment] will be sounded, and all [creatures] that are in the heavens and all that are on earth will fall down senseless, unless they be such as God wills [to exempt].
+39|69|And the earth will shine bright with her Sus&shy;tainer’s light.     and judgment will be passed on them all in justice. And they will not be wronged,
+39|70|for every human being will be repaid in full for whatever [good or evil] he has done:     and He is fully aware of all that they do.
+39|71|And those who were bent on denying the truth will be urged on in throngs towards hell till, when they reach it, its gates will be opened, and its keepers will ask them, “Have there not come to you apostles from among yourselves, who conveyed to you your Sustainer’s messages and warned you of the coming of this your Day [of Judgment]? ”They will answer: “Yea, indeed!” But the sentence of suffering will [already] have fallen due upon the deniers of the truth;
+39|72|[and] they will be told, “Enter the gates of hell, therein to abide!” And how vile an abode for those who were given to false pride!
+39|73|But those who were conscious of their Sus&shy;tainer will be urged on in throngs towards paradise till, when they reach it, they shall find its gates wide- open;     and its keepers will say unto them, “Peace be upon you! Well have you done: enter, then, this [paradise], herein to abide!”
+39|74|And they will exclaim: “All praise is due to God, who has made His promise to us come true, and has bestowed upon us this expanse [of bliss] as our portion,     so that we may dwell in paradise as we please!” And how excellent a reward will it be for those who laboured [in God’s way]!
+39|75|And thou wilt see the angels surrounding the throne of [God’s] almightiness, extolling their Sus&shy;tainer’s glory and praise.     “All praise is due to God, the Sustainer of all the worlds!”

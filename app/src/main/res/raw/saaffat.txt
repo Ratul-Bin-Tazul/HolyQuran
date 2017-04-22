@@ -1,0 +1,364 @@
+37|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلصَّٰٓفَّٰتِ صَفًّۭا
+37|2|فَٱلزَّٰجِرَٰتِ زَجْرًۭا
+37|3|فَٱلتَّٰلِيَٰتِ ذِكْرًا
+37|4|إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌۭ
+37|5|رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَٰرِقِ
+37|6|إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ
+37|7|وَحِفْظًۭا مِّن كُلِّ شَيْطَٰنٍۢ مَّارِدٍۢ
+37|8|لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍۢ
+37|9|دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ
+37|10|إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ
+37|11|فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍۢ لَّازِبٍۭ
+37|12|بَلْ عَجِبْتَ وَيَسْخَرُونَ
+37|13|وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ
+37|14|وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ
+37|15|وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ
+37|16|أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
+37|17|أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
+37|18|قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ
+37|19|فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ
+37|20|وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ
+37|21|هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
+37|22|۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ
+37|23|مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ
+37|24|وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ
+37|25|مَا لَكُمْ لَا تَنَاصَرُونَ
+37|26|بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
+37|27|وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
+37|28|قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
+37|29|قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ
+37|30|وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًۭا طَٰغِينَ
+37|31|فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ
+37|32|فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
+37|33|فَإِنَّهُمْ يَوْمَئِذٍۢ فِى ٱلْعَذَابِ مُشْتَرِكُونَ
+37|34|إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
+37|35|إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ
+37|36|وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ
+37|37|بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ
+37|38|إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ
+37|39|وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
+37|40|إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+37|41|أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ
+37|42|فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ
+37|43|فِى جَنَّٰتِ ٱلنَّعِيمِ
+37|44|عَلَىٰ سُرُرٍۢ مُّتَقَٰبِلِينَ
+37|45|يُطَافُ عَلَيْهِم بِكَأْسٍۢ مِّن مَّعِينٍۭ
+37|46|بَيْضَآءَ لَذَّةٍۢ لِّلشَّٰرِبِينَ
+37|47|لَا فِيهَا غَوْلٌۭ وَلَا هُمْ عَنْهَا يُنزَفُونَ
+37|48|وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ عِينٌۭ
+37|49|كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ
+37|50|فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
+37|51|قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ
+37|52|يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ
+37|53|أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ
+37|54|قَالَ هَلْ أَنتُم مُّطَّلِعُونَ
+37|55|فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
+37|56|قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ
+37|57|وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ
+37|58|أَفَمَا نَحْنُ بِمَيِّتِينَ
+37|59|إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ
+37|60|إِنَّ هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+37|61|لِمِثْلِ هَٰذَا فَلْيَعْمَلِ ٱلْعَٰمِلُونَ
+37|62|أَذَٰلِكَ خَيْرٌۭ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ
+37|63|إِنَّا جَعَلْنَٰهَا فِتْنَةًۭ لِّلظَّٰلِمِينَ
+37|64|إِنَّهَا شَجَرَةٌۭ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ
+37|65|طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ
+37|66|فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+37|67|ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًۭا مِّنْ حَمِيمٍۢ
+37|68|ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ
+37|69|إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ
+37|70|فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ
+37|71|وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ
+37|72|وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ
+37|73|فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ
+37|74|إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+37|75|وَلَقَدْ نَادَىٰنَا نُوحٌۭ فَلَنِعْمَ ٱلْمُجِيبُونَ
+37|76|وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+37|77|وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ
+37|78|وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ
+37|79|سَلَٰمٌ عَلَىٰ نُوحٍۢ فِى ٱلْعَٰلَمِينَ
+37|80|إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+37|81|إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+37|82|ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ
+37|83|۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ
+37|84|إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ
+37|85|إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+37|86|أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ
+37|87|فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ
+37|88|فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ
+37|89|فَقَالَ إِنِّى سَقِيمٌۭ
+37|90|فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ
+37|91|فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
+37|92|مَا لَكُمْ لَا تَنطِقُونَ
+37|93|فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+37|94|فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ
+37|95|قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
+37|96|وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
+37|97|قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
+37|98|فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ
+37|99|وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ
+37|100|رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ
+37|101|فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍۢ
+37|102|فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
+37|103|فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
+37|104|وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ
+37|105|قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+37|106|إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ
+37|107|وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍۢ
+37|108|وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ
+37|109|سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ
+37|110|كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+37|111|إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+37|112|وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ
+37|113|وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌۭ وَظَالِمٌۭ لِّنَفْسِهِۦ مُبِينٌۭ
+37|114|وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ
+37|115|وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+37|116|وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
+37|117|وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ
+37|118|وَهَدَيْنَٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
+37|119|وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْءَاخِرِينَ
+37|120|سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ
+37|121|إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+37|122|إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+37|123|وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
+37|124|إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ
+37|125|أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
+37|126|ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+37|127|فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ
+37|128|إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+37|129|وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ
+37|130|سَلَٰمٌ عَلَىٰٓ إِلْ يَاسِينَ
+37|131|إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+37|132|إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+37|133|وَإِنَّ لُوطًۭا لَّمِنَ ٱلْمُرْسَلِينَ
+37|134|إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+37|135|إِلَّا عَجُوزًۭا فِى ٱلْغَٰبِرِينَ
+37|136|ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ
+37|137|وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ
+37|138|وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ
+37|139|وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ
+37|140|إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ
+37|141|فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ
+37|142|فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ
+37|143|فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+37|144|لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+37|145|۞ فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌۭ
+37|146|وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ مِّن يَقْطِينٍۢ
+37|147|وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
+37|148|فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍۢ
+37|149|فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ
+37|150|أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ
+37|151|أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ
+37|152|وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ
+37|153|أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ
+37|154|مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+37|155|أَفَلَا تَذَكَّرُونَ
+37|156|أَمْ لَكُمْ سُلْطَٰنٌۭ مُّبِينٌۭ
+37|157|فَأْتُوا۟ بِكِتَٰبِكُمْ إِن كُنتُمْ صَٰدِقِينَ
+37|158|وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًۭا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ
+37|159|سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+37|160|إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+37|161|فَإِنَّكُمْ وَمَا تَعْبُدُونَ
+37|162|مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ
+37|163|إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
+37|164|وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ
+37|165|وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
+37|166|وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ
+37|167|وَإِن كَانُوا۟ لَيَقُولُونَ
+37|168|لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ
+37|169|لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+37|170|فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ
+37|171|وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ
+37|172|إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ
+37|173|وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ
+37|174|فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ
+37|175|وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ
+37|176|أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+37|177|فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ
+37|178|وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ
+37|179|وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ
+37|180|سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
+37|181|وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ
+37|182|وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+37|1|CONSIDER these [messages] ranged in serried ranks,
+37|2|and restraining [from evil] by a call to restraint,
+37|3|and conveying [to all the world] a reminder:
+37|4|Verily, most surely, your God is One –
+37|5|the Sustainer of the heavens and the earth and of all that is between them, and the Sustainer of all the points of sunrise!
+37|6|Behold, We have adorned the skies nearest to the earth with the beauty of stars,
+37|7|and have made them secure against every rebellious, satanic force,
+37|8|[so that] they [who seek to learn the unknowable] should not be able to overhear the host on high,     but shall be repelled from all sides,
+37|9|cast out [from all grace], with lasting suffering in store for them [in the life to come];
+37|10|but if anyone
+37|11|AND NOW ask those [who deny the truth] to enlight&shy;en thee: Were they more difficult to create than all those [untold marvels] that We have created? - for, behold, them have We created out of [mere] clay commingled with water!
+37|12|Nay, but whereas thou dost marvel,    they [only] scoff;
+37|13|and when they are reminded [of the truth], they refuse to take it to heart;
+37|14|and when they become aware of a [divine] message, they turn it to ridicule
+37|15|and say: “This is clearly nothing but [a mortal’s] spellbinding eloquence!
+37|16|Why - after we have died and become mere dust and bones, shall we, forsooth, be raised from the dead? –
+37|17|and perhaps also our forebears of old?”
+37|18|Say: “Yea, indeed - and most abject will you then be!” –
+37|19|for that [resurrection which they deride] will be [upon them of a sudden, as if it were] but a single accusing cry - and then, lo! they will begin to see [the truth]
+37|20|and will say: “Oh, woe unto us! This is the Day of Judgment!”
+37|21|[And they will be told:] “This is the Day of Distinction [between the true and the false - the Day]     which you were wont to call a lie!”
+37|22|[And God will thus command:] “Assemble all those who were bent on evildoing, together with others of their ilk     and [with] all that they were wont to worship
+37|23|instead of God, and lead them all onto the way to the blazing fire,
+37|24|and halt them [there]!” [And then,] behold, they shall be asked,
+37|25|“How is it that [now] you cannot succour one another?”
+37|26|Nay, but on that Day they would willingly surrender [to God];
+37|27|but [since it will be too late,] they will turn upon one another, demanding of each other [to relieve them of the burden of their past sins].
+37|28|Some [of them] will say: “Behold, you were wont to approach us [deceptively] from the right!”
+37|29|[To which] the others will reply: “Nay, you yourselves were bereft of all faith!
+37|30|Moreover, we had no power at all over you: nay, you were people filled with overweening arrogance!
+37|31|But now our Sustainer’s word has come true against us [as well]: verily, we are bound to taste [the fruit of our sins].
+37|32|So then, [if it be true that] we have caused you to err grievously - behold, we ourselves had been lost in grievous error!”
+37|33|And, verily, on that Day they all will share in their common suffering.
+37|34|Verily, thus shall We deal with all who were lost in sin:
+37|35|for, behold, whenever they were told, “There is no deity save God,” they would glory in their arrogance
+37|36|and would say, “Shall we, then, give up our deities at the bidding of a mad poet?”
+37|37|Nay, but he [whom you call a mad poet] has brought the truth; and he confirms the truth of [what the earlier of God’s] message-bearers [have taught].
+37|38|Behold, you will indeed taste grievous suffering [in the life to come],
+37|39|although you shall not be requited for aught but what you were wont to do.
+37|40|Not so, however, God’s true servants:
+37|41|[in the hereafter,] theirs shall be a sustenance which they will recognize
+37|42|as the fruits [of their life on earth]; and honoured shall they be
+37|43|in gardens of bliss,
+37|44|facing one another [in love] upon thrones of happiness.
+37|45|A cup will be passed round among them [with a drink] from unsullied springs,
+37|46|clear, delightful to those who drink it:
+37|47|no headiness will be in it, and they will not get drunk thereon.
+37|48|And with them will be mates of modest gaze,     most beautiful of eye,
+37|49|[as free of faults] as if they were hidden [ostrich] eggs.
+37|50|And they will all turn to one another, asking each other [about their past lives].
+37|51|One of them speaks thus: “Behold, I had [on earth] a close companion
+37|52|who was wont to ask [me], ‘Why - art thou really one of those who believe it to be true
+37|53|[that] after we have died and become mere dust and bones we shall, forsooth, be brought to judgment?”’
+37|54|[And] he adds: “Would you like to look [and see him]?” –
+37|55|and then he looks and sees that [companion of his] in the midst of the blazing fire,
+37|56|and says: “By God! Verily, thou hast almost destroyed me [too, O my erstwhile companion]
+37|57|for had it not been for my Sustainer’s favour, I would surely be [now] among those who are given over [to suffering]!
+37|58|But then, [O my friends in paradise,] is it [really] so that we are not to die
+37|59|[again,] beyond our previous death, and that we shall never [again] be made to suffer?
+37|60|Verily, this - this indeed - is the triumph supreme!”
+37|61|For the like of this, then, let them labour, those who labour [in God’s way]!
+37|62|Is such [a paradise] the better welcome - or the [hellish] tree of deadly fruit?
+37|63|Verily, We have caused it to be a trial for evildoers:
+37|64|for, behold, it is a tree that grows in the very heart of the blazing fire [of hell],
+37|65|its fruit [as repulsive] as satans’ heads;
+37|66|and they [who are lost in evil] are indeed bound to eat thereof, and to fill their bellies therewith.
+37|67|And, behold, above all this they will be confounded with burning des&shy;pair!
+37|68|And once again:     Verily, the blazing fire is their ultimate goal –
+37|69|for, behold, they found their forebears on a wrong way,
+37|70|and [now] they make haste to follow in their footsteps!
+37|71|Thus, indeed, most of the people of old went astray before them,
+37|72|although, verily, We had sent warners unto them:
+37|73|and behold what happened in the end to those that had been warned [to no avail]!
+37|74|EXCEPT for God’s true servants, [most people are apt to go astray.]
+37|75|And, indeed, [it was for this reason that] Noah cried unto Us - and how excellent was Our response:
+37|76|for We saved him and his household from that awesome calamity,
+37|77|and caused his offspring to endure [on earth];
+37|78|and We left him thus to be remembered among later generations:
+37|79|“Peace be upon Noah throughout all the worlds!”
+37|80|Verily, thus do We reward the doers of good –
+37|81|for he was truly one of our believing servants:
+37|82|[and so We saved him and those who followed him] and then We caused the others to drown.
+37|83|AND, BEHOLD, of his persuasion was Abraham, too,
+37|84|when he turned to his Sustainer with a heart free of evil,
+37|85|and [thus] spoke to his father and his people: “What is it that you worship?
+37|86|Do you want [to bow down before] a lie - [before] deities other than God?
+37|87|What, then, do you think of the Sustainer of all the worlds?”
+37|88|Then he cast a glance at the stars,
+37|89|and said, “Verily, I am sick [at heart]!”
+37|90|and at that they turned their backs on him and went away.
+37|91|Thereupon he approached their gods stealthily and said, “What! You do not eat [of the offerings placed before you]?
+37|92|What is amiss with you that you do not speak?”
+37|93|And then he fell upon them, smiting them with his right hand.
+37|94|[But] then the others came towards him hur&shy;riedly [and accused him of his deed].
+37|95|He answered: “Do you worship something that you [yourselves] have carved,
+37|96|the while it is God who has created you and all your handiwork?”
+37|97|They exclaimed: “Build a pyre     for him, and cast him into the blazing fire!”
+37|98|But whereas they sought to do evil unto him, We [frustrated their designs, and thus] brought them low?
+37|99|And [Abraham] said: “Verily, I shall [leave this land and] go wherever my Sustainer will guide me!”
+37|100|[And he prayed:] “O my Sustainer! Bestow upon me the gift of [a son who shall be] one of the righteous!” –
+37|101|whereupon We gave him the glad tiding of a boy-child gentle [like himself]?
+37|102|And [one day,] when [the child] had become old enough to share in his [father’s] endeavours,     the latter said: “O my dear son! I have seen in a dream that I should sacrifice thee: consider, then, what would be thy view!” [Ishmael] answered: “O my father! Do as thou art bidden: thou wilt find me, if God so wills, among those who are patient in adversity!”
+37|103|But as soon as the two had surrendered themselves to [what they thought to be] the will of God,     and [Abraham] had laid him down on his face,
+37|104|We called out to him: “O Abraham,
+37|105|thou hast already fulfilled [the purpose of] that dream- vision!”     Thus, verily, do We reward the doers of good:
+37|106|for, behold, all this was indeed a trial, clear in itself.
+37|107|And We ransomed him with a tremendous sacrifice,
+37|108|and left him thus to be remembered among later generations:
+37|109|“Peace be upon Abraham!”
+37|110|Thus do We reward the doers of good –
+37|111|for he was truly one of our believing servants.
+37|112|And [in time] We gave him the glad tiding of Isaac, [who, too, would be] a prophet, one of the righteous;
+37|113|and We blessed him and Isaac: but among the offspring of these two there were [des&shy;tined] to be both doers of good and such as would glaringly sin against themselves.
+37|114|THUS, INDEED, did We bestow Our favour upon Moses and Aaron;
+37|115|and We saved them and their people from the awesome calamity [of bondage],
+37|116|and succoured them, so that [in the end] it was they who achieved victory.
+37|117|And We gave them the divine writ that made [right and wrong] distinct,
+37|118|and guided them the straight way,
+37|119|and left them thus to be remem&shy;bered among later generations:
+37|120|“Peace be upon Moses and Aaron!”
+37|121|Thus do We reward the doers of good –
+37|122|for those two were truly among Our believing ser&shy;vants.
+37|123|AND, BEHOLD, Elijah [too] was indeed one of Our message-bearers
+37|124|when he spoke [thus] to his people: “Will you not remain conscious of God?
+37|125|Will you invoke Baal and forsake [God,] the best of artisans -
+37|126|God, your Sustainer and the Sustainer of your forebears of old?”
+37|127|But they gave him the lie: and therefore they will most surely be arraigned [on Judgment Day],
+37|128|excepting only [those who were] God’s true servants;
+37|129|and him We left thus to be remem&shy;bered among later generations:
+37|130|“Peace be upon Elijah and his followers!”
+37|131|Verily, thus do We reward the doers of good –
+37|132|for he was truly one of Our believing servants!
+37|133|AND, BEHOLD, Lot was indeed one of Our mes&shy;sage-bearers;
+37|134|[and so,] when [We decreed the doom of his sinful town,]        We saved him and his household,
+37|135|except an old woman who was among those that stayed behind;
+37|136|and then We utterly destroyed the others:
+37|137|and, verily, [to this day] you pass by the remnants of their dwellings    at morning-time
+37|138|and by night.     Will you not, then, use your reason?
+37|139|AND, BEHOLD, Jonah was indeed one of Our mes&shy;sage-bearers
+37|140|when he fled like a runaway slave onto a laden ship.
+37|141|And then they cast lots, and he was the one who lost;
+37|142|[and they cast him into the sea,] whereupon the great fish swallowed him, for he had been blameworthy.
+37|143|And had he not been of those who [even in the deep darkness of their distress are able to] extol God’s limitless glory,
+37|144|he would indeed have remained in its belly till the Day when all shall be raised from the dead:
+37|145|but We caused him to be cast forth on a desert shore, sick [at heart] as he was,
+37|146|and caused a creeping plant to grow over him [out of the barren soil].
+37|147|And [then] We sent him [once again] to [his people,] a hundred thousand [souls] or more:
+37|148|and [this time] they believed [in him]
+37|149|AND NOW ask them to enlighten thee:
+37|150|- or is it that We have created the angels female, and they [who believe them to be divine] have witnessed [that act of creation]?
+37|151|Oh, verily, it is out of their own [inclination to] falsehood that some people     assert,
+37|152|“God has begotten [a son]”; and, verily, they are lying [too, when they say],
+37|153|“He has chosen daughters in preference to sons”!
+37|154|What is amiss with you and your judgment?
+37|155|Will you not, then, bethink yourselves?
+37|156|Or have you, perchance, a clear evidence [for your assertions]?
+37|157|Produce, then, that divine writ of yours, if you are speaking the truth!
+37|158|And some people
+37|159|limitless is God in His glory, above anything that men may devise by way of definition!
+37|160|Not thus, however, [behave] God’s true ser&shy;vants:
+37|161|for, verily, neither you [blasphemers] nor the objects of your worship
+37|162|can cause anyone to fall prey to your temptation
+37|163|unless it be such as rushes towards the blazing fire [of his own accord]!
+37|164|[All forces of nature praise God and say:]     “Among us, too, there is none but has a place assigned to it [by Him];
+37|165|and, verily, we too are ranged [before Him in worship];
+37|166|and, verily, we too extol His limitless glory!”
+37|167|AND, INDEED, they [who deny the truth] have always been wont to say,
+37|168|“If only we had a tradition [to this effect] from our forebears,
+37|169|we would certainly be true servants of God.”
+37|170|And yet, [now that this divine writ has been placed before them,] they refuse to acknowledge it as true! In time, however, they will come to know [what it was that they had rejected]:
+37|171|for, long ago has Our word gone forth unto Our servants, the message- bearers,
+37|172|that, verily, they - they indeed - would be succoured,
+37|173|and that, verily, Our hosts - they indeed - would [in the end] be victorious!
+37|174|Hence, turn thou aside for a while from those [who deny the truth],
+37|175|and see them [for what they are];
+37|176|Do they, then, [really] wish that Our chas&shy;tisement be hastened on?
+37|177|But then, once it alights upon them, hapless will be the awakening of those who were warned [to no avail]!
+37|178|Hence, turn thou aside for a while from them,
+37|179|and see [them for what they are]; and n time they [too] will come to see [what they do not see now].
+37|180|LIMITLESS in His glory is thy Sustainer, the Lord of almightiness, [exalted] above anything that men may devise by way of definition!
+37|181|And peace be upon all His message-bearers!
+37|182|And all praise is due to God alone, the Sus&shy;tainer of all the worlds!

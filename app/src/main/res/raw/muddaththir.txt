@@ -1,0 +1,112 @@
+74|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ
+74|2|قُمْ فَأَنذِرْ
+74|3|وَرَبَّكَ فَكَبِّرْ
+74|4|وَثِيَابَكَ فَطَهِّرْ
+74|5|وَٱلرُّجْزَ فَٱهْجُرْ
+74|6|وَلَا تَمْنُن تَسْتَكْثِرُ
+74|7|وَلِرَبِّكَ فَٱصْبِرْ
+74|8|فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ
+74|9|فَذَٰلِكَ يَوْمَئِذٍۢ يَوْمٌ عَسِيرٌ
+74|10|عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍۢ
+74|11|ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًۭا
+74|12|وَجَعَلْتُ لَهُۥ مَالًۭا مَّمْدُودًۭا
+74|13|وَبَنِينَ شُهُودًۭا
+74|14|وَمَهَّدتُّ لَهُۥ تَمْهِيدًۭا
+74|15|ثُمَّ يَطْمَعُ أَنْ أَزِيدَ
+74|16|كَلَّآ ۖ إِنَّهُۥ كَانَ لِءَايَٰتِنَا عَنِيدًۭا
+74|17|سَأُرْهِقُهُۥ صَعُودًا
+74|18|إِنَّهُۥ فَكَّرَ وَقَدَّرَ
+74|19|فَقُتِلَ كَيْفَ قَدَّرَ
+74|20|ثُمَّ قُتِلَ كَيْفَ قَدَّرَ
+74|21|ثُمَّ نَظَرَ
+74|22|ثُمَّ عَبَسَ وَبَسَرَ
+74|23|ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ
+74|24|فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ
+74|25|إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ
+74|26|سَأُصْلِيهِ سَقَرَ
+74|27|وَمَآ أَدْرَىٰكَ مَا سَقَرُ
+74|28|لَا تُبْقِى وَلَا تَذَرُ
+74|29|لَوَّاحَةٌۭ لِّلْبَشَرِ
+74|30|عَلَيْهَا تِسْعَةَ عَشَرَ
+74|31|وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+74|32|كَلَّا وَٱلْقَمَرِ
+74|33|وَٱلَّيْلِ إِذْ أَدْبَرَ
+74|34|وَٱلصُّبْحِ إِذَآ أَسْفَرَ
+74|35|إِنَّهَا لَإِحْدَى ٱلْكُبَرِ
+74|36|نَذِيرًۭا لِّلْبَشَرِ
+74|37|لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
+74|38|كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ
+74|39|إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ
+74|40|فِى جَنَّٰتٍۢ يَتَسَآءَلُونَ
+74|41|عَنِ ٱلْمُجْرِمِينَ
+74|42|مَا سَلَكَكُمْ فِى سَقَرَ
+74|43|قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ
+74|44|وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ
+74|45|وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ
+74|46|وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ
+74|47|حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ
+74|48|فَمَا تَنفَعُهُمْ شَفَٰعَةُ ٱلشَّٰفِعِينَ
+74|49|فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ
+74|50|كَأَنَّهُمْ حُمُرٌۭ مُّسْتَنفِرَةٌۭ
+74|51|فَرَّتْ مِن قَسْوَرَةٍۭ
+74|52|بَلْ يُرِيدُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًۭا مُّنَشَّرَةًۭ
+74|53|كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْءَاخِرَةَ
+74|54|كَلَّآ إِنَّهُۥ تَذْكِرَةٌۭ
+74|55|فَمَن شَآءَ ذَكَرَهُۥ
+74|56|وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
+74|1|O THOU [in thy solitude] enfolded!
+74|2|Arise and warn!
+74|3|And thy Sustainer's greatness glorify!
+74|4|And thine inner self purify!
+74|5|And all defilement shun!
+74|6|And do not through giving seek thyself to gain,
+74|7|but unto thy Sustainer turn in patience.
+74|8|And [warn all men that] when the trumpet-call [of resurrection] is sounded,
+74|9|that very Day shall be a day of anguish,
+74|10|not of ease, for all who [now] deny the truth!
+74|11|LEAVE Me alone [to deal] with him whom I have created alone,
+74|12|and to whom I have granted resources vast,
+74|13|and children as [love's] witnesses,
+74|14|and to whose life I gave so wide a scope:
+74|15|and yet, he greedily desires that I give yet more!
+74|16|Nay, verily, it is against Our messages that he knowingly, stubbornly sets himself
+74|17|[and so] I shall constrain him to endure a painful uphill climb!
+74|18|Behold, [when Our messages are conveyed to one who is bent on denying the truth,] he reflects and meditates [as to how to disprove them] –
+74|19|and thus he destroys himself,     the way he meditates:
+74|20|yea, he destroys himself, the way he meditates!
+74|21|and then he looks [around for new arguments],
+74|22|and then he frowns and glares,
+74|23|and in the end he turns his back [on Our message], and glories in his arrogance,
+74|24|and says, "All this is mere spellbinding eloquence handed down [from olden times]!
+74|25|This is nothing but the word of mortal man!"
+74|26|[Hence,] I shall cause him to endure hell-fire [in the life to come]!
+74|27|And what could make thee conceive what hell-fire is?
+74|28|It does not allow to live, and neither leaves [to die],
+74|29|making [all truth] visible to mortal man.
+74|30|Over it are nineteen [powers].
+74|31|For We have caused none but angelic powers to lord over the fire [of hell];     is but a reminder to mortal man.
+74|32|NAY, but consider the moon!
+74|33|Consider the night when it departs,
+74|34|and the morn when it dawns!
+74|35|Verily, that [hell-fire) is Indeed one of the great [forewarnings] –
+74|36|a warning to mortal man –
+74|37|to everyone of you, whether he chooses to come forward or to hang back!
+74|38|[On the Day of Judgment,] every human being will be held in pledge for whatever [evil] he has wrought –
+74|39|save those who shall have attained to righteousness:
+74|40|[dwelling] In gardens [of paradise], they will inquire
+74|41|of those who were lost in sin:
+74|42|"What has brought you into hell-fire?"
+74|43|They will answer: "We were not among those who prayed;
+74|44|and neither did we feed the needy;
+74|45|and we were wont to indulge in sinning together with all [the others] who indulged in it;
+74|46|and the Day of Judgment we were wont to call a lie –
+74|47|until certainty came upon us [in death]."
+74|48|And so, of no benefit to them could be the intercession of any that would intercede for them.
+74|49|WHAT, THEN, is amiss with them     that they turn away from all admonition
+74|50|as though they were terrified asses
+74|51|fleeing from a lion?
+74|52|Yea, everyone of them claims that he [himself] ought to have been given revelations unfolded!
+74|53|Nay, but they do not [believe in and, hence, do not] fear the life to come.
+74|54|Nay, verily, this is an admonition –
+74|55|and whoever wills may take it to heart.
+74|56|But they [who do not believe in the life to come] will not take it to heart unless God so wills:     [for] He is the Fount of all God-consciousness, and the Fount of all forgiveness.

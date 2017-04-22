@@ -1,0 +1,156 @@
+55|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ
+55|2|عَلَّمَ ٱلْقُرْءَانَ
+55|3|خَلَقَ ٱلْإِنسَٰنَ
+55|4|عَلَّمَهُ ٱلْبَيَانَ
+55|5|ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ
+55|6|وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+55|7|وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
+55|8|أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
+55|9|وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+55|10|وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ
+55|11|فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ
+55|12|وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+55|13|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|14|خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ
+55|15|وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ
+55|16|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|17|رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ
+55|18|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|19|مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ
+55|20|بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ
+55|21|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|22|يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ
+55|23|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|24|وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ
+55|25|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|26|كُلُّ مَنْ عَلَيْهَا فَانٍۢ
+55|27|وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+55|28|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|29|يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ
+55|30|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|31|سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ
+55|32|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|33|يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ
+55|34|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|35|يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ
+55|36|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|37|فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ
+55|38|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|39|فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ
+55|40|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|41|يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
+55|42|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|43|هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ
+55|44|يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ
+55|45|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|46|وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ
+55|47|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|48|ذَوَاتَآ أَفْنَانٍۢ
+55|49|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|50|فِيهِمَا عَيْنَانِ تَجْرِيَانِ
+55|51|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|52|فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ
+55|53|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|54|مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ
+55|55|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|56|فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ
+55|57|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|58|كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
+55|59|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|60|هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ
+55|61|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|62|وَمِن دُونِهِمَا جَنَّتَانِ
+55|63|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|64|مُدْهَآمَّتَانِ
+55|65|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|66|فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+55|67|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|68|فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ
+55|69|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|70|فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ
+55|71|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|72|حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ
+55|73|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|74|لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ
+55|75|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|76|مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ
+55|77|فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+55|78|تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+55|1|THE MOST GRACIOUS
+55|2|has imparted this Qur’an [unto man].
+55|3|He has created man:
+55|4|He has imparted unto him articulate thought and speech.
+55|5|[At His behest] the sun and the moon run their appointed courses;
+55|6|[before Him] prostrate them&shy;selves the stars and the trees.
+55|7|And the skies has He raised high, and has devised [for all things] a measure,
+55|8|so that you [too, O men,] might never transgress the measure [of what is right]:
+55|9|weigh, therefore, [your deeds] with equity, and cut not the measure short!
+55|10|And the earth has He spread out for all living beings,
+55|11|with fruit thereon, and palm trees with sheathed clusters [of dates],
+55|12|and grain growing tall on its stalks, and sweet-smelling plants.
+55|13|Which, then, of your Sustainer’s powers can you disavow?
+55|14|He has created man out of sounding clay, like pottery,
+55|15|whereas the invisible beings He has created out of a confusing flame of fire.
+55|16|Which, then, of your Sustainer’s powers can you disavow?
+55|17|[He is] the Sustainer of the two farthest points of sunrise, and the Sustainer of the two farthest points of sunset.
+55|18|Which, then, of your Sustain&shy;er’s powers can you disavow?
+55|19|He has given freedom to the two great bodies of water, so that they might meet:
+55|20|[yet] between them is a barrier which they may not transgress.
+55|21|Which, then, of your Sustainer’s powers can you disavow?
+55|22|Out of these two [bodies of water] come forth pearls, both great and small.
+55|23|Which, then, of your Sustainer’s powers can you disavow?
+55|24|And His are the lofty ships that sail like [floating] mountains through the seas.
+55|25|Which, then, of your Sustainer’s powers can you disavow?
+55|26|All that lives on earth or in the heavens    is bound to pass away:
+55|27|but forever will abide thy Sustainer’s Self,     full of majesty and glory.
+55|28|Which, then, of your Sustainer’s powers can you disavow?
+55|29|On Him depends all creatures     in the heavens and on earth; [and] every day He manifests Himself in yet another [wondrous] way.
+55|30|Which, then, of your Sustainer’s powers can you disavow?
+55|31|[ONE DAY] We shall take you to task,
+55|32|Which, then, of your Sustainer’s powers can you disavow?
+55|33|O you who live in close communion with [evil] invisible beings and humans!
+55|34|Which, then, of your Sustainer’s powers can you disavow?
+55|35|A flash of fire will be let loose upon you, and smoke, and you will be left without succour!
+55|36|Which, then, of your Sustainer’s powers can you disavow?
+55|37|And when the sky is rent asunder and becomes red like [burning] oil
+55|38|which, then, of your Sustainer’s powers can you disavow?
+55|39|For on that Day neither man nor invisible being will be asked about his sins.
+55|40|Which, then, of your Sustainer’s powers can you disavow?
+55|41|All who were lost in sin shall by their marks be known, and shall by their forelocks and their feet be seized!
+55|42|Which, then, of your Sustainer’s powers can you disavow?
+55|43|This will be the hell which those who are lost in sin [now] call a lie:
+55|44|between it and [their own] burning-hot despair will they wander to and fro!
+55|45|Which, then, of your Sustainer’s powers can you disavow?
+55|46|BUT FOR THOSE who of their Sustainer’s Presence stand in fear, two gardens [of paradise are readied] -
+55|47|which, then, of your Sustainer’s powers can you disavow? –
+55|48|[two gardens] of many wondrous hues.
+55|49|Which, then, of your Sustainer’s powers can you disavow?
+55|50|In [each of] these two [gardens] two springs will flow.
+55|51|Which, then, of your Sustainer’s powers can you disavow?
+55|52|In [each of] these two will two kinds of every fruit be [found].
+55|53|Which, then, of your Sustainer s powers can you disavow?
+55|54|[In such a paradise the blest will dwell,] reclin&shy;ing upon carpets lined with rich brocade;     and the fruit of both these gardens will be within easy reach.
+55|55|Which, then, of your Sustainer’s powers can you disavow?
+55|56|In these [gardens] will be mates of modest gaze, whom neither man nor invisible being will have touched ere then.
+55|57|Which, then, of your Sus&shy;tainer’s powers can you disavow?
+55|58|[When you are promised splendours] as though [of] rubies and [of] pearls –
+55|59|which, then, of your Sustainer’s powers can you disavow?
+55|60|Could the reward of good be aught but good?
+55|61|Which, then, of your Sustainer’s powers can you disavow?
+55|62|And besides those two will be yet two [other] gardens -
+55|63|which, then, of your Sustainer’s powers can you disavow? –
+55|64|two [gardens] of the deepest green.
+55|65|Which, then, of your Sustainer’s powers can you disavow?
+55|66|In [each of] these two [gardens] will two springs gush forth.
+55|67|Which, then, of your Sus&shy;tainer’s powers can you disavow?
+55|68|In both of them will be [all kinds of] fruit, and date-palms and pomegranates.
+55|69|Which, then, of your Sustainer’s powers can you disavow?
+55|70|In these [gardens] will be [all] things most excellent and beautiful.
+55|71|Which, then, of your Sustainer’s powers can you disavow?
+55|72|[There the blest will live with their] companions pure     and modest, in pavilions [splendid] -
+55|73|which, then, of your Sustainer’s powers can you disavow? –
+55|74|[companions] whom neither man nor invisible being will have touched ere then.
+55|75|Which, then, of your Sustainer’s powers can you disavow?
+55|76|[In such a paradise will they dwell,] reclining upon meadows green and carpets rich in beauty.
+55|77|Which, then, of your Sustainer’s powers can you disavow?
+55|78|HALLOWED be thy Sustainer’s name, full of majesty and glory!

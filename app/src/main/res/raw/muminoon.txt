@@ -1,0 +1,236 @@
+23|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ
+23|2|ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ
+23|3|وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ
+23|4|وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَٰعِلُونَ
+23|5|وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ
+23|6|إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+23|7|فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ
+23|8|وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ
+23|9|وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ
+23|10|أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
+23|11|ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+23|12|وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍۢ مِّن طِينٍۢ
+23|13|ثُمَّ جَعَلْنَٰهُ نُطْفَةًۭ فِى قَرَارٍۢ مَّكِينٍۢ
+23|14|ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةًۭ فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةًۭ فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًۭا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًۭا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ
+23|15|ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ
+23|16|ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَٰمَةِ تُبْعَثُونَ
+23|17|وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ
+23|18|وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍۢ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَٰدِرُونَ
+23|19|فَأَنشَأْنَا لَكُم بِهِۦ جَنَّٰتٍۢ مِّن نَّخِيلٍۢ وَأَعْنَٰبٍۢ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌۭ وَمِنْهَا تَأْكُلُونَ
+23|20|وَشَجَرَةًۭ تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍۢ لِّلْءَاكِلِينَ
+23|21|وَإِنَّ لَكُمْ فِى ٱلْأَنْعَٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَٰفِعُ كَثِيرَةٌۭ وَمِنْهَا تَأْكُلُونَ
+23|22|وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
+23|23|وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
+23|24|فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةًۭ مَّا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
+23|25|إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌۭ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍۢ
+23|26|قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
+23|27|فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّۢ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ
+23|28|فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+23|29|وَقُل رَّبِّ أَنزِلْنِى مُنزَلًۭا مُّبَارَكًۭا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ
+23|30|إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ وَإِن كُنَّا لَمُبْتَلِينَ
+23|31|ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
+23|32|فَأَرْسَلْنَا فِيهِمْ رَسُولًۭا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ
+23|33|وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْءَاخِرَةِ وَأَتْرَفْنَٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ
+23|34|وَلَئِنْ أَطَعْتُم بَشَرًۭا مِّثْلَكُمْ إِنَّكُمْ إِذًۭا لَّخَٰسِرُونَ
+23|35|أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًۭا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
+23|36|۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ
+23|37|إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+23|38|إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ
+23|39|قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
+23|40|قَالَ عَمَّا قَلِيلٍۢ لَّيُصْبِحُنَّ نَٰدِمِينَ
+23|41|فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَٰهُمْ غُثَآءًۭ ۚ فَبُعْدًۭا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
+23|42|ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
+23|43|مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ
+23|44|ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا ۖ كُلَّ مَا جَآءَ أُمَّةًۭ رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًۭا وَجَعَلْنَٰهُمْ أَحَادِيثَ ۚ فَبُعْدًۭا لِّقَوْمٍۢ لَّا يُؤْمِنُونَ
+23|45|ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
+23|46|إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ
+23|47|فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
+23|48|فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ
+23|49|وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ لَعَلَّهُمْ يَهْتَدُونَ
+23|50|وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ
+23|51|يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَٰتِ وَٱعْمَلُوا۟ صَٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌۭ
+23|52|وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ
+23|53|فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًۭا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ
+23|54|فَذَرْهُمْ فِى غَمْرَتِهِمْ حَتَّىٰ حِينٍ
+23|55|أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍۢ وَبَنِينَ
+23|56|نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ
+23|57|إِنَّ ٱلَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ
+23|58|وَٱلَّذِينَ هُم بِـَٔايَٰتِ رَبِّهِمْ يُؤْمِنُونَ
+23|59|وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ
+23|60|وَٱلَّذِينَ يُؤْتُونَ مَآ ءَاتَوا۟ وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَٰجِعُونَ
+23|61|أُو۟لَٰٓئِكَ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَهُمْ لَهَا سَٰبِقُونَ
+23|62|وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَٰبٌۭ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ
+23|63|بَلْ قُلُوبُهُمْ فِى غَمْرَةٍۢ مِّنْ هَٰذَا وَلَهُمْ أَعْمَٰلٌۭ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَٰمِلُونَ
+23|64|حَتَّىٰٓ إِذَآ أَخَذْنَا مُتْرَفِيهِم بِٱلْعَذَابِ إِذَا هُمْ يَجْـَٔرُونَ
+23|65|لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ
+23|66|قَدْ كَانَتْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ تَنكِصُونَ
+23|67|مُسْتَكْبِرِينَ بِهِۦ سَٰمِرًۭا تَهْجُرُونَ
+23|68|أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ
+23|69|أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ
+23|70|أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
+23|71|وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ
+23|72|أَمْ تَسْـَٔلُهُمْ خَرْجًۭا فَخَرَاجُ رَبِّكَ خَيْرٌۭ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ
+23|73|وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
+23|74|وَإِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ
+23|75|۞ وَلَوْ رَحِمْنَٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّۢ لَّلَجُّوا۟ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
+23|76|وَلَقَدْ أَخَذْنَٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ
+23|77|حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًۭا ذَا عَذَابٍۢ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ
+23|78|وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ
+23|79|وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+23|80|وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ
+23|81|بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ
+23|82|قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
+23|83|لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+23|84|قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
+23|85|سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
+23|86|قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
+23|87|سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ
+23|88|قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍۢ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
+23|89|سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ
+23|90|بَلْ أَتَيْنَٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَٰذِبُونَ
+23|91|مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍۢ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ ۚ إِذًۭا لَّذَهَبَ كُلُّ إِلَٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍۢ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+23|92|عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+23|93|قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ
+23|94|رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+23|95|وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَٰدِرُونَ
+23|96|ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
+23|97|وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ
+23|98|وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
+23|99|حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
+23|100|لَعَلِّىٓ أَعْمَلُ صَٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
+23|101|فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍۢ وَلَا يَتَسَآءَلُونَ
+23|102|فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+23|103|وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَٰلِدُونَ
+23|104|تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَٰلِحُونَ
+23|105|أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ
+23|106|قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًۭا ضَآلِّينَ
+23|107|رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَٰلِمُونَ
+23|108|قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ
+23|109|إِنَّهُۥ كَانَ فَرِيقٌۭ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
+23|110|فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ
+23|111|إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ
+23|112|قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ
+23|113|قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ فَسْـَٔلِ ٱلْعَآدِّينَ
+23|114|قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًۭا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
+23|115|أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+23|116|فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ
+23|117|وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرْهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ
+23|118|وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ
+23|1|TRULY, to a happy state shall attain the believers:
+23|2|those who humble themselves in their prayer,
+23|3|and who turn away from all that is frivolous,
+23|4|and who are intent on inner purity;
+23|5|and who are mindful of their chastity,
+23|6|[not giving way to their desires] with any but their spouses - that is, those whom they rightfully possess [through wedlock]:     for then, behold, they are free of  all blame,
+23|7|whereas such as seek to go beyond that [limit] are truly transgressors;
+23|8|and who are faithful to their trusts and to their pledges,
+23|9|and who guard their prayers [from all worldly intent].
+23|10|It is they, they who shall be the inheritors
+23|11|that will inherit the paradise; [and] therein shall they abide.
+23|12|NOW, INDEED, We create man out of the essence of clay,
+23|13|and then We cause him to remain as a drop of sperm in [the wombs] firm keeping,
+23|14|and then We create out of the drop of sperm a germ-cell, and then We create out of the germ-cell an embryonic lump, and then We create within the embryonic lump bones, and then We clothe the bones with flesh - and then We bring [all] this into being as a new creation:
+23|15|And then, behold! after all this, you are destined to die;
+23|16|and then, behold! you shall be raised from the dead on Resurrection Day.
+23|17|And, indeed, We have created above you seven [celestial] orbits:     and never are We unmindful of [any aspect of Our] creation.
+23|18|And We send down water from the skies in accordance with a measure [set by Us], and then We cause it to lodge in the earth: but, behold, We are most certainly able to withdraw this [blessing]!
+23|19|And by means of this [water] We bring forth for you gardens of date-palms and vines, wherein you have fruit abundant and whereof you eat,
+23|20|as well as a tree that issues from [the lands adjoining] Mount Sinai,     yielding oil and relish for all to eat.
+23|21|And, behold, in the cattle [too] there is indeed a lesson for you: We give you to drink of that [milk] which is within their bellies; and you derive many [other] uses from them: for, you eat of their flesh,
+23|22|and by them - as by the ships [over the sea] - you are borne [overland].
+23|23|AND, INDEED, We sent forth Noah unto his people and he said:     “O my people! Worship God alone]: you have no deity other than Him. Will you not, then, become conscious of Him?”
+23|24|But the great ones among his people, who refused to acknowledge the truth, replied: “This [man] is nothing but a mortal like yourselves who wants to make himself superior to you! For, if God had willed [to convey a message unto us], He would surely have sent down angels; [moreover,] we have never heard [any&shy;thing like] this from our forebears of old!
+23|25|He is nothing but a madman: so bear with him for a while.”
+23|26|Said [Noah]: “O my Sustainer! Succour me against their accusation of lying!”
+23|27|Thereupon We inspired him thus: “Build, un&shy;der Our eyes     And when Our judgment comes to pass, and waters gush forth in torrents over the face of the earth, place on board of this [ark] one pair of each [kind of animal] of either sex, as well as thy family - excepting those on whom sentence has already been passed; and do not appeal to Me [any more] in behalf of those who are bent on evildoing - for, behold, they are destined to be drowned!
+23|28|“And as soon as thou and those who are with thee are settled in the ark, say: ‘All praise is due to God, who has saved us from those evildoing folk!’
+23|29|“And say: ‘O my Sustainer! Cause me to reach a destination blessed [by Thee]
+23|30|In this [story], behold, there are messages indeed [for those who think]: for, verily, We always put [man] to a test.
+23|31|AND AFTER those [people of old] We gave rise to new generations;
+23|32|and [every time] We sent unto them an apostle from among themselves, [he told them:] “Worship God [alone]: you have no deity other than Him. Will you not, then, become conscious of Him?”
+23|33|And [every time] the great ones among his people, who refused to acknowledge the truth and gave the lie to the announcement of a life to come - [simply] because We had granted them ease and plenty in [their] worldly life, and they had become corrupted by it     [every time] they would say: “This [man] is nothing hut a mortal like yourselves, eating of what you eat, and drinking of what you drink:
+23|34|and, indeed, if you pay heed to a mortal like your&shy;selves, you will surely be the losers!
+23|35|Does he promise you that, after you have died and become [mere] dust and bones, you shall be brought forth [to a new life]?
+23|36|Far-fetched, far-fetched indeed is what you are promised!
+23|37|There is no life beyond our life in this world: we die and we live [but once], and we shall never be raised from the dead!
+23|38|He is nothing but a man who attributes his own lying in&shy;ventions to God, and we are not going to believe him!”
+23|39|[Whereupon the prophet] would say: “O my Sustainer! Succour me against their accusation of lying!”
+23|40|[And God] would say: “After a little while they will surely be smitten with remorse!’’
+23|41|And then the blast [of Our punishment] over&shy;took them, justly and unavoidably,     and We caused them to become as the flotsam of dead leaves and the scum borne on the surface of a torrent: and so - away with those evildoing folk!
+23|42|AND AFTER them We gave rise to new genera&shy;tions:
+23|43|[for,] no community can ever forestall [the end of] its term - and neither can they delay [its coming].
+23|44|And We sent forth Our apostles, one after another: [and] every time their apostle came to a community, they gave him the lie: and so We caused them to follow one another [into the grave], and let them become [mere] tales: and so - away with the folk who would not believe!
+23|45|AND THEN We sent forth Moses and his brother Aaron with Our messages and a manifest authority [from Us]
+23|46|unto Pharaoh and his great ones;     but these behaved with arrogance, for they were people wont to glorify [only] themselves.
+23|47|And so they said: “Shall we believe [them] two mortals like ourselves - although their people are our slaves?”
+23|48|Thus, they gave the lie to those two, and earned (thereby) their place among the doomed:
+23|49|for, indeed, We had vouchsafed revelation unto Moses in order that they might find the right way.
+23|50|And [as We exalted Moses, so, too,] We made the son of Mary and his mother a symbol [of Our grace],
+23|51|O YOU APOSTLES! Partake of the good things of life,     and do righteous deeds: verily, I have full knowledge of all that you do.
+23|52|And, verily, this community of yours is one single community, since I am the Sustainer of you all: remain, then, conscious of Me!
+23|53|But they (who claim to follow you) have torn their unity wide asunder,
+23|54|But leave them alone, lost in their ignorance, until a [future] time.
+23|55|Do they think that by all the wealth and offspring with which We provide them
+23|56|We [but want to] make them vie with one another in doing [what they consider] good works?     Nay, but they do not perceive [their error]!
+23|57|Verily, [only] they who stand in reverent awe of their Sustainer,
+23|58|and who believe in their Sus&shy;tainer’s messages,
+23|59|and who do not ascribe divinity to aught but their Sustainer,
+23|60|and who give whatever they [have to] give     with their hearts trembling at the thought that unto their Sustainer they must return:
+23|61|it is they who vie with one another in doing good works, and it is they who outrun [all others] in attaining to them!
+23|62|And [withal.] We do not burden any human being with more than he is well able to bear: for with Us is a record that speaks the truth [about what men do and can do]; and none shall be wronged.
+23|63|NAY, [as for those who have torn asunder the unity of faith] - their hearts are lost in ignorance of all this!      and they will [continue to] commit them
+23|64|until - after We shall have taken to task, through suffering, those from among them who [now] are lost in the pursuit of pleasures -    they cry out in [belated] supplication.
+23|65|[But they will be told:] “Cry not in supplication today: for, behold, you shall not he succoured by Us!
+23|66|Time and again     were My messages conveyed unto you, but [every time] you would turn about on your heels
+23|67|[and,] impelled by your arrogance, you would talk senselessly far into the night.”
+23|68|Have they, then, never tried to understand this word [of God]? Or has there [now] come to them something that never came to their forefathers of old?
+23|69|Or is it, perchance, that they have not recog&shy;nized their Apostle, and so they disavow him?
+23|70|Or do they say. “There is madness in him”? Nay, he has brought them the truth - and the truth do most of them detest!
+23|71|But if the truth     and from this their reminder they [heedlessly] turn away!
+23|72|Or dost thou [O Muhammad] ask of them any worldly recompense? But [they ought to know that] recompense from thy Sustainer is best, since He is the best of providers!
+23|73|And, verily, thou callest them onto a straight way –
+23|74|but, behold, those who will not believe in the life to come are bound to deviate from that way.
+23|75|And even were We to show them mercy and remove whatever distress might befall them [in this life],     they would still persist in their overweening arrogance, blindly stumbling to and fro.
+23|76|And, indeed, We tested them     through suffer&shy;ing, but they did not abase themselves before their Sustainer; and they will never humble them&shy;selves
+23|77|until We open before them a gate of [truly] severe suffering [in the life to come]: and then, lo! they will be broken in spirit.
+23|78|[O MEN! Pay heed to God’s messages,] for it is He who has endowed you with hearing, and sight, and minds: [yet] how seldom are you grateful!
+23|79|And He it is who has caused you to multiply on earth; and unto Him you shall be gathered.
+23|80|And He it is who grants life and deals death; and to Him is due the alternation of night and day. Will you not, then, use your reason?
+23|81|But nay, they speak as the people of olden times did speak:
+23|82|they say: “What! After we have died and become mere dust and bones, shall we, forsooth, be raised from the dead?
+23|83|Indeed, this [very thing] we have been promised - we and our forefathers - long ago! This is nothing but fables of ancient times!”
+23|84|Say: “Unto whom belongs the earth and all that lives there on?     [Tell me this] if you happen to know [the answer]!”
+23|85|[And they will reply: “Unto God.” Say: “Will you not, then, bethink yourselves [of Him]?”
+23|86|Say: “Who is it that sustains the seven heavens and is enthroned in His awesome almightiness?”
+23|87|[And] they will reply: “[All this power belongs] to God.” Say: “Will you not, then, remain conscious of Him?”
+23|88|Say: “In whose hand rests the mighty dominion over all things, and who is it that protects, the while there is no protection against Him? [Tell me this] if you happen to know [the answer]!”
+23|89|[And] they will reply: “[All this power belongs] to God.” Say:  ‘How, then, can you be so deluded?”
+23|90|Nay, We have conveyed unto them the truth: and yet, behold, they are intent on lying [to them&shy;selves]!
+23|91|Never did God take unto Himself any offspring,
+23|92|knowing all that is beyond the reach of a created being’s perception as well as all that can be witnessed by a creature’s senses or mind     and, hence, sublimely exalted is He above anything to which they may ascribe a share in His divinity!
+23|93|SAY: “O my Sustainer! If it be Thy will to let me witness     [the fulfillment of] whatever they [who blaspheme against Thee] have been promised [to suffer] –
+23|94|do not, O my Sustainer, let me be one of those evildoing folk!”
+23|95|[Pray thus] for, behold, We are most cer&shy;tainly able to let thee witness [the fulfillment, even in this world, of] whatever We promise them!
+23|96|[But whatever they may say or do,] repel the evil [which they commit] with something that is bet&shy;ter:     We are fully aware of what they attribute [to Us].
+23|97|And say: “O my Sustainer! I seek refuge with Thee from the promptings of all evil impulses;
+23|98|and I seek refuge with Thee, O my Sustainer, lest they come near unto me!’
+23|99|[AS FOR THOSE who will not believe in the life to come, they go on lying to themselves]
+23|100|so that I might act righteously in whatever I have failed [aforetime]!’’     Nay, it is indeed but a [meaningless] word that he utters: for behind those [who leave the world] there is a barrier [of death] until the Day when all will be raised from the dead!
+23|101|Then, when the trumpet [of resurrection] is blown, no ties of kinship will on that Day prevail among them, and neither will they ask about one another.
+23|102|And they whose weight [of righteousness] is heavy in the balance - it is they, they who will have attained to a happy state;
+23|103|whereas they whose weight is light in the balance - it is they who will have squandered their own selves, [destined] to abide in hell:
+23|104|the fire will scorch their faces, and they will abide therein with their lips distorted in pain.
+23|105|[And God will say:] “Were not My messages conveyed unto you, and were you [not] wont to give them the lie?”
+23|106|They will exclaim: “O our Sustainer! Our bad luck has overwhelmed us, and so we went astray!
+23|107|O our Sustainer! Cause us to come out of this [suffering] - and then, if ever We revert [to sinning], may we truly be [deemed] evildoers!”
+23|108|[But] He will say: “Away with you into this [ignominy]!     And speak no more unto Me!
+23|109|“Behold, there were among My servants such as would pray, ‘O our Sustainer! We have come to believe [in Thee]; forgive, then, our sins and bestow Thy mercy on us: for Thou art the truest bestower of mercy!’
+23|110|- but you made them a target of your derision to the point where it made you forget     all remembrance of Me; and you went on and on laugh&shy;ing at them.
+23|111|[But,] behold, today I have rewarded them for their patience in adversity: verily, it is they, they who have achieved a triumph!”
+23|112|[And] He will ask [the doomed]: “What number of years have you spent on earth?”
+23|113|They will answer: ‘We have spent there a day, or part of a day; but ask those who [are able to] count [time]…”
+23|114|[Whereupon] He will say: “You have spent there but a short while: had you but known [how short it was to be]!
+23|115|Did you, then, think that We created you in mere idle play, and that you would not have to return to Us?”
+23|116|[KNOW,] then, [that] God is sublimely exalted, the Ultimate Sovereign, the Ultimate Truth:
+23|117|Hence, he who invokes, side by side with God, any other deity [- a deity] for whose existence he has no evidence - shall but find his reckoning with his Sustainer: [and,] verily, such deniers of the truth will never attain to a happy state!
+23|118|Hence, [O believer,] say: “O my Sustainer! Grant [me] forgiveness and bestow Thy mercy [upon me]: for Thou art the truest bestower of mercy!”

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.drbt.holyquran.MainActivity"
+    android:orientation="vertical"
+    android:id="@+id/mainlayout"
+    android:background="@drawable/border"
+    android:fadeScrollbars="true">
+
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="40dp"
+    android:layout_marginRight="40dp"
+    android:layout_marginTop="190dp"
+    android:text="Suras"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/suraList"
+    android:onClick="suraList"
+    android:background="#333333"
+    android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:text="About us"
+        android:onClick="aboutUs"
+        android:background="#333333"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:text="Rate this app!"
+        android:onClick="rateApp"
+        android:background="#333333"
+        android:textColor="#ffffff"/>
+</LinearLayout>
+

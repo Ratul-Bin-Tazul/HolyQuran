@@ -1,0 +1,104 @@
+68|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
+68|2|مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍۢ
+68|3|وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍۢ
+68|4|وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ
+68|5|فَسَتُبْصِرُ وَيُبْصِرُونَ
+68|6|بِأَييِّكُمُ ٱلْمَفْتُونُ
+68|7|إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+68|8|فَلَا تُطِعِ ٱلْمُكَذِّبِينَ
+68|9|وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
+68|10|وَلَا تُطِعْ كُلَّ حَلَّافٍۢ مَّهِينٍ
+68|11|هَمَّازٍۢ مَّشَّآءٍۭ بِنَمِيمٍۢ
+68|12|مَّنَّاعٍۢ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
+68|13|عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
+68|14|أَن كَانَ ذَا مَالٍۢ وَبَنِينَ
+68|15|إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+68|16|سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+68|17|إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ
+68|18|وَلَا يَسْتَثْنُونَ
+68|19|فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ
+68|20|فَأَصْبَحَتْ كَٱلصَّرِيمِ
+68|21|فَتَنَادَوْا۟ مُصْبِحِينَ
+68|22|أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
+68|23|فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
+68|24|أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌۭ
+68|25|وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَٰدِرِينَ
+68|26|فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ
+68|27|بَلْ نَحْنُ مَحْرُومُونَ
+68|28|قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
+68|29|قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ
+68|30|فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَٰوَمُونَ
+68|31|قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ
+68|32|عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ
+68|33|كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+68|34|إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّٰتِ ٱلنَّعِيمِ
+68|35|أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ
+68|36|مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+68|37|أَمْ لَكُمْ كِتَٰبٌۭ فِيهِ تَدْرُسُونَ
+68|38|إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
+68|39|أَمْ لَكُمْ أَيْمَٰنٌ عَلَيْنَا بَٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
+68|40|سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ
+68|41|أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَٰدِقِينَ
+68|42|يَوْمَ يُكْشَفُ عَن سَاقٍۢ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ
+68|43|خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
+68|44|فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ
+68|45|وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ
+68|46|أَمْ تَسْـَٔلُهُمْ أَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ
+68|47|أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+68|48|فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌۭ
+68|49|لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌۭ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌۭ
+68|50|فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+68|51|وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌۭ
+68|52|وَمَا هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ
+68|1|Nun.
+68|2|Thou art not, by thy Sustainer's grace, a madman!
+68|3|And, verily, thine shall be a reward neverending –
+68|4|for, behold, thou keepest indeed to a sublime way of life;
+68|5|and [one day] thou shalt see, and they [who now deride thee] shall see,
+68|6|which of you was bereft of reason.
+68|7|Verily, thy Sustainer alone is fully aware as to who has strayed from His path, Just as He alone is fully aware of those who have found the right way.
+68|8|Hence, defer not to [the likes and dislikes of] those who give the lie to the truth:
+68|9|they would like thee to be soft [with them], so that they might be soft [with thee].
+68|10|Furthermore,     defer not to the contemptible swearer of oaths,
+68|11|[or to] the slanderer that goes about with defaming tales,
+68|12|[or] the withholder of good, [or] the sinful aggressor,
+68|13|[or] one who is cruel, by greed possessed,
+68|14|Is it because he is possessed of worldly goods and children
+68|15|that, whenever Our messages are conveyed to him, such a one says, "Fables of ancient times"?
+68|16|[For this] We shall brand him with indelible disgrace!
+68|17|[As for such sinners,] behold, We [but] try them     as We tried the owners of a certain garden who vowed that they would surely harvest its fruit on the morrow,
+68|18|and made no allowance [for the will of God]:
+68|19|whereupon a visitation for thy Sustainer came upon that [garden] while they were asleep,
+68|20|so that by the morrow it became barren and bleak.
+68|21|Now when they rose at early morn, they called unto one another,
+68|22|"Go early to your tilth if you want to harvest the fruit!"
+68|23|Thus they launched forth, whispering unto one another,
+68|24|"Indeed, no needy person shall enter it today [and come] upon you [unawares],"
+68|25|– and early they went, strongly bent upon their purpose.
+68|26|But as soon as they beheld [the garden and could not recognize] it, they exclaimed, "Surely we have lost our way!"
+68|27|- [and then,] "Nay, but we have been rendered destitute!"
+68|28|Said the most right-minded among them: "Did I not tell you, 'Will you not extol God's limitless glory?’"
+68|29|They answered: "Limitless in His glory is our Sustainer! Verily, we were doing wrong!"
+68|30|- and then they turned upon one another with mutual reproaches.
+68|31|[In the end] they said: "Oh, woe unto us! Verily, we did behave outrageously!
+68|32|[But] it may be that our Sustainer will grant us something better instead:     for, verily, unto our Sustainer do we turn with hope!"
+68|33|SUCH is the suffering [with which We try some people in this world];     but greater by far will be the suffering [which sinners shall have to bear] in the life to come - if they but knew it!
+68|34|For, behold, it is the God-conscious [alone] whom gardens of bliss await with their Sustainer:
+68|35|or should We, perchance, treat those who surrender themselves unto Us     as [We would treat] those who remain lost in sin?
+68|36|What is amiss with you?     On what do you base your judgment [of right and wrong]?
+68|37|Or have you, perchance, a [special] divine writ which you study,
+68|38|and in which you find all that you may wish to find?
+68|39|Or have you received a solemn promise, binding on Us till Resurrection Day, that yours will assuredly be whatever you judge [to be your rightful due]?
+68|40|Ask them which of them is able to vouch for this!
+68|41|Or have they, perchance, anys ages to support their views?     Well, then, if they are sincere in this their claim, let them produce those supporters of theirs
+68|42|on the Day when man's very being shall be bared to the bone,     and shall be unable to do so:
+68|43|downcast will be their eyes, with ignominy overwhelming them - seeing that they had been called upon [in vain] to prostrate themselves [before Him] while they were yet sound [and alive].
+68|44|Hence, leave Me alone with such as give the lie to this tiding.
+68|45|for, behold, though I may give them rein for a while, My subtle scheme is exceedingly firm!
+68|46|Or is it that [they fear lest] thou ask them for a reward, [O Prophet,] so that they would be burdened with debt [if they listened to thee]?
+68|47|Or [do they think] that the hidden reality [of all that exists] is within their grasp, so that [in time] they can write it down?
+68|48|BEAR THEN with patience thy Sustainer's will and be not like him of the great fish, who cried out [in distress] after having given in to anger.
+68|49|[And remember:] had not grace from his Sustainer reached him,
+68|50|but [as it was,] his Sustainer had elected him and placed him among the righteous.
+68|51|Hence, [be patient,] even though they who are bent on denying the truth would all but kill thee with their eyes whenever they hear this reminder, and [though] they say, "[As for Mubammad,] behold, most surely he is a madman!"
+68|52|[Be patient:] for this is nought else but a reminder [from God] to all mankind.

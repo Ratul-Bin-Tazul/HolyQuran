@@ -1,0 +1,98 @@
+52|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلطُّورِ
+52|2|وَكِتَٰبٍۢ مَّسْطُورٍۢ
+52|3|فِى رَقٍّۢ مَّنشُورٍۢ
+52|4|وَٱلْبَيْتِ ٱلْمَعْمُورِ
+52|5|وَٱلسَّقْفِ ٱلْمَرْفُوعِ
+52|6|وَٱلْبَحْرِ ٱلْمَسْجُورِ
+52|7|إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌۭ
+52|8|مَّا لَهُۥ مِن دَافِعٍۢ
+52|9|يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا
+52|10|وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا
+52|11|فَوَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
+52|12|ٱلَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ
+52|13|يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
+52|14|هَٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+52|15|أَفَسِحْرٌ هَٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ
+52|16|ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
+52|17|إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَنَعِيمٍۢ
+52|18|فَٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ
+52|19|كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
+52|20|مُتَّكِـِٔينَ عَلَىٰ سُرُرٍۢ مَّصْفُوفَةٍۢ ۖ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍۢ
+52|21|وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ
+52|22|وَأَمْدَدْنَٰهُم بِفَٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ
+52|23|يَتَنَٰزَعُونَ فِيهَا كَأْسًۭا لَّا لَغْوٌۭ فِيهَا وَلَا تَأْثِيمٌۭ
+52|24|۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌۭ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌۭ
+52|25|وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
+52|26|قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ
+52|27|فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
+52|28|إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ
+52|29|فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍ
+52|30|أَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ
+52|31|قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ
+52|32|أَمْ تَأْمُرُهُمْ أَحْلَٰمُهُم بِهَٰذَآ ۚ أَمْ هُمْ قَوْمٌۭ طَاغُونَ
+52|33|أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ
+52|34|فَلْيَأْتُوا۟ بِحَدِيثٍۢ مِّثْلِهِۦٓ إِن كَانُوا۟ صَٰدِقِينَ
+52|35|أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ
+52|36|أَمْ خَلَقُوا۟ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ
+52|37|أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+52|38|أَمْ لَهُمْ سُلَّمٌۭ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍۢ مُّبِينٍ
+52|39|أَمْ لَهُ ٱلْبَنَٰتُ وَلَكُمُ ٱلْبَنُونَ
+52|40|أَمْ تَسْـَٔلُهُمْ أَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ
+52|41|أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+52|42|أَمْ يُرِيدُونَ كَيْدًۭا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ
+52|43|أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+52|44|وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ
+52|45|فَذَرْهُمْ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ
+52|46|يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ
+52|47|وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًۭا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+52|48|وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ
+52|49|وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ
+52|1|CONSIDER Mount Sinai !
+52|2|Consider [God’s] revelation, inscribed
+52|3|on wide-open scrolls.
+52|4|Consider the long-enduring house [of worship]!
+52|5|Consider the vault [of heaven] raised high!
+52|6|Consider the surf-swollen sea!
+52|7|VERILY, [O man,] the suffering decreed by thy Sustainer [for the sinners] will indeed come to pass:
+52|8|there is none who could avert it.
+52|9|[It will come to pass] on the Day when the skies will be convulsed in [a great] convulsion,
+52|10|and the mountains will move with [an awesome] movement.
+52|11|Woe, then, on that Day to all who give the lie to the truth –
+52|12|all those who [throughout their lives] but idly played with things vain –
+52|13|on the Day when they shall be thrust into the fire with [an irresistible] thrust, [and will be told:]
+52|14|“This is the fire which you were wont to call a lie!
+52|15|Was it, then, a delusion     or is it that you failed to see [its truth]?
+52|16|Endure it [now]! But [whether you] bear yourselves with patience or without patience, it will be the same to you: you are but being requited for what you were wont to do.”
+52|17|[But,] verily, the God-conscious will find themselves [on that Day] in gardens and in bliss,
+52|18|rejoicing in all that their Sustainer will have granted them: for their Sustainer will have warded off from them all suffering through the blazing fire.
+52|19|[And they will be told:] “Eat and drink with good cheer as an outcome of what you were wont to do,
+52|20|reclining on couches [of happiness] ranged in rows!”
+52|21|And as for those who have attained to faith and whose offspring will have followed them in faith, We shall unite them with their offspring; and We shall not let aught of their deeds go to waste:
+52|22|And We shall bestow on them fruit and meat in abundance - whatever they may desire:
+52|23|and in that [paradise] they shall pass on to one another a cup which will not give rise to empty talk, and neither incite to sin.
+52|24|And they will be waited upon by [immortal] youths,     [as pure] as if they were pearls hidden in their shells.
+52|25|And they [who are thus blest] will turn to one another, asking each other [about their past lives].
+52|26|They will say: “Behold, aforetime - when we were [still living] in the midst of our kith and kin - we were full of fear [at the thought of God’s dis&shy;pleasure]:
+52|27|and so God has graced us with His favour, and has warded off from us all suffering through the scorching winds [of frustration].
+52|28|Verily, we did invoke Him [alone] ere this: [and now He has shown us]     that He alone is truly benign, a true dispenser of grace!”
+52|29|EXHORT, then, [O Prophet, all men:] for, by thy Sustainer’s grace, thou art neither a soothsayer nor a madman.
+52|30|Or do they say, “[He is but] a poet - let us wait what time will do unto him”?
+52|31|Say thou: “Wait, [then,] hopefully; behold, I, too, shall hopefully wait with you!”
+52|32|Is it their minds that bid them [to take] this [attitude] - or are they [simply] people filled with overweening arrogance?
+52|33|Or do they say, “He himself has composed this [message]”? Nay, but they are not willing to believe!
+52|34|But then, [if they deem it the work of a mere mortal,] let them produce another discourse like it - if what they say be true!
+52|35|[Or do they deny the existence of God?]     or were they, perchance, their own creators?
+52|36|[And] have they created the heavens and the earth?     Nay, but they have no certainty of anything!
+52|37|[How could they?] Are thy Sustainer’s treasures with them?     Or are they in charge [of destiny]?
+52|38|Or have they a ladder by which they could [ascend to ultimate truths and] listen [to what is beyond the reach of human perception]? Let, then, any of them who have listened [to it] produce a manifest proof [of his knowledge]!
+52|39|Or, [if you believe in God, how can you believe that] He has [chosen to have] daughters, whereas you yourselves would have [only] sons?
+52|40|Or is it that [they who reject thy message, O Muhammad, fear lest] thou ask of them a reward, so that they would be burdened with debt [if they should listen to thee]?
+52|41|Or [do they think] that the hidden reality [of all that exists] is almost within their grasp, so that [in time] they can write it down?
+52|42|Or do they want to entrap [thee in contradic&shy;tions]? But they who are bent on denying the truth - it is they who are truly entrapped!
+52|43|Have they, then, any deity other than God? Utterly remote is God, in His limitless glory, from anything to which men may ascribe a share in His divinity!
+52|44|AND YET, if they [who refuse to see the truth] were to see part of the sky falling down, they would [only] say, “[It is but] a mass of clouds!”
+52|45|Hence, leave them alone until they face that [Judgment] Day of theirs, when they will be stricken with terror:
+52|46|the Day when none of their scheming will be of the least avail to them, and they will receive no succour.
+52|47|But, verily, for those who are bent on doing evil, there is suffering in store [even] closer at hand than that [supreme suffering in the hereafter]: but most of them are not aware of it.
+52|48|And so, await in patience thy Sustainer’s judgment, for thou art well within Our sight.     And extol thy Sustainer’s limitless glory and praise whenever thou risest up,
+52|49|and extol His glory at night, and at the time when the stars retreat.

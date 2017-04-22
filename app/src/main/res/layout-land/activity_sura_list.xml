@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.drbt.holyquran.suraList"
+    android:background="@drawable/border"
+    android:paddingLeft="65dp"
+    android:paddingRight="65dp"
+    android:paddingBottom="30dp"
+    android:paddingTop="30dp">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:text="Al-fatiha"
+            android:onClick="fatiha"
+            android:background="#333333"
+            android:textColor="#ffffff" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-baqarah"
+                android:onClick="bakarah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-imran"
+                android:onClick="imran"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-nisa"
+                android:onClick="nisa"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-maidah"
+                android:onClick="maidah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-anaam"
+                android:onClick="anaam"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-aaraf"
+                android:onClick="aaraf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-aanfal"
+                android:onClick="aanfal"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-taubah"
+                android:onClick="taubah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="yunus"
+                android:onClick="yunus"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="hud"
+                android:onClick="hud"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="yusuf"
+                android:onClick="yusuf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ar-raad"
+                android:onClick="raad"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ibrahim"
+                android:onClick="ibrahim"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-hijr"
+                android:onClick="hijr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-nahl"
+                android:onClick="nahl"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-isra"
+                android:onClick="isra"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-kahf"
+                android:onClick="kahf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="maryam"
+                android:onClick="maryam"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="taha"
+                android:onClick="taha"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-anbiya"
+                android:onClick="anbiya"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-hajj"
+                android:onClick="hajj"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-muminoon"
+                android:onClick="muminoon"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-noor"
+                android:onClick="noor"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-furqan"
+                android:onClick="furqan"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ash-shuara"
+                android:onClick="shuara"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-naml"
+                android:onClick="naml"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qasas"
+                android:onClick="qasas"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-anqabut"
+                android:onClick="anqabut"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ar-room"
+                android:onClick="room"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="luqman"
+                android:onClick="luqman"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="as-sajdah"
+                android:onClick="sajdah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-ahzab"
+                android:onClick="ahzab"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="saba"
+                android:onClick="saba"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="fatir"
+                android:onClick="fatir"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ya-seen"
+                android:onClick="seen"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="as-saaffat"
+                android:onClick="saaffat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="sad"
+                android:onClick="sad"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="az-zumar"
+                android:onClick="zumar"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ghafir"
+                android:onClick="ghafir"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="fussilat"
+                android:onClick="fussilat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ash-shura"
+                android:onClick="shura"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="az-zukhuruf"
+                android:onClick="zukhuruf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ad-dukhan"
+                android:onClick="dukhan"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-jathiya"
+                android:onClick="jathiya"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-ahqaf"
+                android:onClick="ahqaf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="muhammad"
+                android:onClick="muhammad"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-fath"
+                android:onClick="fath"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-hujurat"
+                android:onClick="hujurat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="qaf"
+                android:onClick="qaf"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="adh-dhariyat"
+                android:onClick="dhariyat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-tur"
+                android:onClick="tur"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-najm"
+                android:onClick="najm"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qamar"
+                android:onClick="qamar"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ar-rahman"
+                android:onClick="rahman"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-waqiah"
+                android:onClick="waqiah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-hadid"
+                android:onClick="hadid"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-mujadilah"
+                android:onClick="mujadilah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-hashr"
+                android:onClick="hashr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-mumtahanah"
+                android:onClick="mumtahanah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="as-saff"
+                android:onClick="saff"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-jumuah"
+                android:onClick="jumuah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-munafiqoon"
+                android:onClick="munafiqoon"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-taghabun"
+                android:onClick="taghabun"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-talaq"
+                android:onClick="talaq"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-tahrim"
+                android:onClick="tahrim"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-mulk"
+                android:onClick="mulk"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qalam"
+                android:onClick="qalam"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-haaqqah"
+                android:onClick="haaqqah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-maaarij"
+                android:onClick="maaarij"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="nooh"
+                android:onClick="nooh"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-jinn"
+                android:onClick="jinn"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-muzzammil"
+                android:onClick="muzzammil"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-muddaththir"
+                android:onClick="muddaththir"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qiyamah"
+                android:onClick="qiyamah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-insan"
+                android:onClick="insan"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-mursalat"
+                android:onClick="mursalat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-naba"
+                android:onClick="naba"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="an-naziaat"
+                android:onClick="naziaat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="abasa"
+                android:onClick="abasa"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-takwir"
+                android:onClick="takwir"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-infitar"
+                android:onClick="infitar"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-mutaffifin"
+                android:onClick="mutaffifin"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-inshiqaq"
+                android:onClick="inshiqaq"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-tariq"
+                android:onClick="tariq"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-aala"
+                android:onClick="aala"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-ghashiya"
+                android:onClick="ghashiya"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-fajr"
+                android:onClick="fajr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-balad"
+                android:onClick="balad"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ash-shams"
+                android:onClick="shams"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-layl"
+                android:onClick="layl"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="ad-dhuha"
+                android:onClick="dhuha"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="as-sharh"
+                android:onClick="sharh"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-tin"
+                android:onClick="tin"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-aalaq"
+                android:onClick="aalaq"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qadr"
+                android:onClick="qadr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-bayyinah"
+                android:onClick="bayyinah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="az-zalzalah"
+                android:onClick="zalzalah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-aadiyat"
+                android:onClick="aadiyat"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-qariah"
+                android:onClick="qariah"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="at-takathur"
+                android:onClick="takathur"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-asr"
+                android:onClick="asr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-fil"
+                android:onClick="fil"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="quraish"
+                android:onClick="quraish"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-maaun"
+                android:onClick="maaun"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-kauther"
+                android:onClick="kauther"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-kafiroon"
+                android:onClick="kafiroon"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-nasr"
+                android:onClick="nasr"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-masad"
+                android:onClick="masad"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-ikhlas"
+                android:onClick="ikhlas"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-falaq"
+                android:onClick="falaq"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:text="al-nas"
+                android:onClick="nas"
+                android:background="#333333"
+                android:textColor="#ffffff" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

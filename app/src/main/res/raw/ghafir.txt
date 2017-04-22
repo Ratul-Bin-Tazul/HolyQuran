@@ -1,0 +1,170 @@
+40|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ
+40|2|تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْعَلِيمِ
+40|3|غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ ۖ لَآ إِلَٰهَ إِلَّا هُوَ ۖ إِلَيْهِ ٱلْمَصِيرُ
+40|4|مَا يُجَٰدِلُ فِىٓ ءَايَٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَٰدِ
+40|5|كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَٰدَلُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ
+40|6|وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ
+40|7|ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍۢ رَّحْمَةًۭ وَعِلْمًۭا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
+40|8|رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+40|9|وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+40|10|إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ
+40|11|قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ
+40|12|ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِىَ ٱللَّهُ وَحْدَهُۥ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِۦ تُؤْمِنُوا۟ ۚ فَٱلْحُكْمُ لِلَّهِ ٱلْعَلِىِّ ٱلْكَبِيرِ
+40|13|هُوَ ٱلَّذِى يُرِيكُمْ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًۭا ۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ
+40|14|فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ
+40|15|رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ
+40|16|يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
+40|17|ٱلْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ ٱلْيَوْمَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+40|18|وَأَنذِرْهُمْ يَوْمَ ٱلْءَازِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَٰظِمِينَ ۚ مَا لِلظَّٰلِمِينَ مِنْ حَمِيمٍۢ وَلَا شَفِيعٍۢ يُطَاعُ
+40|19|يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ
+40|20|وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+40|21|۞ أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ كَانُوا۟ مِن قَبْلِهِمْ ۚ كَانُوا۟ هُمْ أَشَدَّ مِنْهُمْ قُوَّةًۭ وَءَاثَارًۭا فِى ٱلْأَرْضِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ مِن وَاقٍۢ
+40|22|ذَٰلِكَ بِأَنَّهُمْ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَكَفَرُوا۟ فَأَخَذَهُمُ ٱللَّهُ ۚ إِنَّهُۥ قَوِىٌّۭ شَدِيدُ ٱلْعِقَابِ
+40|23|وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلْطَٰنٍۢ مُّبِينٍ
+40|24|إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌۭ كَذَّابٌۭ
+40|25|فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍۢ
+40|26|وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
+40|27|وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
+40|28|وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَٰذِبًۭا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ
+40|29|يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ
+40|30|وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
+40|31|مِثْلَ دَأْبِ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۚ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًۭا لِّلْعِبَادِ
+40|32|وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ
+40|33|يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ
+40|34|وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ
+40|35|ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ
+40|36|وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
+40|37|أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ
+40|38|وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ
+40|39|يَٰقَوْمِ إِنَّمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَٰعٌۭ وَإِنَّ ٱلْءَاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ
+40|40|مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا ۖ وَمَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ
+40|41|۞ وَيَٰقَوْمِ مَا لِىٓ أَدْعُوكُمْ إِلَى ٱلنَّجَوٰةِ وَتَدْعُونَنِىٓ إِلَى ٱلنَّارِ
+40|42|تَدْعُونَنِى لِأَكْفُرَ بِٱللَّهِ وَأُشْرِكَ بِهِۦ مَا لَيْسَ لِى بِهِۦ عِلْمٌۭ وَأَنَا۠ أَدْعُوكُمْ إِلَى ٱلْعَزِيزِ ٱلْغَفَّٰرِ
+40|43|لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ
+40|44|فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ
+40|45|فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ
+40|46|ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ
+40|47|وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ
+40|48|قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُلٌّۭ فِيهَآ إِنَّ ٱللَّهَ قَدْ حَكَمَ بَيْنَ ٱلْعِبَادِ
+40|49|وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًۭا مِّنَ ٱلْعَذَابِ
+40|50|قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَٰٓؤُا۟ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ
+40|51|إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ يَقُومُ ٱلْأَشْهَٰدُ
+40|52|يَوْمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
+40|53|وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْهُدَىٰ وَأَوْرَثْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ
+40|54|هُدًۭى وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
+40|55|فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ
+40|56|إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۙ إِن فِى صُدُورِهِمْ إِلَّا كِبْرٌۭ مَّا هُم بِبَٰلِغِيهِ ۚ فَٱسْتَعِذْ بِٱللَّهِ ۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+40|57|لَخَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+40|58|وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَلَا ٱلْمُسِىٓءُ ۚ قَلِيلًۭا مَّا تَتَذَكَّرُونَ
+40|59|إِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
+40|60|وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+40|61|ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
+40|62|ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ خَٰلِقُ كُلِّ شَىْءٍۢ لَّآ إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ
+40|63|كَذَٰلِكَ يُؤْفَكُ ٱلَّذِينَ كَانُوا۟ بِـَٔايَٰتِ ٱللَّهِ يَجْحَدُونَ
+40|64|ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًۭا وَٱلسَّمَآءَ بِنَآءًۭ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+40|65|هُوَ ٱلْحَىُّ لَآ إِلَٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+40|66|۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ
+40|67|هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ يُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًۭا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى وَلَعَلَّكُمْ تَعْقِلُونَ
+40|68|هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+40|69|أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ أَنَّىٰ يُصْرَفُونَ
+40|70|ٱلَّذِينَ كَذَّبُوا۟ بِٱلْكِتَٰبِ وَبِمَآ أَرْسَلْنَا بِهِۦ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ
+40|71|إِذِ ٱلْأَغْلَٰلُ فِىٓ أَعْنَٰقِهِمْ وَٱلسَّلَٰسِلُ يُسْحَبُونَ
+40|72|فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
+40|73|ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
+40|74|مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
+40|75|ذَٰلِكُم بِمَا كُنتُمْ تَفْرَحُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ
+40|76|ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
+40|77|فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ
+40|78|وَلَقَدْ أَرْسَلْنَا رُسُلًۭا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ فَإِذَا جَآءَ أَمْرُ ٱللَّهِ قُضِىَ بِٱلْحَقِّ وَخَسِرَ هُنَالِكَ ٱلْمُبْطِلُونَ
+40|79|ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَنْعَٰمَ لِتَرْكَبُوا۟ مِنْهَا وَمِنْهَا تَأْكُلُونَ
+40|80|وَلَكُمْ فِيهَا مَنَٰفِعُ وَلِتَبْلُغُوا۟ عَلَيْهَا حَاجَةًۭ فِى صُدُورِكُمْ وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
+40|81|وَيُرِيكُمْ ءَايَٰتِهِۦ فَأَىَّ ءَايَٰتِ ٱللَّهِ تُنكِرُونَ
+40|82|أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةًۭ وَءَاثَارًۭا فِى ٱلْأَرْضِ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+40|83|فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+40|84|فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
+40|85|فَلَمْ يَكُ يَنفَعُهُمْ إِيمَٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا ۖ سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ فِى عِبَادِهِۦ ۖ وَخَسِرَ هُنَالِكَ ٱلْكَٰفِرُونَ
+40|1|Ha. Mim.
+40|2|THE BESTOWAL from on high of this divine writ issues from God, the Almighty, the All-Know&shy;ing,
+40|3|forgiving sins and accepting repentance, severe in retribution, limitless in His bounty. There is no deity save Him: with Him is all jour&shy;neys’ end.
+40|4|NONE BUT THOSE who are bent on denying the truth would call God’s messages in question. But let it not deceive thee that they seem to be able to do as they please on earth:
+40|5|to the truth gave the lie, before their time, the people of Noah and, after them, all those [others] who were leagued together [against God’s message-bearers];     aiming to lay hands on him; and they contended [against his message] with fallacious arguments, so as to render void the truth thereby: but then I took them to task - and how awesome was My retribution!
+40|6|And thus shall thy Sustainer’s word come true against all who are bent on denying the truth: they shall find themselves in the fire [of hell].
+40|7|THEY WHO BEAR [within themselves the knowl&shy;edge of] the throne of [God’s] almightiness, as well as all who are near it,     extol their Sustainer’s limitless glory and praise, and have faith in Him, and ask forgiveness for all [others] who have attained to faith: “O our Sustainer! Thou embracest all things within [Thy] grace and knowledge: forgive, then, their sins unto those who repent and follow Thy path, and preserve them from suffering through the blazing fire!
+40|8|“And, O our Sustainer, bring them into the gardens of perpetual bliss     which Thou hast promised them, together with the righteous from among their forebears, and their spouses, and their offspring - for, verily, Thou alone art almighty, truly wise –
+40|9|and preserve them from [doing] evil deeds: for anyone whom on that Day [of Judgment] Thou wilt have preserved from [the taint of] evil deeds, him wilt Thou have graced with Thy mercy: and that, that will be the triumph supreme!”
+40|10|[But,] behold, as for those who are bent on denying the truth - [on that same Day] a voice will call out unto them:
+40|11|[Whereupon] they will exclaim: “O our Sus&shy;tainer! Twice hast Thou caused us to die, just as twice Thou hast brought us to life!
+40|12|[And they will be told:] “This [has befallen you] because, whenever the One God was invoked, you denied this truth; whereas, when divinity was ascribed to aught beside Him, you believed [in it]! But all judgment rests with God, the Exalted, the Great!”
+40|13|HE IT IS who shows you His wonders [in all nature], and sends down sustenance for you from the sky: but none bethinks himself [thereof] save those who are wont to turn to God.
+40|14|Invoke, then, God, sincere in your faith in Him alone, however hateful this may be to those who deny the truth!
+40|15|High above all orders [of being] is He, in almightiness enthroned.
+40|16|the Day when they shall come forth [from death], with nothing of themselves hidden from God. With whom will sovereignty rest on that Day? With God, the One who holds absolute sway over all that exists!
+40|17|On that Day will every human being be requited for what he has earned: no wrong [will be done] on that Day: verily, swift in reckoning is God!
+40|18|Hence, warn them of that Day which draws ever nearer, when the hearts will chokingly come up to the throats: no loving friend will the evildoers have, nor any intercessor who would be heeded:
+40|19|[for] He is aware of the [most] stealthy glance, and of all that the hearts would conceal.
+40|20|And God will judge in accordance with truth and justice, whereas those [beings] whom they invoke beside Him     cannot judge at all: for, verily, God alone is all-hearing, all-seeing.
+40|21|Have they, then, never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time? Greater were they in power than they are, and in the impact which they left on earth: but God took them to task for their sins, and they had none to defend them against God:
+40|22|this, because their apostles had come to them with all evidence of the truth, and yet they rejected it: and so God took them to task - for, verily, He is powerful, severe in retribution!
+40|23|THUS, INDEED, did We send Moses with Our mes&shy;sages and a manifest authority [from Us]
+40|24|unto Pharaoh, and Haman, and Qarun;     but they [only] said, “A spellbinder is he, a liar!”
+40|25|Now [as for Pharaoh and his followers,] when he came to them, setting forth the truth from Us, they said, “Slay the sons of those who share his beliefs,     and spare [only] their women!” - but the guile of those deniers of the truth could not lead to aught but failure.
+40|26|And Pharaoh said: “Leave it to me to slay Moses - and let him invoke his [alleged] sustainer!     Behold, I fear lest he cause you to change your religion, or lest he cause corruption to prevail in the land!”
+40|27|But Moses said: “With [Him who is] my Sus&shy;tainer as well as your Sustainer have I indeed found refuge from everyone who, immersed in false pride, will not believe in [the coming of] the Day of Reckon&shy;ing!”
+40|28|At that, a believing man of Pharaoh’s family, who [until then] had concealed his faith, exclaimed:
+40|29|“O my people! Yours is the dominion today, [and] most eminent are you on earth: but who will rescue us from God’s punishment, once it befalls us?” Said Pharaoh: “I but want to make you see what I see myself;     and I would never make you follow any path but that of rectitude!”
+40|30|Thereupon exclaimed he who had attained to faith: “O my people! Verily, I fear for you the like of what one day befell those others who were leagued together [against God’s truth] –
+40|31|the like of what happened to Noah’s people, and to [the tribes of] Ad and Thamud and those who came after them! And, withal, God does not will any wrong for His crea&shy;tures.
+40|32|“And, O my people, I fear for you [the coming of] that Day of [Judgment - the Day when you will be] calling unto one another [in distress] –
+40|33|the Day when you will [wish to] turn your backs and flee, having none to defend you against God: for he whom God lets go astray can never find any guide.
+40|34|“And [remember:] it was to you that Joseph came aforetime with all evidence of the truth; but you never ceased to throw doubt on all [the messages] that he brought you - so much so that when he died, you said, ‘Never will God send any apostle [even] after him!’      “In this way God lets go astray such as waste their own selves by throwing suspicion [on His revela&shy;tions] –
+40|35|such as would call God’s messages in question without having any evidence therefor:
+40|36|But Pharaoh said: “O Haman! Build me a lofty tower, that haply I may attain to the [right] means
+40|37|the means of approach to the heavens - and that [thus] I may have a look at the god of Moses:     for, behold, I am indeed certain that he is a liar!” And thus, goodly seemed unto Pharaoh the evil of his own doings, and so he was barred from the path [of truth]: and Pharaoh’s guile did not lead to aught but ruin.
+40|38|Still, the man who had attained to faith went on: “O my people! Follow me: I shall guide you onto the path of rectitude!
+40|39|“O my people! This worldly life is but a brief enjoyment, whereas, behold, the life to come is the home abiding.
+40|40|[There,] anyone who has done a bad deed will be requited with no more than the like thereof, whereas anyone, be it man or woman, who has done righteous deeds and is a believer withal - all such will enter paradise, wherein they shall be blest with good beyond all reckoning!
+40|41|“And, O my people, how is it that I summon you to salvation, the while you summon me to the fire?
+40|42|- [for] you call upon me to deny [the one&shy;ness of] God and to ascribe a share in His divinity to aught of which I cannot [possibly] have any knowl&shy;edge the while I summon you to [a cognition of] the Almighty, the All-Forgiving!
+40|43|“There is no doubt that what you summon me to is something that has no claim to being invoked either in this world or in the life to come - as [there is no doubt] that unto God is our return, and that they who have wasted their own selves shall find them&shy;selves in the fire:
+40|44|and at that time you will [have cause to] remember what I am telling you [now]. “But [as for me,] I commit myself unto God: for, verily, God sees all that is in [the hearts of] His servants.”
+40|45|And God preserved him from the evil of their scheming, whereas suffering vile was to encompass Pharaoh’s folk:
+40|46|the fire [of the hereafter - that fire] which they had been made to contemplate [in vain], morning and evening:     for on the Day when the Last Hour dawns [God will say], “Make Phar&shy;aoh’s folk enter upon suffering most severe!”
+40|47|AND LO! They [who in life were wont to deny the truth] will contend with one another in the fire [of the hereafter]; and then the weak will say unto those who had gloried in their arrogance, “Behold, we were but your followers: can you, then, relieve us of some [of our] share of this fire?”
+40|48|[to which] they who had [once] been arrogant will reply, “Behold, we are all in it [together]! Verily, God has judged between His creatures!”
+40|49|And they who are in the fire will say to the keepers of hell,      “Pray unto your Sustainer that He lighten, [though it be] for one day [only], this suffering of ours!”
+40|50|[But the keepers of hell] will ask, “Is it not [true] that your apostles came unto you with all evidence of the truth?” Those [in the fire] will reply, “Yea, indeed.” [And the keepers of hell] will say, “Pray, then!” - for the prayer of those who deny the truth cannot lead to aught but delusion.
+40|51|BEHOLD, We shall indeed succour Our apostles and those who have attained to faith, [both] in this world’s life and on the Day when all the witnesses shall stand up
+40|52|the Day when their excuses will be of no avail to the evildoers, seeing that their lot will be rejection from all that is good, and a woeful hereafter.
+40|53|And, indeed, We bestowed aforetime [Our] guidance on Moses, and [thus] made the children of Israel heirs to the divine writ [revealed to him]
+40|54|as a [means of] guidance and a reminder for those who were endowed with insight:
+40|55|hence, remain thou patient in adversity - for, verily, God’s promise always comes true - and ask forgiveness for thy sins, and extol thy Sustainer’s glory and praise by night and by day.
+40|56|Behold, as for those who call God’s messages in question without having any evidence therefore     seek thou, then, refuge with God - for, verily, He alone is all-hearing, all-seeing!
+40|57|Greater indeed than the creation of man is the creation of the heavens and the earth:     yet most men do not understand [what this implies].
+40|58|But [then,] the blind and the seeing are not equal; and neither [can] they who have attained to faith and do good works and the doers of evil [be deemed equal]. How seldom do you keep this in mind!
+40|59|Verily, the Last Hour is sure to come: of this there is no doubt; yet most men will not believe it.
+40|60|But your Sustainer says: “Call unto Me, [and] I shall respond to you!     Verily, they who are too proud to worship Me will enter hell, abased!”
+40|61|IT IS GOD who has made the night for you, so that you might rest therein, and the day, to make [you] see.     Behold, God is indeed limitless in His bounty unto man - but most men are ungrateful.
+40|62|Such is God, your Sustainer, the Creator of all that exists: there is no deity save Him. How perverted, then, are your minds!
+40|63|[For] thus it is: perverted are the minds of those who knowingly reject God’s messages.
+40|64|It is God who has made the earth a resting- place for you and the sky a canopy, and has formed you - and formed you so well     and provided for you sustenance out of the good things of life. Such is God, your Sustainer: hallowed, then, is God, the Sustainer of all the worlds!
+40|65|He is the Ever-Living; there is no deity save Him: call, then, unto Him [alone], sincere in your faith in Him. All praise is due to God, the Sustainer of all the worlds!
+40|66|Say: “Since all evidence of the truth has come to me from my Sustainer, I am forbidden to worship [any of] those beings whom you invoke instead of God; and I am bidden to surrender myself to the Sustainer of all the worlds.”
+40|67|It is He who creates you out of dust,     and that you might [learn to] use your reason.
+40|68|It is He who grants life and deals death; and when He wills a thing to be, He but says unto it, “Be” - and it is.
+40|69|ART THOU NOT aware of how far they who call God’s messages in question have lost sight of the truth?
+40|70|they who give the lie to this divine writ and [thus] to all [the messages] with which We sent forth Our apostles [of old]?     But in time they will come to know [how blind they have been: they will know it on Judgment Day],
+40|71|when they shall have to carry the shackles and chains [of their own making] around their necks,
+40|72|and are dragged into burning despair, and in the end become fuel for the fire [of hell].
+40|73|And then they will be asked: “Where now are those [powers] to which you were wont to ascribe divinity
+40|74|side by side with God?” They will answer: “They have forsaken us - or, rather, what we were wont to invoke aforetime did not exist at all!”
+40|75|this is an out&shy;come of your having arrogantly exulted on earth without any [concern for what is] right, and of your having been so full of self-conceit!
+40|76|Enter [now] the gates of hell, therein to abide: and how vile an abode for all who are given to false pride!”
+40|77|HENCE, remain thou patient in adversity - for, verily, God’s promise always comes true. And whether We show thee [in this world] something of what We hold in store for those [deniers of the truth], or whether We cause thee to die [ere that retribution takes place - know that, in the end], it is unto Us that they will be brought back.
+40|78|And, indeed, [O Muhammad,] We sent forth apostles before thy time; some of them We have mentioned to thee,
+40|79|It is God who [at all times works wonders for you:     thus, He] provides for you [all manner of] livestock, so that on some of them you may ride, and from some derive your food,
+40|80|and find [yet other] benefits in them;     for on them, as on ships, you are borne [through life].
+40|81|And [thus] He displays His wonders before you: which, then, of God’s wonders can you still deny?
+40|82|HAVE THEY, then, never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time? More numerous were they, and greater in power than they are, and in the impact which they left on earth: but all that they ever achieved was of no avail to them –
+40|83|for when their apostles came to them with all evidence of the truth, they arrogantly exulted in whatever knowledge they [already] possessed:
+40|84|And then, when they [clearly] beheld Our punishment,
+40|85|But their attaining to faith after they had beheld Our punishment could not possibly benefit them

@@ -1,0 +1,104 @@
+14|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ
+14|2|ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌۭ لِّلْكَٰفِرِينَ مِنْ عَذَابٍۢ شَدِيدٍ
+14|3|ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍۢ
+14|4|وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+14|5|وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ
+14|6|وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ
+14|7|وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ
+14|8|وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ
+14|9|أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّۢ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍۢ
+14|10|۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّۭ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍۢ مُّبِينٍۢ
+14|11|قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌۭ مِّثْلُكُمْ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+14|12|وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
+14|13|وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّٰلِمِينَ
+14|14|وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ
+14|15|وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍۢ
+14|16|مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍۢ صَدِيدٍۢ
+14|17|يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍۢ وَمَا هُوَ بِمَيِّتٍۢ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌۭ
+14|18|مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍۢ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍۢ ۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
+14|19|أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍۢ جَدِيدٍۢ
+14|20|وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍۢ
+14|21|وَبَرَزُوا۟ لِلَّهِ جَمِيعًۭا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍۢ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍۢ
+14|22|وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ
+14|23|وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَٰمٌ
+14|24|أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًۭا كَلِمَةًۭ طَيِّبَةًۭ كَشَجَرَةٍۢ طَيِّبَةٍ أَصْلُهَا ثَابِتٌۭ وَفَرْعُهَا فِى ٱلسَّمَآءِ
+14|25|تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+14|26|وَمَثَلُ كَلِمَةٍ خَبِيثَةٍۢ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍۢ
+14|27|يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ ۖ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ ۚ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ
+14|28|۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًۭا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ
+14|29|جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ
+14|30|وَجَعَلُوا۟ لِلَّهِ أَندَادًۭا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ
+14|31|قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا بَيْعٌۭ فِيهِ وَلَا خِلَٰلٌ
+14|32|ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًۭا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ
+14|33|وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ
+14|34|وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ
+14|35|وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ
+14|36|رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ
+14|37|رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ
+14|38|رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+14|39|ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ
+14|40|رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ
+14|41|رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ
+14|42|وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍۢ تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ
+14|43|مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌۭ
+14|44|وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍۢ
+14|45|وَسَكَنتُمْ فِى مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ
+14|46|وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ
+14|47|فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ رُسُلَهُۥٓ ۗ إِنَّ ٱللَّهَ عَزِيزٌۭ ذُو ٱنتِقَامٍۢ
+14|48|يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ ۖ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
+14|49|وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ
+14|50|سَرَابِيلُهُم مِّن قَطِرَانٍۢ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ
+14|51|لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍۢ مَّا كَسَبَتْ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+14|52|هَٰذَا بَلَٰغٌۭ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ وَلِيَذَّكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+14|1|Alif. Lam. Ra.    A DIVINE WRIT [is this -a revelation] which We have bestowed upon thee from on high in order that thou might bring forth all mankind, by their Sustainer's leave, out of the depths of darkness into the light: onto the way that leads to the Almighty, the One to whom all praise is due -
+14|2|to God, unto whom all that is in the heavens and all that is on earth belongs.  But woe unto those who deny the truth: for suffering severe
+14|3|awaits those who choose the life of this world as the sole object of their love,     preferring it to [all thought of] the life to come, and who turn others away from the path of God and try to make it appear crooked. Such as these have indeed gone far astray!
+14|4|AND NEVER have We sent forth any apostle otherwise than [with a message] in his own people's tongue, so that he might make [the truth] clear unto them;
+14|5|And [thus], indeed, have We sent forth Moses with Our messages [and this Our command]: "Lead thy people out of the depths of darkness into the light, and remind them of the Days of God!"    Verily, in this [reminder] there are messages indeed for all who are wholly patient in adversity and deeply grateful [to God].
+14|6|And, lo     -which was an awesome trial from your Sustainer.
+14|7|And [remember the time] when your Sustainer made [this promise] known: 'If you are grateful [to Me], I shall most certainly give you more and more;     but if you are ungrateful, verily, My chastisement will be severe indeed!"'
+14|8|And Moses added: "If you should [ever] deny the truth-you and whoever else lives on earth, all of you-[know that,] verily, God is indeed self-sufficient, ever to be praised!"
+14|9|HAVE THE STORIES of those [deniers of the truth] who lived before you never yet come within your ken - [the stories of] the people of Noah, and of [the tribes of] `Ad and Thamud, and of those who came after them? None knows them [now] save God.
+14|10|Said the apostles sent unto them:    [But] they replied: "You are nothing but mortal men like ourselves! You want to turn us away from what our forefathers were wont to worship: well, then, bring us a clear proof [of your being God's message-bearers]!"
+14|11|Their apostles answered them: "True, we are nothing but mortal men like yourselves: but God bestows His favour upon whomever He wills of His servants. Withal, it is not within our power to bring you a proof [of our mission], unless it be by God's leave-and [so] it is in God that all believers must place their trust.
+14|12|And how could we not place our trust in God, seeing that it is He who has shown us the path which we are to follow?    "Hence, we shall certainly bear with patience whatever hurt you may do us: for, all who have trust [in His existence] must place their trust in God [alone]!"
+14|13|But they who denied the truth spoke [thus] unto their apostles: "We shall most certainly expel you from our land, unless you return forthwith to our ways.     "Most certainly shall We destroy these evildoers,
+14|14|and most certainly shall We cause you to dwell on earth [long] after they have passed away:
+14|15|And they prayed [to God] that the truth be made to triumph.    And [thus it is:] every arrogant enemy of the truth shall be undone [in the life to come],
+14|16|with hell awaiting him;
+14|17|gulping it [unceasingly,] little by little, and yet hardly able to swallow it.     And death will beset him from every quarter - but he shall not die: for [yet more] severe suffering lies ahead of him.
+14|18|[This, then, is] the parable of those who are bent on denying their Sustainer: all their works
+14|19|ART THOU NOT aware that God has created the heavens and the earth in accordance with [an inner] truth?
+14|20|nor is this difficult for God.
+14|21|And all [mankind] will appear before God [on the Day of Judgment]; and then the weak     It is [now] all one, as far as we are concerned, whether we grieve impatiently or endure [our lot] with patience: there is no escape for us!"
+14|22|And when everything will have been decided, Satan will say: "Behold, God promised you something that was bound to come true!     there is grievous suffering in store.
+14|23|But those who shall have attained to faith and done righteous deeds will be brought into gardens through which running waters flow, therein to abide by their Sustainer's leave, and will be welcomed with the greeting, "Peace!"
+14|24|ART THOU NOT aware how God sets forth the parable of a good word?     [It is] like a good tree, firmly rooted, [reaching out] with its branches towards the sky,
+14|25|yielding its fruit at all times by its Sustainer's leave.  And [thus it is that] God propounds parables unto men,' so that they might bethink themselves [of the truth].
+14|26|And the parable of a corrupt word is that of a corrupt tree, torn up [from its roots] onto the face of the earth, wholly unable to endure.
+14|27|[Thus,] God grants firmness unto those who have attained to faith through the word that is unshakably true     for God does whatever He wills.
+14|28|ART THOU NOT aware of those who have preferred a denial of the truth to God's blessings,     and [thereby] invited their people to alight in that abode of utter desolation
+14|29|- hell - which they [themselves] will ' have to endure?     And how vile a state to settle in!
+14|30|For, they claimed that there are powers that could rival God,     and so they strayed from His path. Say: "Enjoy yourselves [in this world], but, verily, the fire will be your journey's end!"
+14|31|[And] tell [those of] My servants who have attained to faith that they should be constant in prayer and spend [in Our way], secretly and openly, out of what We provide for them as sustenance,
+14|32|[And remember that] it is God who has created the heavens and the earth, and who sends down water from the sky and thereby brings forth [all manner] of fruits for your sustenance; and who has made ships subservient to. you, so that they may sail through the sea at His behest; and has made the rivers subservient [to His laws, so that they be of use] to you;
+14|33|and has made the sun and the moon, both of them constant upon their courses, subservient [to His laws, so that they be of use] to you; and has made the night and the day subservient [to His laws, so that they be of use] to you.
+14|34|And [always] does He give you something out of what you may be asking of Him;     and should you try to count God's blessings, you could never compute them.  [And yet,] behold, man is indeed most persistent in wrongdoing, stubbornly ingrate!
+14|35|AND [remember the time] when Abraham spoke [thus]:     -
+14|36|for, verily, O my Sustainer, these [false objects of worship] have led many people astray!  "Hence, [only] he who follows me [in this my faith]~ is truly of me;     and as for him who disobeys me - Thou art, verily, much-forgiving, a dispenser of grace!
+14|37|"O our Sustainer! Behold, I have settled some of my offspring in a valley in which there is no arable land,     and grant them fruitful sustenance, so that they might have cause to be grateful.
+14|38|"O our Sustainer! Thou truly knowest all that we may hide [in our hearts] as well as all that we bring into the open:' for nothing whatever, be it on earth or in heaven, remains hidden from God.
+14|39|"All praise is due to God, who has bestowed upon me, in my old age, Ishmael and Isaac! Behold, my Sustainer hears indeed all prayer:
+14|40|[hence,] O my Sustainer, cause me and [some] of my offspring to remain constant in prayer!    "And, O our Sustainer, accept this my prayer:
+14|41|Grant Thy forgiveness unto me, and my parents, and all the believers, on the Day on which the [last] reckoning will come to pass!"
+14|42|AND DO NOT think that God is unaware of what the evildoers are doing: He but grants them respite until the Day when their eyes will stare in horror,
+14|43|the while they will be running confusedly to and fro, with their heads upraised [in supplication], unable to look away from what they shall behold,     and their hearts an abysmal void.
+14|44|Hence, warn men of the Day when this suffering may befall them, and when those who did wrong [in their lifetime] will exclaim: "O our Sustainer! Grant us respite for a short while, so that we might respond to Thy call and follow the apostles!"
+14|45|And yet, you dwelt in the dwelling-places of those who had sinned against their own selves [before your time],
+14|46|And [this retribution will befall all evildoers because] they devise that false imagery of theirs     - and all their false imagery is within God's knowledge.  [And never can the blasphemers prevail against the truth - not] even if their false imagery were so (well devised and so powerful] that mountains could be moved thereby.
+14|47|HENCE, do not think that God will fail to fulfil the promise which He gave to His apostles:     verily, God is almighty, an avenger of evil!
+14|48|[His promise will be fulfilled] on the Day when the earth shall be changed into another earth, as shall be the heavens     and when [all men] shall appear before God, the One who holds absolute sway over all that exists.
+14|49|For on that Day thou wilt see all who were lost in sin linked together in fetters,
+14|50|clothed in garments of black pitch, with fire veiling their faces.
+14|51|[And all shall be judged on that Day,] so that God may requite every human being for all that he has earned [in life]: verily, God is swift in reckoning!
+14|52|THIS IS A MESSAGE unto all mankind. Hence, let them be warned thereby, and let them know that He is the One and Only God; and let those who are endowed with insight take this to heart!
